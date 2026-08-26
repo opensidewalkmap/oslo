@@ -1,0 +1,196 @@
+{
+  "$schema": "https://raw.githubusercontent.com/kauevestena/oswm_codebase/main/metadata/schemas/oswm-metadata.schema.json",
+  "metadata_profile": {
+    "name": "OSWM Metadata Profile",
+    "version": "1.0.0",
+    "encoding": "application/json",
+    "alignment": "conceptual",
+    "domain": "mixed",
+    "aligned_with": [
+      {
+        "name": "ISO 15836-1:2017",
+        "role": "cross-domain resource description",
+        "url": "https://www.iso.org/standard/71339.html"
+      },
+      {
+        "name": "ISO 19115-1:2014",
+        "role": "geographic metadata fundamentals",
+        "url": "https://www.iso.org/standard/53798.html"
+      },
+      {
+        "name": "ISO 19115-2:2019",
+        "role": "acquisition and processing lineage",
+        "url": "https://www.iso.org/standard/67039.html"
+      },
+      {
+        "name": "ISO 19157-1:2023",
+        "role": "geographic data quality reporting",
+        "url": "https://www.iso.org/standard/78900.html"
+      }
+    ],
+    "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
+  },
+  "identifier": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/index.json",
+  "resource_type": "collection",
+  "title": "Curitiba — Update and version history",
+  "abstract": "Refresh status, OSM changeset monitoring, and feature-version history. This collection mirrors data/updates without changing the source data directory.",
+  "language": "en",
+  "responsible_parties": [
+    {
+      "name": "kauevestena",
+      "role": "pointOfContact",
+      "url": "https://github.com/kauevestena"
+    },
+    {
+      "name": "OpenSidewalkMap",
+      "role": "publisher",
+      "url": "https://github.com/kauevestena/opensidewalkmap_beta"
+    }
+  ],
+  "spatial": {
+    "scope": "node_coverage",
+    "bbox": [
+      -49.38914,
+      -25.6435043,
+      -49.1843182,
+      -25.3449505
+    ],
+    "bbox_order": [
+      "west",
+      "south",
+      "east",
+      "north"
+    ],
+    "reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+    "geometry": "https://kauevestena.github.io/opensidewalkmap_beta/data/boundaries/polygon.geojson"
+  },
+  "temporal": {
+    "updated": "2026-08-26T05:17:26-03:00",
+    "node_registry": {
+      "Data Fetching": "26/08/2026 05:15:02",
+      "Data Pre-Processing": "26/08/2026 05:15:07",
+      "Webmap Generation": "28/08/2024 07:33:01",
+      "Statistical Charts": "26/08/2026 05:17:26",
+      "Wiki check for keys": "23/08/2026 08:45:39",
+      "Data Quality Tool": "26/08/2026 05:17:11",
+      "Versioning Data": "26/07/2026 08:56:31",
+      "Completeness Analysis": "17/07/2026 21:42:02",
+      "Completeness Analysis (Alt)": "17/07/2026 13:23:15"
+    }
+  },
+  "lineage": {
+    "process_description": "Generated from node workflow executions and OpenStreetMap history services.",
+    "sources": [
+      "OpenStreetMap",
+      "ohsome API",
+      "OSWM workflows"
+    ]
+  },
+  "quality": {
+    "scope": "resource",
+    "standard": "ISO 19157-1:2023",
+    "statement": "The record reports provenance and technical integrity. It does not assert a universal fitness-for-use threshold.",
+    "related_report": "https://kauevestena.github.io/opensidewalkmap_beta/quality_check/index.json"
+  },
+  "rights": {
+    "statement": "Licensing and attribution follow the upstream sources and the specific distribution being described."
+  },
+  "metadata_generation": {
+    "generator": "oswm_codebase.metadata.metadata_generation",
+    "profile_version": "1.0.0",
+    "generated_at": "2026-08-26T05:17:26-03:00",
+    "code": {
+      "repository": "https://github.com/kauevestena/oswm_codebase",
+      "commit": "42d1f4fe32942a27423bc028fef0341a2627139b",
+      "commit_date": "2026-08-05T18:24:38-03:00"
+    },
+    "source_root": "data",
+    "deterministic": true
+  },
+  "assets": [
+    {
+      "title": "Changeset Cache",
+      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/changeset_cache.json",
+      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/changeset_cache.json.metadata.json",
+      "media_type": "application/json",
+      "format": "JSON",
+      "byte_size": 2055,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "7d65fb4e4f0c1f825ec90382e4eec0857934f913d6db4046e39ee824a8c142cc"
+      }
+    },
+    {
+      "title": "Index",
+      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/index.html",
+      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/index.html.metadata.json",
+      "media_type": "text/html",
+      "format": "HTML",
+      "byte_size": 3496,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "5e8fce590020adcaf656155a3a1a14704255e7a6310e3197290d8fcadb7b0341"
+      }
+    },
+    {
+      "title": "Registry",
+      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/registry.json",
+      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/registry.json.metadata.json",
+      "media_type": "application/json",
+      "format": "JSON",
+      "byte_size": 447,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "267ff109bf341cce901c5989ae111f15b62b42c6382af2a806ead2ec21da64d1"
+      }
+    },
+    {
+      "title": "Watcher History",
+      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/watcher_history.json",
+      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/watcher_history.json.metadata.json",
+      "media_type": "application/json",
+      "format": "JSON",
+      "byte_size": 93433,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "0fc7c2985817667c0a012e28e4dd530aa63bd599e7263d866923210e86b83060"
+      }
+    },
+    {
+      "title": "Yesterday",
+      "resource": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/yesterday.json",
+      "metadata": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/yesterday.json.metadata.json",
+      "media_type": "application/json",
+      "format": "JSON",
+      "byte_size": 724,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "1ff55f502063702f1643e1da5d4369f30530b7de743154ab24b9783c35315d93"
+      }
+    }
+  ],
+  "collections": [
+    {
+      "title": "Versioning",
+      "path": "metadata/updates/versioning/index.json",
+      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/versioning/index.json"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/updates/index.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "describes",
+      "href": "https://kauevestena.github.io/opensidewalkmap_beta/data/updates/",
+      "type": "text/html"
+    },
+    {
+      "rel": "collection",
+      "href": "https://kauevestena.github.io/opensidewalkmap_beta/metadata/index.json",
+      "type": "application/json"
+    }
+  ]
+}
