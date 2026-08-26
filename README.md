@@ -1,4 +1,4 @@
-# OpenSidewalkMap, <CITYNAME>Oslo<CITYNAME> node
+# OpenSidewalkMap, <CITYNAME>Oslo, Norway<CITYNAME> node
 
 <!-- TODO: README SHALL BE GENERATED AUTOMATICALLY -->
 
