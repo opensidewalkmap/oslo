@@ -1378,6 +1378,25 @@ print(data)</pre>
   },
   {
     "category": "Data (Parquet & GeoJSON)",
+    "path": "data/hazard_analysis/features_blind.geojson",
+    "format": "GeoJSON",
+    "description": "Asset file: features_blind.geojson",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview GeoJSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "gdal",
+        "curl"
+      ],
+      "attribute_filter": "id IS NOT NULL"
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/features_blind.geojson.metadata.json"
+  },
+  {
+    "category": "Data (Parquet & GeoJSON)",
     "path": "data/hazard_analysis/features_blind.parquet",
     "format": "GeoParquet",
     "description": "Asset file: features_blind.parquet",
@@ -1393,6 +1412,25 @@ print(data)</pre>
     },
     "deliverable": "hazard_analysis",
     "metadata_path": "metadata/hazard_analysis/features_blind.parquet.metadata.json"
+  },
+  {
+    "category": "Data (Parquet & GeoJSON)",
+    "path": "data/hazard_analysis/features_elderly.geojson",
+    "format": "GeoJSON",
+    "description": "Asset file: features_elderly.geojson",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview GeoJSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "gdal",
+        "curl"
+      ],
+      "attribute_filter": "id IS NOT NULL"
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/features_elderly.geojson.metadata.json"
   },
   {
     "category": "Data (Parquet & GeoJSON)",
@@ -1414,6 +1452,25 @@ print(data)</pre>
   },
   {
     "category": "Data (Parquet & GeoJSON)",
+    "path": "data/hazard_analysis/features_pedestrian.geojson",
+    "format": "GeoJSON",
+    "description": "Asset file: features_pedestrian.geojson",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview GeoJSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "gdal",
+        "curl"
+      ],
+      "attribute_filter": "id IS NOT NULL"
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/features_pedestrian.geojson.metadata.json"
+  },
+  {
+    "category": "Data (Parquet & GeoJSON)",
     "path": "data/hazard_analysis/features_pedestrian.parquet",
     "format": "GeoParquet",
     "description": "Asset file: features_pedestrian.parquet",
@@ -1429,6 +1486,25 @@ print(data)</pre>
     },
     "deliverable": "hazard_analysis",
     "metadata_path": "metadata/hazard_analysis/features_pedestrian.parquet.metadata.json"
+  },
+  {
+    "category": "Data (Parquet & GeoJSON)",
+    "path": "data/hazard_analysis/features_wheelchair.geojson",
+    "format": "GeoJSON",
+    "description": "Asset file: features_wheelchair.geojson",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview GeoJSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "gdal",
+        "curl"
+      ],
+      "attribute_filter": "id IS NOT NULL"
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/features_wheelchair.geojson.metadata.json"
   },
   {
     "category": "Data (Parquet & GeoJSON)",
@@ -1464,6 +1540,23 @@ print(data)</pre>
     },
     "deliverable": "map_data",
     "metadata_path": "metadata/updates/changeset_cache.json.metadata.json"
+  },
+  {
+    "category": "Data Aging & Versioning",
+    "path": "data/updates/pipeline_decision.json",
+    "format": "JSON",
+    "description": "Asset file: pipeline_decision.json",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/updates/pipeline_decision.json.metadata.json"
   },
   {
     "category": "Data Aging & Versioning",
@@ -1549,6 +1642,23 @@ print(data)</pre>
     },
     "deliverable": "map_data",
     "metadata_path": "metadata/updates/versioning/sidewalks_versioning.json.metadata.json"
+  },
+  {
+    "category": "Data Aging & Versioning",
+    "path": "data/updates/watcher_decision.json",
+    "format": "JSON",
+    "description": "Asset file: watcher_decision.json",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/updates/watcher_decision.json.metadata.json"
   },
   {
     "category": "Data Aging & Versioning",
@@ -1942,6 +2052,42 @@ print(data)</pre>
   },
   {
     "category": "Global Quality Metrics",
+    "path": "quality_check/map.geojson",
+    "format": "GeoJSON",
+    "description": "Data quality asset file: map.geojson",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview GeoJSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "gdal",
+        "curl"
+      ],
+      "attribute_filter": "id IS NOT NULL"
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "Global Quality Metrics",
+    "path": "quality_check/map_registry.json",
+    "format": "JSON",
+    "description": "Data quality asset file: map_registry.json",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "Global Quality Metrics",
     "path": "quality_check/unique_tag_values.json",
     "format": "JSON",
     "description": "Unique tag keys and values found across all downloaded features.",
@@ -1976,9 +2122,43 @@ print(data)</pre>
   },
   {
     "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/features_blind.geojson.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_blind.geojson.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
     "path": "metadata/hazard_analysis/features_blind.parquet.metadata.json",
     "format": "JSON",
     "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoParquet distribution at data/hazard_analysis/features_blind.parquet.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/features_elderly.geojson.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_elderly.geojson.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -2010,9 +2190,43 @@ print(data)</pre>
   },
   {
     "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/features_pedestrian.geojson.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_pedestrian.geojson.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
     "path": "metadata/hazard_analysis/features_pedestrian.parquet.metadata.json",
     "format": "JSON",
     "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoParquet distribution at data/hazard_analysis/features_pedestrian.parquet.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_wheelchair.geojson.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -2132,6 +2346,74 @@ print(data)</pre>
     "path": "metadata/hazard_analysis/terrain.json.metadata.json",
     "format": "JSON",
     "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the JSON distribution at data/hazard_analysis/terrain.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/terrain_blind.png.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the PNG distribution at data/hazard_analysis/terrain_blind.png.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/terrain_elderly.png.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the PNG distribution at data/hazard_analysis/terrain_elderly.png.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/terrain_pedestrian.png.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the PNG distribution at data/hazard_analysis/terrain_pedestrian.png.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Hazard Analysis Metadata",
+    "path": "metadata/hazard_analysis/terrain_wheelchair.png.metadata.json",
+    "format": "JSON",
+    "description": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the PNG distribution at data/hazard_analysis/terrain_wheelchair.png.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -2301,6 +2583,23 @@ print(data)</pre>
     "path": "quality_check/json/crossings/keys_without_wiki.json",
     "format": "JSON",
     "description": "Validation check results (Keys Without Wiki) for crossings in JSON format.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "JSON Quality Checks",
+    "path": "quality_check/json/crossings/missing_tags.json",
+    "format": "JSON",
+    "description": "Validation check results (Missing Tags) for crossings in JSON format.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -2502,6 +2801,23 @@ print(data)</pre>
   },
   {
     "category": "JSON Quality Checks",
+    "path": "quality_check/json/kerbs/missing_tags.json",
+    "format": "JSON",
+    "description": "Validation check results (Missing Tags) for kerbs in JSON format.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "JSON Quality Checks",
     "path": "quality_check/json/kerbs/older_than_five_years.json",
     "format": "JSON",
     "description": "Validation check results (Older Than Five Years) for kerbs in JSON format.",
@@ -2689,6 +3005,23 @@ print(data)</pre>
   },
   {
     "category": "JSON Quality Checks",
+    "path": "quality_check/json/other_footways/missing_tags.json",
+    "format": "JSON",
+    "description": "Validation check results (Missing Tags) for other_footways in JSON format.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "JSON Quality Checks",
     "path": "quality_check/json/other_footways/older_than_five_years.json",
     "format": "JSON",
     "description": "Validation check results (Older Than Five Years) for other_footways in JSON format.",
@@ -2862,6 +3195,23 @@ print(data)</pre>
     "path": "quality_check/json/sidewalks/keys_without_wiki.json",
     "format": "JSON",
     "description": "Validation check results (Keys Without Wiki) for sidewalks in JSON format.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "JSON Quality Checks",
+    "path": "quality_check/json/sidewalks/missing_tags.json",
+    "format": "JSON",
+    "description": "Validation check results (Missing Tags) for sidewalks in JSON format.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -3865,6 +4215,41 @@ print(data)</pre>
   },
   {
     "category": "Routing & Demos",
+    "path": "data/routing/network.oswmg",
+    "format": "OSWM Binary Graph",
+    "description": "Versioned typed-array routing topology with profile weights and an indexed segment lookup for the browser worker.",
+    "capabilities": {
+      "action": "download-resource",
+      "action_label": "Download Graph",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/routing/network.oswmg.metadata.json"
+  },
+  {
+    "category": "Routing & Demos",
+    "path": "data/routing/network.parquet",
+    "format": "GeoParquet",
+    "description": "GeoParquet routing network with compact, directional accessibility grades for expert scrutiny.",
+    "capabilities": {
+      "action": "copy-spatial-extract",
+      "action_label": "Copy 1 km Extract",
+      "snippets": [
+        "python",
+        "gdal",
+        "curl"
+      ],
+      "attribute_filter": "id IS NOT NULL"
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/routing/network.parquet.metadata.json"
+  },
+  {
+    "category": "Routing & Demos",
     "path": "data/routing/profiles.json",
     "format": "JSON",
     "description": "Browser-safe distance/accessibility routing modes plus binary graph and display-layer metadata.",
@@ -3898,10 +4283,78 @@ print(data)</pre>
     "metadata_path": "metadata/routing/slope_cache.json.metadata.json"
   },
   {
+    "category": "Routing & Demos",
+    "path": "data/routing/tile_generation_report.json",
+    "format": "JSON",
+    "description": "Validation result, input feature count, and byte size for the routing PMTiles build.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/routing/tile_generation_report.json.metadata.json"
+  },
+  {
     "category": "Routing Metadata",
     "path": "metadata/routing/metadata.json.metadata.json",
     "format": "JSON",
     "description": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the JSON distribution at data/routing/metadata.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Routing Metadata",
+    "path": "metadata/routing/network.oswmg.metadata.json",
+    "format": "JSON",
+    "description": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the OSWM Binary Graph distribution at data/routing/network.oswmg.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Routing Metadata",
+    "path": "metadata/routing/network.parquet.metadata.json",
+    "format": "JSON",
+    "description": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the GeoParquet distribution at data/routing/network.parquet.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Routing Metadata",
+    "path": "metadata/routing/network.pmtiles.metadata.json",
+    "format": "JSON",
+    "description": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the PMTiles distribution at data/routing/network.pmtiles.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -3936,6 +4389,23 @@ print(data)</pre>
     "path": "metadata/routing/slope_cache.json.metadata.json",
     "format": "JSON",
     "description": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the JSON distribution at data/routing/slope_cache.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Routing Metadata",
+    "path": "metadata/routing/tile_generation_report.json.metadata.json",
+    "format": "JSON",
+    "description": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the JSON distribution at data/routing/tile_generation_report.json.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",
@@ -4307,6 +4777,23 @@ print(data)</pre>
   },
   {
     "category": "Table Quality Checks",
+    "path": "quality_check/tables/crossings/missing_tags.csv",
+    "format": "CSV",
+    "description": "Tabular validation report (Missing Tags.Csv) for crossings.",
+    "capabilities": {
+      "action": "preview-text",
+      "action_label": "Preview CSV",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "Table Quality Checks",
     "path": "quality_check/tables/crossings/older_than_five_years.csv",
     "format": "CSV",
     "description": "Tabular validation report (Older Than Five Years.Csv) for crossings.",
@@ -4480,6 +4967,23 @@ print(data)</pre>
     "path": "quality_check/tables/kerbs/keys_without_wiki.csv",
     "format": "CSV",
     "description": "Tabular validation report (Keys Without Wiki.Csv) for kerbs.",
+    "capabilities": {
+      "action": "preview-text",
+      "action_label": "Preview CSV",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "Table Quality Checks",
+    "path": "quality_check/tables/kerbs/missing_tags.csv",
+    "format": "CSV",
+    "description": "Tabular validation report (Missing Tags.Csv) for kerbs.",
     "capabilities": {
       "action": "preview-text",
       "action_label": "Preview CSV",
@@ -4681,6 +5185,23 @@ print(data)</pre>
   },
   {
     "category": "Table Quality Checks",
+    "path": "quality_check/tables/other_footways/missing_tags.csv",
+    "format": "CSV",
+    "description": "Tabular validation report (Missing Tags.Csv) for other_footways.",
+    "capabilities": {
+      "action": "preview-text",
+      "action_label": "Preview CSV",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "Table Quality Checks",
     "path": "quality_check/tables/other_footways/older_than_five_years.csv",
     "format": "CSV",
     "description": "Tabular validation report (Older Than Five Years.Csv) for other_footways.",
@@ -4854,6 +5375,23 @@ print(data)</pre>
     "path": "quality_check/tables/sidewalks/keys_without_wiki.csv",
     "format": "CSV",
     "description": "Tabular validation report (Keys Without Wiki.Csv) for sidewalks.",
+    "capabilities": {
+      "action": "preview-text",
+      "action_label": "Preview CSV",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "data_quality",
+    "metadata_path": null
+  },
+  {
+    "category": "Table Quality Checks",
+    "path": "quality_check/tables/sidewalks/missing_tags.csv",
+    "format": "CSV",
+    "description": "Tabular validation report (Missing Tags.Csv) for sidewalks.",
     "capabilities": {
       "action": "preview-text",
       "action_label": "Preview CSV",
@@ -5123,6 +5661,23 @@ print(data)</pre>
   },
   {
     "category": "Updates Metadata",
+    "path": "metadata/updates/pipeline_decision.json.metadata.json",
+    "format": "JSON",
+    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/pipeline_decision.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Updates Metadata",
     "path": "metadata/updates/registry.json.metadata.json",
     "format": "JSON",
     "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/registry.json.",
@@ -5208,6 +5763,23 @@ print(data)</pre>
   },
   {
     "category": "Updates Metadata",
+    "path": "metadata/updates/watcher_decision.json.metadata.json",
+    "format": "JSON",
+    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/watcher_decision.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Updates Metadata",
     "path": "metadata/updates/watcher_history.json.metadata.json",
     "format": "JSON",
     "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/watcher_history.json.",
@@ -5239,6 +5811,23 @@ print(data)</pre>
     },
     "deliverable": "metadata",
     "metadata_path": null
+  },
+  {
+    "category": "Vector Tiles (PMTiles)",
+    "path": "data/routing/network.pmtiles",
+    "format": "PMTiles",
+    "description": "Lightweight routing-network vector tiles used by the MapLibre demo.",
+    "capabilities": {
+      "action": "inspect-pmtiles",
+      "action_label": "Inspect Archive",
+      "snippets": [
+        "javascript",
+        "gdal",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/routing/network.pmtiles.metadata.json"
   },
   {
     "category": "Vector Tiles (PMTiles)",
@@ -5476,6 +6065,66 @@ print(data)</pre>
     },
     "deliverable": "hazard_analysis",
     "metadata_path": "metadata/hazard_analysis/hazard.pmtiles.metadata.json"
+  },
+  {
+    "category": "Web Maps & Assets",
+    "path": "data/hazard_analysis/terrain_blind.png",
+    "format": "PNG",
+    "description": "Asset file: terrain_blind.png",
+    "capabilities": {
+      "action": "open-resource",
+      "action_label": "View Image",
+      "snippets": [
+        "curl"
+      ]
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/terrain_blind.png.metadata.json"
+  },
+  {
+    "category": "Web Maps & Assets",
+    "path": "data/hazard_analysis/terrain_elderly.png",
+    "format": "PNG",
+    "description": "Asset file: terrain_elderly.png",
+    "capabilities": {
+      "action": "open-resource",
+      "action_label": "View Image",
+      "snippets": [
+        "curl"
+      ]
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/terrain_elderly.png.metadata.json"
+  },
+  {
+    "category": "Web Maps & Assets",
+    "path": "data/hazard_analysis/terrain_pedestrian.png",
+    "format": "PNG",
+    "description": "Asset file: terrain_pedestrian.png",
+    "capabilities": {
+      "action": "open-resource",
+      "action_label": "View Image",
+      "snippets": [
+        "curl"
+      ]
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/terrain_pedestrian.png.metadata.json"
+  },
+  {
+    "category": "Web Maps & Assets",
+    "path": "data/hazard_analysis/terrain_wheelchair.png",
+    "format": "PNG",
+    "description": "Asset file: terrain_wheelchair.png",
+    "capabilities": {
+      "action": "open-resource",
+      "action_label": "View Image",
+      "snippets": [
+        "curl"
+      ]
+    },
+    "deliverable": "hazard_analysis",
+    "metadata_path": "metadata/hazard_analysis/terrain_wheelchair.png.metadata.json"
   },
   {
     "category": "Folder Indexes",

@@ -34,16 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-08-26T03:17:26+00:00",
+    "updated": "2026-08-27T19:24:13+00:00",
     "node_registry": {
       "Data Fetching": "26/08/2026 05:15:02",
-      "Data Pre-Processing": "26/08/2026 05:15:07",
+      "Data Pre-Processing": "2026-08-27T19:20:40Z",
       "Webmap Generation": "28/08/2024 07:33:01",
-      "Statistical Charts": "26/08/2026 05:17:26",
+      "Statistical Charts": "2026-08-27T19:24:13Z",
       "Wiki check for keys": "23/08/2026 08:45:39",
-      "Data Quality Tool": "26/08/2026 05:17:11",
+      "Data Quality Tool": "2026-08-27T19:21:42Z",
       "Versioning Data": "26/07/2026 08:56:31",
-      "Completeness Analysis": "17/07/2026 21:42:02",
+      "Completeness Analysis": "2026-08-27T19:23:58Z",
       "Completeness Analysis (Alt)": "17/07/2026 13:23:15"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-26T03:17:26+00:00",
+    "generated_at": "2026-08-27T19:24:13+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "b016ba26fa1f2eb34c5085ffb977fbcc68c922f7",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/routing/slope_cache.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 3322740,
+    "byte_size": 3037936,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "459ae85592d2df78c1afa757abb53102fe0a978fd6928c5246d1612b356fc51b"
+      "value": "ea69e27e88b76d5ed2af00d3a271b917e5be295f71102b468bc6597cf5dc5538"
     }
   },
   "links": [
