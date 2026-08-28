@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "source_revision": "b016ba26fa1f2eb34c5085ffb977fbcc68c922f7",
+  "source_revision": "df0f2b0fed99ae24aaf12ed1d85ca8135ba50c21",
   "managed_files": [
     ".github/workflows/customizable.yml",
     ".github/workflows/data_daily_updating.yml",
