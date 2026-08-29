@@ -53,6 +53,10 @@ jobs:
       - name: Commit recovered products
         run: |
           python oswm_codebase/node_outputs.py --root . stage daily
+          # The clean reset may delete obsolete tracked products outside the
+          # daily allowlist (for example legacy run logs). Stage tracked
+          # deletions so the subsequent rebase starts from a clean worktree.
+          git add -u -- .
           python oswm_codebase/node_outputs.py --root . validate-sizes --max-mib 95
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
