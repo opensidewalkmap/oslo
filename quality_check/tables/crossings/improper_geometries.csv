@@ -1,1 +1,3 @@
 osm_id,feat_type,key,value,commentary
+440149406,node,not appliable,not appliable,"crossings are generally lines, but some people also map them as points, so <b>watch out for false positives</b>"
+1263590726,node,not appliable,not appliable,"crossings are generally lines, but some people also map them as points, so <b>watch out for false positives</b>"

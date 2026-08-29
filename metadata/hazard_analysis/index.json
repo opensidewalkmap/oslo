@@ -55,10 +55,10 @@
   "spatial": {
     "scope": "node_coverage",
     "bbox": [
-      -49.38914,
-      -25.6435043,
-      -49.1843182,
-      -25.3449505
+      10.4891652,
+      59.8093113,
+      10.9513894,
+      60.1351064
     ],
     "bbox_order": [
       "west",
@@ -70,19 +70,14 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-08-29T04:19:40+00:00",
+    "updated": "2026-08-29T14:29:35+00:00",
     "node_registry": {
-      "Data Fetching": "2026-08-29T04:14:26Z",
-      "Data Pre-Processing": "2026-08-29T04:14:31Z",
-      "Webmap Generation": "28/08/2024 07:33:01",
-      "Statistical Charts": "2026-08-29T04:19:40Z",
-      "Wiki check for keys": "23/08/2026 08:45:39",
-      "Data Quality Tool": "2026-08-29T04:17:02Z",
-      "Versioning Data": "26/07/2026 08:56:31",
-      "Completeness Analysis": "2026-08-29T04:19:26Z",
-      "Completeness Analysis (Alt)": "17/07/2026 13:23:15",
-      "OSWM Codebase Revision": "b016ba26fa1f2eb34c5085ffb977fbcc68c922f7",
-      "Pipeline Success": "2026-08-28T20:26:41Z"
+      "Data Fetching": "2026-08-29T13:51:23Z",
+      "Versioning Data": "2026-08-29T13:53:40Z",
+      "Data Pre-Processing": "2026-08-29T13:53:53Z",
+      "Data Quality Tool": "2026-08-29T14:21:58Z",
+      "Completeness Analysis": "2026-08-29T14:29:18Z",
+      "Statistical Charts": "2026-08-29T14:29:35Z"
     }
   },
   "lineage": {
@@ -105,7 +100,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-29T04:19:40+00:00",
+    "generated_at": "2026-08-29T14:29:35+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "181d10276c184265f3de546a941386d9163efc23",
@@ -121,10 +116,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_blind.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 16589955,
+      "byte_size": 63796271,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "86eabdfaffe9ed62886f651669d1199667e203cda4ddf46e9c1a3f762a87028f"
+        "value": "d775c51443f7e4b8f4d9875fad27a55cdd7526368d95ec307b4db95cae9c8235"
       }
     },
     {
@@ -133,10 +128,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_blind.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1722132,
+      "byte_size": 9655393,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "15ed594c3dbcdfae83747197ff15355221df710fb1e23811fb079cf87d82e01c"
+        "value": "2623e5a9b6e019324a95ff3280f3667e5bd24ef2717d51eb749be9de0ad21330"
       }
     },
     {
@@ -145,10 +140,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 16648818,
+      "byte_size": 64200940,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8a6958c883d85e43ef37f374a3e93cd3443ac2a5e36673f4fc65bfbcb4aae573"
+        "value": "b7819e6aa4205ca0f1c2042fa8df1002c71d87209f81f69159805d70e646f5b6"
       }
     },
     {
@@ -157,10 +152,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_elderly.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1732599,
+      "byte_size": 9690763,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "04091c9e484fd9584de065b860a8f1a3f1e7bb728f0534c2fbd686492206277d"
+        "value": "a9c4476ab99df9d09657142252481d223e2624111e5d23f6f7226b9c4d00b8dc"
       }
     },
     {
@@ -169,10 +164,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_pedestrian.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 16623264,
+      "byte_size": 63773936,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "27cba2d89bbb6ca3428005e7e3ad2aa309caaa487d4113d4aa93ad16ac2e1ea0"
+        "value": "906c5e3357b3af9f1c8c05776834a2df6cdd0ccaf92a9f2fb16e9cca84ae5776"
       }
     },
     {
@@ -181,10 +176,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_pedestrian.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1724562,
+      "byte_size": 9653701,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "33e51741e3a6947dcec6e46f3b33fa0a8142653d0fb74396bc13d9bf1797da91"
+        "value": "7a2d60539cec619c936977f0db7a11a6ac91514436d4d85ef7246cf48efae58b"
       }
     },
     {
@@ -193,10 +188,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
       "media_type": "application/geo+json",
       "format": "GeoJSON",
-      "byte_size": 16659959,
+      "byte_size": 64365437,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "999413b4069f1ee4b866ac544cce901a4b27d99a2e5bb7170731db246d9c16df"
+        "value": "156d995dda4d73eebe403ad7457608cdee59fedd13aa68475b98ed108347ff52"
       }
     },
     {
@@ -205,10 +200,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_wheelchair.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1725172,
+      "byte_size": 9661354,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7517996c5d1b39e059959794d49949fa2b933d84d3deb84fed0e08c48cf83548"
+        "value": "c0730ce7f6ea555941a175302cc0a139dbcad9bf6ed33268eee9d7bbd8b5bae1"
       }
     },
     {
@@ -217,10 +212,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/hazard.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 34949978,
+      "byte_size": 96376549,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "54103846e7e8755cf3f6b8273c69120c64ad5e7b09fbc5e79ee9c64641a4b90f"
+        "value": "162ec708c6ebc91412e87bc839f843fc66a6ec6535322b6a900e3fdb134b221b"
       }
     },
     {
@@ -241,10 +236,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/metadata.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 3551,
+      "byte_size": 3691,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c5690287ed812ee3d39d1842f854e2ac94069721ff3fc0f3905b94fe2b0bb137"
+        "value": "aae4e5f6fdbf35f501c5e630c9888cbf1c133ff7f71b331292a1f3a2654e5b09"
       }
     },
     {
@@ -277,10 +272,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/terrain.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 2096,
+      "byte_size": 2084,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "0c814f76305a3d00ce8dc35153012e7471c15bcbe226d3ce1c66dcfcca7ac3b2"
+        "value": "752cf3360c3bab2191965fab29f15fba90405ca08fbe412d4b83c56392e183c7"
       }
     },
     {
@@ -289,10 +284,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/terrain_blind.png.metadata.json",
       "media_type": "image/png",
       "format": "PNG",
-      "byte_size": 57476,
+      "byte_size": 2741,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "0dba8356eec3bacdd66b26b950e22e1d5a3493048733091312073ad547307613"
+        "value": "1a92f4af7e0348f4deaec5691818d0a7ef1abd960cf4ff840057e606a5f8c94e"
       }
     },
     {
@@ -301,10 +296,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/terrain_elderly.png.metadata.json",
       "media_type": "image/png",
       "format": "PNG",
-      "byte_size": 91253,
+      "byte_size": 3851,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f9a5bcb5bae23b77c2803cefb91b5a1d6120075a8b0f14d6d94dd4091741b5d0"
+        "value": "ad514699e761535f0d8bbf85d5abf74e7e66f3f2e56b4efcdfa9c0cdee1dc06d"
       }
     },
     {
@@ -313,10 +308,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/terrain_pedestrian.png.metadata.json",
       "media_type": "image/png",
       "format": "PNG",
-      "byte_size": 57476,
+      "byte_size": 2741,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "0dba8356eec3bacdd66b26b950e22e1d5a3493048733091312073ad547307613"
+        "value": "1a92f4af7e0348f4deaec5691818d0a7ef1abd960cf4ff840057e606a5f8c94e"
       }
     },
     {
@@ -325,10 +320,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/terrain_wheelchair.png.metadata.json",
       "media_type": "image/png",
       "format": "PNG",
-      "byte_size": 91253,
+      "byte_size": 3851,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f9a5bcb5bae23b77c2803cefb91b5a1d6120075a8b0f14d6d94dd4091741b5d0"
+        "value": "ad514699e761535f0d8bbf85d5abf74e7e66f3f2e56b4efcdfa9c0cdee1dc06d"
       }
     },
     {
@@ -340,7 +335,7 @@
       "byte_size": 130,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7f11c29db7f070ec090370f6f0da9defeca3f783889a5cc31b7dd17e2da2742c"
+        "value": "636c2a2f61dbee0c607e3c64c4ca99758d0b8a90e62aa83c55f460f8e14a84e8"
       }
     }
   ],

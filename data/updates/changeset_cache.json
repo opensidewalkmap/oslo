@@ -1,62 +1,52 @@
 {
-    "182321412": {
-        "id": 182321412,
-        "user": "Vinicius Moraes",
-        "uid": 7920187,
-        "created_at": "2026-05-07T05:21:54Z",
-        "closed_at": "2026-05-07T05:21:56Z",
-        "changes_count": 195,
-        "comment": "Atualização de supermercado e vias de condomínios residenciais",
-        "created_by": "JOSM/1.5 (19555 pt_BR)"
-    },
-    "179147848": {
-        "id": 179147848,
-        "user": "ftrebien",
-        "uid": 401472,
-        "created_at": "2026-02-27T20:04:51Z",
-        "closed_at": "2026-02-27T20:04:53Z",
-        "changes_count": 38,
-        "comment": "foot=no onde as calçadas foram mapeadas separadamente",
-        "created_by": "JOSM/1.5 (19369 Debian en_GB)"
-    },
-    "182142041": {
-        "id": 182142041,
-        "user": "Vinicius Moraes",
-        "uid": 7920187,
-        "created_at": "2026-05-03T04:42:55Z",
-        "closed_at": "2026-05-03T04:42:58Z",
-        "changes_count": 543,
-        "comment": "Ajuste de nome arredor do Canal Belém; atualização de dados e correções gerais nos arredores",
-        "created_by": "JOSM/1.5 (19555 pt_BR)"
-    },
-    "183232534": {
-        "id": 183232534,
-        "user": "Victor 2015",
-        "uid": 2622158,
-        "created_at": "2026-05-26T23:48:46Z",
-        "closed_at": "2026-05-26T23:48:49Z",
-        "changes_count": 538,
-        "comment": "Atualizações e correções",
+    "183198487": {
+        "id": 183198487,
+        "user": "Ween90",
+        "uid": 24146627,
+        "created_at": "2026-05-26T10:11:01Z",
+        "closed_at": "2026-05-26T10:11:02Z",
+        "changes_count": 198,
+        "comment": "Marked many driveways and other wrongly marked roads. Added some forest paths also.",
         "created_by": "iD 2.40.0"
     },
-    "183235387": {
-        "id": 183235387,
-        "user": "Victor 2015",
-        "uid": 2622158,
-        "created_at": "2026-05-27T03:04:48Z",
-        "closed_at": "2026-05-27T03:04:50Z",
-        "changes_count": 439,
-        "comment": "Atualizações e correções",
+    "184736682": {
+        "id": 184736682,
+        "user": "AlisonSelby",
+        "uid": 11527129,
+        "created_at": "2026-06-28T10:47:19Z",
+        "closed_at": "2026-06-28T10:47:21Z",
+        "changes_count": 276,
+        "comment": "Colletts gate no longer carries on to Ullevålsveien, updated cycle infrastructure for near St Hanshaugen park",
+        "created_by": "iD 2.41.1"
+    },
+    "180822591": {
+        "id": 180822591,
+        "user": "NKA",
+        "uid": 3497659,
+        "created_at": "2026-04-03T17:02:45Z",
+        "closed_at": "2026-04-03T17:02:47Z",
+        "changes_count": 648,
+        "comment": "Legger til og justerer gang- og sykkelveier fra NVDB mars 2026",
+        "created_by": "JOSM/1.5 (19481 en_GB)"
+    },
+    "184089100": {
+        "id": 184089100,
+        "user": "LandskapsLars",
+        "uid": 22387387,
+        "created_at": "2026-06-14T10:55:37Z",
+        "closed_at": "2026-06-14T10:55:38Z",
+        "changes_count": 72,
+        "comment": "stening ad strand kulvert https://g.acdn.no/api/lumina/backend/ami-medium/ece5/aske/2026/5/27/11/kj%25C3%25B8rem%25C3%25B8nster+strand+kulvert+NY.jpg",
         "created_by": "iD 2.40.0"
     },
-    "183762617": {
-        "id": 183762617,
-        "user": "Victor 2015",
-        "uid": 2622158,
-        "created_at": "2026-06-07T03:55:02Z",
-        "closed_at": "2026-06-07T03:55:05Z",
-        "changes_count": 597,
-        "comment": "Atualizações e correções",
-        "created_by": "iD 2.40.0"
+    "181455331": {
+        "id": 181455331,
+        "user": "Oskarst_",
+        "uid": 10493879,
+        "created_at": "2026-04-17T12:16:32Z",
+        "closed_at": "2026-04-17T12:16:33Z",
+        "changes_count": 130,
+        "comment": "Updated roads and cycle & foot paths using Kartverket topo, satellite photos and Strava heatmap",
+        "created_by": "iD 2.39.6"
     }
 }

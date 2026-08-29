@@ -2,6 +2,7 @@
     "folder": "data/boundaries",
     "files": [
         "infos.json",
+        "metadata.json",
         "polygon.geojson",
         "polygon.parquet"
     ],

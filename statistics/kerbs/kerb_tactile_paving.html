@@ -32,7 +32,6 @@
   <a href="../../statistics/kerbs/kerb_wheelchair_access.html">Wheelchair Acessibility</a>
   <a href="../../statistics/kerbs/kerbs_surface.html">Surface Type</a>
   <a href="../../statistics/kerbs/kerbs_age.html">Update Age</a>
-  <a href="../../statistics/kerbs/kerbs_n_revs.html">Number of Revisions</a>
 </div>
 
 
@@ -60,7 +59,7 @@
   <div id="vis"></div>
   <script>
     (function(vegaEmbed) {
-      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-6215cd05f04f3fefa9d9a1391ee575f4"}, "mark": {"type": "bar"}, "encoding": {"tooltip": [{"field": "percent", "type": "nominal"}], "x": {"field": "tactile_paving", "sort": "-y", "type": "nominal"}, "y": {"field": "count", "type": "quantitative"}}, "height": 300, "params": [{"name": "param_1e9efca18e7a2868", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Kerb Tactile Paving Presence", "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-6215cd05f04f3fefa9d9a1391ee575f4": [{"tactile_paving": "?", "count": 2601, "percent": "91.17%"}, {"tactile_paving": "no", "count": 215, "percent": "7.54%"}, {"tactile_paving": "yes", "count": 25, "percent": "0.88%"}, {"tactile_paving": "contrasted", "count": 11, "percent": "0.39%"}, {"tactile_paving": "bad", "count": 1, "percent": "0.04%"}]}};
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-d58d327b50289e77d926afc2295cbfb1"}, "mark": {"type": "bar"}, "encoding": {"tooltip": [{"field": "percent", "type": "nominal"}], "x": {"field": "tactile_paving", "sort": "-y", "type": "nominal"}, "y": {"field": "count", "type": "quantitative"}}, "height": 300, "params": [{"name": "param_1e9efca18e7a2868", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Kerb Tactile Paving Presence", "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-d58d327b50289e77d926afc2295cbfb1": [{"tactile_paving": "?", "count": 6769, "percent": "58.55%"}, {"tactile_paving": "no", "count": 2610, "percent": "22.57%"}, {"tactile_paving": "yes", "count": 2183, "percent": "18.88%"}]}};
       var embedOpt = {"mode": "vega-lite"};
 
       function showError(el, error){

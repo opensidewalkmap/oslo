@@ -1,1 +1,3 @@
 osm_id,feat_type,key,value,commentary
+87655212,way,building,apartments,footways are not buildings
+268230648,way,building,yes,footways are not buildings

@@ -32,7 +32,6 @@
   <a href="../../statistics/kerbs/kerb_wheelchair_access.html">Wheelchair Acessibility</a>
   <a href="../../statistics/kerbs/kerbs_surface.html">Surface Type</a>
   <a href="../../statistics/kerbs/kerbs_age.html">Update Age</a>
-  <a href="../../statistics/kerbs/kerbs_n_revs.html">Number of Revisions</a>
 </div>
 
 
@@ -60,7 +59,7 @@
   <div id="vis"></div>
   <script>
     (function(vegaEmbed) {
-      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-2a7b99113e2dd63d4f27e97691dfd251"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "feature count", "type": "quantitative"}, "tooltip": [{"field": "surface type", "type": "nominal"}, {"field": "count", "type": "quantitative"}, {"field": "feature count", "type": "quantitative"}], "x": {"field": "surface type", "sort": "-y", "type": "nominal"}, "y": {"field": "count", "type": "quantitative"}}, "height": 300, "params": [{"name": "include_filter_out_opt", "bind": {"input": "checkbox", "name": "Include \"?\" (Unknown)"}, "value": true}, {"name": "param_1e9efca18e7a2868", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Kerbs Surface Type", "transform": [{"filter": "include_filter_out_opt || datum['surface type'] != '?'"}], "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-2a7b99113e2dd63d4f27e97691dfd251": [{"surface type": "?", "feature count": 2786, "count": 2786}, {"surface type": "asphalt", "feature count": 1, "count": 1}, {"surface type": "concrete", "feature count": 16, "count": 16}, {"surface type": "concrete:plates", "feature count": 29, "count": 29}, {"surface type": "grass", "feature count": 1, "count": 1}, {"surface type": "paver", "feature count": 1, "count": 1}, {"surface type": "paving_stones", "feature count": 16, "count": 16}, {"surface type": "sett", "feature count": 2, "count": 2}, {"surface type": "unpaved", "feature count": 1, "count": 1}]}};
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"fontSize": 24}}, "data": {"name": "data-be7d1b765b0a5e461540b57981e544e8"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "feature count", "type": "quantitative"}, "tooltip": [{"field": "surface type", "type": "nominal"}, {"field": "count", "type": "quantitative"}, {"field": "feature count", "type": "quantitative"}], "x": {"field": "surface type", "sort": "-y", "type": "nominal"}, "y": {"field": "count", "type": "quantitative"}}, "height": 300, "params": [{"name": "include_filter_out_opt", "bind": {"input": "checkbox", "name": "Include \"?\" (Unknown)"}, "value": true}, {"name": "param_1e9efca18e7a2868", "select": {"type": "interval", "encodings": ["x", "y"]}, "bind": "scales"}], "title": "Kerbs Surface Type", "transform": [{"filter": "include_filter_out_opt || datum['surface type'] != '?'"}], "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-be7d1b765b0a5e461540b57981e544e8": [{"surface type": "?", "feature count": 11562, "count": 11562}]}};
       var embedOpt = {"mode": "vega-lite"};
 
       function showError(el, error){

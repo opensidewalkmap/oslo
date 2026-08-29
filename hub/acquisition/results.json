@@ -1,11 +1,11 @@
 {
   "node_name": "Oslo, Norway",
-  "generated_at": "2026-08-29T04:25:18Z",
+  "generated_at": "2026-08-29T15:49:13Z",
   "bbox": [
-    -25.6435043,
-    -49.38914,
-    -25.3449505,
-    -49.1843182
+    59.8093113,
+    10.4891652,
+    60.1351064,
+    10.9513894
   ],
   "keywords_used": [
     "oswm",
@@ -40,119 +40,168 @@
       }
     }
   },
-  "total_projects_found": 3,
+  "total_projects_found": 4,
   "projects": [
     {
-      "id": 1330,
-      "title": "Mapeamento de Acessibilidade - Jardim das Americas",
-      "service": "Tasking Manager",
-      "instance": "https://tasks.teachosm.org/",
-      "url": "https://tasks.teachosm.org/projects/1330",
-      "status": "Published",
-      "description": "Slides de apoio em: \nhttps://rebrand.ly/mapealivre_apres_acess_curso3 ",
-      "country": [
-        "Brazil"
-      ],
-      "matched_keywords": [
-        "acessibilidade"
-      ],
-      "bbox": [
-        -49.243118,
-        -25.472648,
-        -49.215111,
-        -25.44371
-      ]
-    },
-    {
-      "id": "2820",
-      "title": "accessibility - Missing Surface Materials",
-      "service": "Pic4Review",
-      "instance": "https://pic4review.pavie.info/#/",
-      "url": "https://pic4review.pavie.info/#/mission/2820",
-      "status": "online",
-      "description": "We're filling up the remaining surface=* tags, mainly for accessibility and oswm",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.2954929,
-              -25.4722665
-            ],
-            [
-              -49.2692727,
-              -25.4722665
-            ],
-            [
-              -49.2692727,
-              -25.4414
-            ],
-            [
-              -49.2954929,
-              -25.4414
-            ],
-            [
-              -49.2954929,
-              -25.4722665
-            ]
-          ]
-        ]
-      },
-      "bbox": [
-        -49.2954929,
-        -25.4722665,
-        -49.2692727,
-        -25.4414
-      ],
-      "spatial_status": "available",
-      "spatial_source": "geom",
-      "matched_keywords": [
-        "oswm",
-        "accessibility"
-      ]
-    },
-    {
-      "id": 55906,
-      "title": "sidewalks without surface=* tag ( for accessibility )",
+      "id": 51999,
+      "title": "Oslo - Residential Road Foot No tags",
       "service": "MapRoulette",
       "instance": "https://maproulette.org/",
-      "url": "https://maproulette.org/admin/project/46111/challenge/55906",
+      "url": "https://maproulette.org/admin/project/59934/challenge/51999",
       "status": "Ready",
-      "description": "mapping the surface attributes for sidewalks in curitiba for pedestrian displacement #oswm opensidewalkmap accessibility",
+      "description": "\nThis challenge focuses on reviewing and correcting the usage of foot=no tags on residential roads in OSM.\nMappers should aim to verify if the foot=no tag is correctly used, reserving it for cases where access on\nfoot or by pedestrians is prohibited (private roads) or obviously dangerous for foot traffic (like when a residential road meets a divided highway)\nIf not valid, update the sidewalk:both tag instead or use sidewalk:left/right when appropriate.\nAerial and street-level imagery are recommended to assist in verifying these tags accurately.\nYour contributions will enhance the quality of OSM data and support various applications relying on this information.\n",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -49.362632372,
-              -25.56372005
+              10.675012931,
+              59.91139955
             ],
             [
-              -49.362632372,
-              -25.348218985
+              10.675012931,
+              59.964598757
             ],
             [
-              -49.199414897,
-              -25.348218985
+              10.8953536,
+              59.964598757
             ],
             [
-              -49.199414897,
-              -25.56372005
+              10.8953536,
+              59.91139955
             ],
             [
-              -49.362632372,
-              -25.56372005
+              10.675012931,
+              59.91139955
             ]
           ]
         ]
       },
       "matched_keywords": [
-        "oswm",
-        "OpenSidewalkMap",
-        "accessibility",
         "pedestrian",
         "sidewalk",
         "walk"
+      ]
+    },
+    {
+      "id": 52337,
+      "title": "Oslo - Unconnected Crosswalks",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/60200/challenge/52337",
+      "status": "Ready",
+      "description": "\nThis project aims to review OpenStreetMap (OSM) crosswalks that are not connected to road or pathway at its end.\nPlease review the crosswalk and confirm if there is a gap between the sidewalk and crosswalk, or a missing sidewalk that should be mapped.\nEnsure that you use the most up-to-date imagery available (aerial or street-level), compare options and cross-reference as the real-world may have changed.\nEach challenge involves a crosswalk that may be isolated and not properly connected.\nOur goal is to ensure accurate representation of crosswalks in OSM.\nYour contributions will enhance the quality of OSM data and support various applications relying on this information.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.659303307,
+              59.923484871
+            ],
+            [
+              10.659303307,
+              59.955666926
+            ],
+            [
+              10.845699595,
+              59.955666926
+            ],
+            [
+              10.845699595,
+              59.923484871
+            ],
+            [
+              10.659303307,
+              59.923484871
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "sidewalk",
+        "walk"
+      ]
+    },
+    {
+      "id": 49940,
+      "title": "Oslo - Review Trunk Highway Sidewalks",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/58309/challenge/49940",
+      "status": "Ready",
+      "description": "\nTo support pedestrian safety, this challenge examines roads tagged with\nhighway=trunk to check for sidewalks along the highway. You will use aerial\nand/or street-level imagery to confirm the presence or absence of sidewalks\nand then add the appropriate tags to the selected highway=trunk way.\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.744761739,
+              59.904147577
+            ],
+            [
+              10.744761739,
+              59.9089163
+            ],
+            [
+              10.760550209,
+              59.9089163
+            ],
+            [
+              10.760550209,
+              59.904147577
+            ],
+            [
+              10.744761739,
+              59.904147577
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "pedestrian",
+        "sidewalk",
+        "walk"
+      ]
+    },
+    {
+      "id": 44631,
+      "title": "Oslo - Suspicious Unmarked Crossing Ways",
+      "service": "MapRoulette",
+      "instance": "https://maproulette.org/",
+      "url": "https://maproulette.org/admin/project/56077/challenge/44631",
+      "status": "Ready",
+      "description": "\nThe goal of this challenge is to identify and improve the mapping of unmarked crossings on busy or high-traffic roads.\nUnmarked crossings can be dangerous for pedestrians and other non-motorized road users, as they may not be easily visible to drivers.\nBy identifying and improving the mapping of these crossings, we can help make our streets safer and more accessible for everyone.\nTask Description:\nFor this challenge, we will be focusing on ways that are tagged as crossing=unmarked and cross busy or potentially high traffic roads.\nYour task is to verify that these crossings exist and are accurately mapped in OpenStreetMap. If the crossing does not exist or is not accurately mapped, please make the necessary changes to the map.\nTo complete this challenge, verify that an actual crossing exists as represented by the OSM feature and that it is accurately tagged.\nIf the crossing does not exist or is not accurately mapped, make the necessary changes to the map.\n- If the crossing exists (there are curb cuts or other indications) and there are no markings, you may leave the crossing as is.\n- If the crossing exists and is indicated by different surface types, change the crossing tag to crossing=marked and add a crossing:markings=surface tag.\n- If the crossing exists and is marked, change the crossing tag to marked, uncontrolled, or traffic_signals as appropriate.\n- If no formal crossing exists but it looks like a place where people cross the road, change the crossing tag to crossing=informal and change the highway tag to something other than crossing. This helps distinguish between unmarked official crossings and informal crossings.\n- If a crossing does not exist and would be dangerous for pedestrians to cross at this location, delete the crossing.\n\nBy completing tasks in this challenge, you will be helping to make OpenStreetMap more accurate and useful for pedestrians and other non-motorized road users. Good luck!\n",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.7805266,
+              59.894431375
+            ],
+            [
+              10.7805266,
+              59.955917225
+            ],
+            [
+              10.805820989,
+              59.955917225
+            ],
+            [
+              10.805820989,
+              59.894431375
+            ],
+            [
+              10.7805266,
+              59.894431375
+            ]
+          ]
+        ]
+      },
+      "matched_keywords": [
+        "pedestrian",
+        "crossing"
       ]
     }
   ]

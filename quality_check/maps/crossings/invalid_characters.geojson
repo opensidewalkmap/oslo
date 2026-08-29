@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": []}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.7584994, 59.8944423]}, "properties": {"id": 255703538, "feat_type": "way", "quality_categories": "invalid_characters", "issue_ids": "[0]", "osm_url": "https://www.openstreetmap.org/way/255703538", "josm_url": "http://127.0.0.1:8111/load_object?new_layer=false&objects=w255703538", "id_url": "https://www.openstreetmap.org/edit?editor=id&way=255703538#map=20/59.8944423/10.7584994"}}]}
