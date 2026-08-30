@@ -70,16 +70,17 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-08-29T15:50:14+00:00",
+    "updated": "2026-08-30T15:01:31+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
-      "Versioning Data": "2026-08-29T13:53:40Z",
-      "Data Pre-Processing": "2026-08-29T13:53:53Z",
-      "Data Quality Tool": "2026-08-29T14:21:58Z",
+      "Versioning Data": "2026-08-30T14:54:51Z",
+      "Data Pre-Processing": "2026-08-30T14:55:02Z",
+      "Data Quality Tool": "2026-08-30T14:55:15Z",
       "Completeness Analysis": "2026-08-29T14:29:18Z",
-      "Statistical Charts": "2026-08-29T14:29:35Z",
+      "Statistical Charts": "2026-08-30T14:55:23Z",
       "OSWM Codebase Revision": "181d10276c184265f3de546a941386d9163efc23",
-      "Pipeline Success": "2026-08-29T15:50:14Z"
+      "Pipeline Success": "2026-08-30T14:03:30Z",
+      "Wiki check for keys": "2026-08-30T15:01:31Z"
     }
   },
   "lineage": {
@@ -101,7 +102,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-29T15:50:14+00:00",
+    "generated_at": "2026-08-30T15:01:31+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "181d10276c184265f3de546a941386d9163efc23",
@@ -117,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/informal_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 297351,
+      "byte_size": 297341,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "025489df52074de51fc22a662a5c4b68b39d87f6d12cc9eabfc20c9175509d11"
+        "value": "f33b4c69d798515a8b7729b4a52c8c96a6cd5414df947dd767c87eba0760efc4"
       }
     },
     {
@@ -129,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/main_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 2864522,
+      "byte_size": 2864353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "24c75fc1bfb1af9d3d5f953dbfe7fc89f780461ba927d8ffc1d24f62d9cda1cd"
+        "value": "414635197078e29a711ec805bf873b11aef45a608ae28af8ce24de78abc704f1"
       }
     },
     {
@@ -141,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/pedestrian_areas.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 361395,
+      "byte_size": 361457,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a0502bf54f0a6bb6ec60783403cebb517393adb370a8b8e70b3d8d2e13c0f2be"
+        "value": "5f308c0b4686cd307ef08330a9b01026c2a83acb23ab5facabbc10437d08a9e7"
       }
     },
     {
@@ -153,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/potential_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3871453,
+      "byte_size": 3871351,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f36c487ff2fda671e5dec0995b1a6ec23a0c8eebd081921d43737df5c0ed25c8"
+        "value": "1a98ba155b9bf0fb8964a2febff562dc90f7ab6f37f64839b09328d3b0238328"
       }
     },
     {
@@ -165,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/stairways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 376510,
+      "byte_size": 376273,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6ba4e91f02f3aa598a3862b8c595c423898fbe3b154cfdf3fba86cf0d64735ed"
+        "value": "e7a90b6e96c0f39828456c60240b87ea7ea5f3653d308f5550fb5d8aeef1214f"
       }
     }
   ],
