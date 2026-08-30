@@ -34,14 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-08-29T14:29:35+00:00",
+    "updated": "2026-08-29T15:50:14+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-08-29T13:53:40Z",
       "Data Pre-Processing": "2026-08-29T13:53:53Z",
       "Data Quality Tool": "2026-08-29T14:21:58Z",
       "Completeness Analysis": "2026-08-29T14:29:18Z",
-      "Statistical Charts": "2026-08-29T14:29:35Z"
+      "Statistical Charts": "2026-08-29T14:29:35Z",
+      "OSWM Codebase Revision": "181d10276c184265f3de546a941386d9163efc23",
+      "Pipeline Success": "2026-08-29T15:50:14Z"
     }
   },
   "lineage": {
@@ -64,7 +66,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-08-29T14:29:35+00:00",
+    "generated_at": "2026-08-29T15:50:14+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "181d10276c184265f3de546a941386d9163efc23",
@@ -79,10 +81,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/updates/pipeline_decision.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 2281,
+    "byte_size": 353,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "2d7f9d4f9824f82d061e75dafc98c33901af998400a11c38f5ece56bedf1c1f9"
+      "value": "950c1015b51c60fa2e119aca0ea0f84d7a6f5af5ce192353b30b754af57c10f8"
     }
   },
   "links": [

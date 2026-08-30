@@ -15,10 +15,10 @@
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://opensidewalkmap.github.io/oslo/metadata/routing/metadata.json.metadata.json",
-  "resource_type": "report",
-  "title": "Oslo, Norway — Metadata",
-  "abstract": "Routing network, profiles, grades, and generation provenance for pedestrian routing. This record describes the JSON distribution at data/routing/metadata.json.",
+  "identifier": "https://opensidewalkmap.github.io/oslo/metadata/updates/watcher_history.json.metadata.json",
+  "resource_type": "dataset",
+  "title": "Oslo, Norway — Watcher History",
+  "abstract": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/watcher_history.json.",
   "language": "en",
   "responsible_parties": [
     {
@@ -47,11 +47,11 @@
     }
   },
   "lineage": {
-    "process_description": "Derived from processed pedestrian data, explicit OSM incline evidence, and configured terrain context.",
+    "process_description": "Generated from node workflow executions and OpenStreetMap history services.",
     "sources": [
-      "data/processed",
-      "OpenStreetMap incline tags",
-      "Copernicus DEM"
+      "OpenStreetMap",
+      "ohsome API",
+      "OSWM workflows"
     ]
   },
   "quality": {
@@ -76,31 +76,31 @@
     "deterministic": true
   },
   "distribution": {
-    "resource_path": "data/routing/metadata.json",
-    "access_url": "https://opensidewalkmap.github.io/oslo/data/routing/metadata.json",
-    "download_url": "https://opensidewalkmap.github.io/oslo/data/routing/metadata.json",
+    "resource_path": "data/updates/watcher_history.json",
+    "access_url": "https://opensidewalkmap.github.io/oslo/data/updates/watcher_history.json",
+    "download_url": "https://opensidewalkmap.github.io/oslo/data/updates/watcher_history.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 3096,
+    "byte_size": 93745,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "3655ab3811b4d0b96222488f7d0e705ea46d8dad7ffe6b1f94bec6672321d94b"
+      "value": "8657fdf80212ac03b1226ffa961f13e21724516b4c16b34089abcd37b094498d"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://opensidewalkmap.github.io/oslo/metadata/routing/metadata.json.metadata.json",
+      "href": "https://opensidewalkmap.github.io/oslo/metadata/updates/watcher_history.json.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://opensidewalkmap.github.io/oslo/data/routing/metadata.json",
+      "href": "https://opensidewalkmap.github.io/oslo/data/updates/watcher_history.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://opensidewalkmap.github.io/oslo/metadata/routing/index.json",
+      "href": "https://opensidewalkmap.github.io/oslo/metadata/updates/index.json",
       "type": "application/json"
     }
   ]
