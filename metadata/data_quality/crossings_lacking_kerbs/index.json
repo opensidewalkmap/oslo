@@ -70,14 +70,14 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-06T13:51:11+00:00",
+    "updated": "2026-09-07T15:10:30+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-06T13:43:59Z",
-      "Data Pre-Processing": "2026-09-06T13:44:12Z",
-      "Data Quality Tool": "2026-09-06T13:44:37Z",
-      "Completeness Analysis": "2026-09-01T14:11:38Z",
-      "Statistical Charts": "2026-09-06T13:44:47Z",
+      "Data Pre-Processing": "2026-09-07T14:33:15Z",
+      "Data Quality Tool": "2026-09-07T15:01:21Z",
+      "Completeness Analysis": "2026-09-07T15:10:13Z",
+      "Statistical Charts": "2026-09-07T15:10:30Z",
       "OSWM Codebase Revision": "7c0091b120eb30b8010c3508217590045ae7383a",
       "Pipeline Success": "2026-09-06T12:24:50Z",
       "Wiki check for keys": "2026-09-06T13:51:11Z"
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-06T13:51:11+00:00",
+    "generated_at": "2026-09-07T15:10:30+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "7c0091b120eb30b8010c3508217590045ae7383a",
-      "commit_date": "2026-09-01T03:48:21-03:00"
+      "commit": "9355a89512c865702b47ed7fdafb655caf7da425",
+      "commit_date": "2026-09-07T20:26:59+09:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/data_quality/crossings_lacking_kerbs/crossings_lacking_kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 126976,
+      "byte_size": 127053,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4d47202ddaa53201e99cb3351960912ff01c2f2faad464e9a85f53e9c948b68f"
+        "value": "443c871127046f9be6f7b107dd2aa1a1c1ab1ad48497437a74dbe2d48fae2b6d"
       }
     }
   ],

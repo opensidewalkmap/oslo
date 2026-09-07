@@ -70,14 +70,14 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-06T13:51:11+00:00",
+    "updated": "2026-09-07T15:10:30+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-06T13:43:59Z",
-      "Data Pre-Processing": "2026-09-06T13:44:12Z",
-      "Data Quality Tool": "2026-09-06T13:44:37Z",
-      "Completeness Analysis": "2026-09-01T14:11:38Z",
-      "Statistical Charts": "2026-09-06T13:44:47Z",
+      "Data Pre-Processing": "2026-09-07T14:33:15Z",
+      "Data Quality Tool": "2026-09-07T15:01:21Z",
+      "Completeness Analysis": "2026-09-07T15:10:13Z",
+      "Statistical Charts": "2026-09-07T15:10:30Z",
       "OSWM Codebase Revision": "7c0091b120eb30b8010c3508217590045ae7383a",
       "Pipeline Success": "2026-09-06T12:24:50Z",
       "Wiki check for keys": "2026-09-06T13:51:11Z"
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-06T13:51:11+00:00",
+    "generated_at": "2026-09-07T15:10:30+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "7c0091b120eb30b8010c3508217590045ae7383a",
-      "commit_date": "2026-09-01T03:48:21-03:00"
+      "commit": "9355a89512c865702b47ed7fdafb655caf7da425",
+      "commit_date": "2026-09-07T20:26:59+09:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -121,7 +121,7 @@
       "byte_size": 297330,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b61841e50c31aab3aa8fb57f8764b8b739307a5c2b600528424dc7b5a7bbf406"
+        "value": "072edf046427bcdc8a5453d42f887a5d872bb48b4a5dd5e0c7201a6bdf3eb695"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/main_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 2860937,
+      "byte_size": 2861714,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "bc67f5379309752c130e49a4794d6d8499d64ea6f44ac2fcfeece7b58355b79a"
+        "value": "72532787b1fb042b210901e3c29c3de8040712afa5a98eb802191d8b360e8a00"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/pedestrian_areas.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 361470,
+      "byte_size": 361393,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "2a00971966162fd74bac920a83397872a6f685640daf006981573d48587261ef"
+        "value": "c1c762e509ae2e3600bbde985272ddd80052f1fece50dbf30b6a48cd092bee35"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/potential_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3870901,
+      "byte_size": 3874112,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "755b1c00338f8859be4fb7e765f4c6ff57c648a4562c1fee5aec390f87bb7d15"
+        "value": "f8fc9c1b24b964780671c7dbca828ab47fc8e26cacdd81a0a263905517d039c5"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways/stairways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 376803,
+      "byte_size": 377097,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "548773dcaa08ea59f4b4115e72e40b973744e04518a5761ada7894f697fb1442"
+        "value": "5202e97ba14e077d6b7340378106825349bb453ea3c48a6221518a598e9b462d"
       }
     }
   ],

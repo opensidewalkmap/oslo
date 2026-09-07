@@ -70,14 +70,14 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-06T13:51:11+00:00",
+    "updated": "2026-09-07T15:10:30+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-06T13:43:59Z",
-      "Data Pre-Processing": "2026-09-06T13:44:12Z",
-      "Data Quality Tool": "2026-09-06T13:44:37Z",
-      "Completeness Analysis": "2026-09-01T14:11:38Z",
-      "Statistical Charts": "2026-09-06T13:44:47Z",
+      "Data Pre-Processing": "2026-09-07T14:33:15Z",
+      "Data Quality Tool": "2026-09-07T15:01:21Z",
+      "Completeness Analysis": "2026-09-07T15:10:13Z",
+      "Statistical Charts": "2026-09-07T15:10:30Z",
       "OSWM Codebase Revision": "7c0091b120eb30b8010c3508217590045ae7383a",
       "Pipeline Success": "2026-09-06T12:24:50Z",
       "Wiki check for keys": "2026-09-06T13:51:11Z"
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-06T13:51:11+00:00",
+    "generated_at": "2026-09-07T15:10:30+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "7c0091b120eb30b8010c3508217590045ae7383a",
-      "commit_date": "2026-09-01T03:48:21-03:00"
+      "commit": "9355a89512c865702b47ed7fdafb655caf7da425",
+      "commit_date": "2026-09-07T20:26:59+09:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/crossings.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 575195,
+      "byte_size": 575228,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "fa1ff808a17e65488db8318d0cf28e51c4bed2be1ff1d6dc5ae36b0e383ff3cf"
+        "value": "04e5d5b02800c46226fc0c17d6dfe2901f6e812a3ccfe33e77441b5faaa24350"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 356472,
+      "byte_size": 355934,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "36027202e9c3ca0d9683bd52e367af9849b4badd4a370bbc4d96fd13d6c72d7f"
+        "value": "181bc02d65b21102a2705bad3251329cd7bbd458c6b6970ee6036bdd8e065c66"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 6847557,
+      "byte_size": 6849110,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "fd59f28cd430230d63f95fd13ce64ab4844e537dfc547b7d918e8a4bcbcb25a9"
+        "value": "245944d30151ebfeff0140bbb83eea3979c4529cf6533281a57c4f6525a2281e"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/roads_for_completeness.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3503306,
+      "byte_size": 3506694,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a8bf738721b2962eaa4f91f7b32bc3f1bc48d6a647a0bfe06efe9883cc1bc3b6"
+        "value": "1217f39c53dfcf57a6b7f4bb6cab918a2db617b593b87b15e8cda8d9c41b3e95"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/sidewalks.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1626328,
+      "byte_size": 1627554,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "9ce7fdf8c6cc93410000b49fc3e52fc9eebab6c08dd71d7e875c49b5765c6412"
+        "value": "1f2d99f23ed526a14192f8ba17a419a272c4df3ed0b5a835317e2afb16f9a6aa"
       }
     }
   ],
