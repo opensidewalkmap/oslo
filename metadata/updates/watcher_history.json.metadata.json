@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-09-07T15:10:30+00:00",
+    "updated": "2026-09-07T16:32:19+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-06T13:43:59Z",
@@ -42,8 +42,8 @@
       "Data Quality Tool": "2026-09-07T15:01:21Z",
       "Completeness Analysis": "2026-09-07T15:10:13Z",
       "Statistical Charts": "2026-09-07T15:10:30Z",
-      "OSWM Codebase Revision": "7c0091b120eb30b8010c3508217590045ae7383a",
-      "Pipeline Success": "2026-09-06T12:24:50Z",
+      "OSWM Codebase Revision": "9355a89512c865702b47ed7fdafb655caf7da425",
+      "Pipeline Success": "2026-09-07T16:32:19Z",
       "Wiki check for keys": "2026-09-06T13:51:11Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-07T15:10:30+00:00",
+    "generated_at": "2026-09-07T16:32:19+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "9355a89512c865702b47ed7fdafb655caf7da425",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/updates/watcher_history.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 93743,
+    "byte_size": 93745,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "78a979ac44249777452d2de7770d34c226e3467179613507d672a741d52dc8f0"
+      "value": "62fff76ee36eefc4c39f62ea470b933555999a142cf370a7736f5e826fdda4e1"
     }
   },
   "links": [
