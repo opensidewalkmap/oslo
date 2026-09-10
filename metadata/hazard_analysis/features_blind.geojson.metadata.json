@@ -35,10 +35,10 @@
     ],
     "conformance_note": "This is an OSWM JSON application profile. Geographic ISO concepts are applied only to geographic or mixed resources; the profile does not claim conformance to the ISO 19115-3 XML encoding."
   },
-  "identifier": "https://opensidewalkmap.github.io/oslo/metadata/tiles/potential_footways.pmtiles.metadata.json",
-  "resource_type": "tileset",
-  "title": "Oslo, Norway — Potential Footways",
-  "abstract": "PMTiles packages generated for efficient static web-map delivery. This record describes the PMTiles distribution at data/tiles/potential_footways.pmtiles.",
+  "identifier": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_blind.geojson.metadata.json",
+  "resource_type": "dataset",
+  "title": "Oslo, Norway — Features Blind",
+  "abstract": "Profile-specific hazard evidence, rules, tiles, and terrain-context products. This record describes the GeoJSON distribution at data/hazard_analysis/features_blind.geojson.",
   "language": "en",
   "responsible_parties": [
     {
@@ -84,9 +84,11 @@
     }
   },
   "lineage": {
-    "process_description": "Derived from processed OSWM pedestrian-network layers.",
+    "process_description": "Derived from OSWM pedestrian features, accessibility rules, and configured terrain context.",
     "sources": [
-      "data/processed"
+      "data/processed",
+      "OpenStreetMap",
+      "Copernicus DEM"
     ]
   },
   "quality": {
@@ -111,31 +113,31 @@
     "deterministic": true
   },
   "distribution": {
-    "resource_path": "data/tiles/potential_footways.pmtiles",
-    "access_url": "https://opensidewalkmap.github.io/oslo/data/tiles/potential_footways.pmtiles",
-    "download_url": "https://opensidewalkmap.github.io/oslo/data/tiles/potential_footways.pmtiles",
-    "media_type": "application/vnd.pmtiles",
-    "format": "PMTiles",
-    "byte_size": 58797680,
+    "resource_path": "data/hazard_analysis/features_blind.geojson",
+    "access_url": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_blind.geojson",
+    "download_url": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_blind.geojson",
+    "media_type": "application/geo+json",
+    "format": "GeoJSON",
+    "byte_size": 63796271,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "e8bc75d0f5064322afffe55f40a0979e296f257e8bcd417880c20f760e96ed55"
+      "value": "d775c51443f7e4b8f4d9875fad27a55cdd7526368d95ec307b4db95cae9c8235"
     }
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://opensidewalkmap.github.io/oslo/metadata/tiles/potential_footways.pmtiles.metadata.json",
+      "href": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_blind.geojson.metadata.json",
       "type": "application/json"
     },
     {
       "rel": "describes",
-      "href": "https://opensidewalkmap.github.io/oslo/data/tiles/potential_footways.pmtiles",
-      "type": "application/vnd.pmtiles"
+      "href": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_blind.geojson",
+      "type": "application/geo+json"
     },
     {
       "rel": "collection",
-      "href": "https://opensidewalkmap.github.io/oslo/metadata/tiles/index.json",
+      "href": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/index.json",
       "type": "application/json"
     }
   ]

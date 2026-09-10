@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Oslo, Norway",
-    "generated_at": "2026-09-07T15:00:50.782371+00:00",
+    "generated_at": "2026-09-10T13:32:47.978788+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -641,51 +641,51 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.002738,
-            "max": 22.078029,
-            "mean": 3.973775,
-            "median": 2.874743,
+            "min": 0.010951,
+            "max": 22.086242,
+            "mean": 3.981989,
+            "median": 2.882957,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 15329,
+                    "count": 15073,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 26365,
+                    "count": 26616,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 17349,
+                    "count": 17315,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 6215,
+                    "count": 6254,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 1651,
+                    "count": 1646,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 4231,
+                    "count": 4236,
                     "color": "#440154"
                 }
             ],
