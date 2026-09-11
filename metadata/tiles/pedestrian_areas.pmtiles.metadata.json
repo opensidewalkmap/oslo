@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-10T13:40:04+00:00",
+    "updated": "2026-09-11T13:33:35+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-06T13:43:59Z",
-      "Data Pre-Processing": "2026-09-10T13:10:10Z",
-      "Data Quality Tool": "2026-09-10T13:33:10Z",
-      "Completeness Analysis": "2026-09-10T13:39:49Z",
-      "Statistical Charts": "2026-09-10T13:40:04Z",
-      "OSWM Codebase Revision": "9355a89512c865702b47ed7fdafb655caf7da425",
-      "Pipeline Success": "2026-09-09T13:13:34Z",
+      "Data Pre-Processing": "2026-09-11T13:03:53Z",
+      "Data Quality Tool": "2026-09-11T13:26:05Z",
+      "Completeness Analysis": "2026-09-11T13:33:19Z",
+      "Statistical Charts": "2026-09-11T13:33:35Z",
+      "OSWM Codebase Revision": "ec230ff28d3fbf7433bdd602df2041c2f08f2e35",
+      "Pipeline Success": "2026-09-10T14:41:01Z",
       "Wiki check for keys": "2026-09-06T13:51:11Z"
     }
   },
@@ -101,11 +101,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-10T13:40:04+00:00",
+    "generated_at": "2026-09-11T13:33:35+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "ec230ff28d3fbf7433bdd602df2041c2f08f2e35",
-      "commit_date": "2026-09-09T18:15:00-03:00"
+      "commit": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
+      "commit_date": "2026-09-10T09:30:35-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -116,10 +116,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/tiles/pedestrian_areas.pmtiles",
     "media_type": "application/vnd.pmtiles",
     "format": "PMTiles",
-    "byte_size": 9323734,
+    "byte_size": 9323774,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "dc9063c7b624eff701534decc1feada0db0cd63f204d289d7bff79781e1b86ad"
+      "value": "1091f85c59bf0ec3c637ffd2df92f172116a0c2b228657025f6284a53dc28b6c"
     }
   },
   "links": [
