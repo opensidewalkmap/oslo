@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-16T13:49:01+00:00",
+    "updated": "2026-09-18T13:42:13+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-13T14:24:53Z",
-      "Data Pre-Processing": "2026-09-13T14:25:06Z",
-      "Data Quality Tool": "2026-09-13T14:25:31Z",
-      "Completeness Analysis": "2026-09-11T13:33:19Z",
-      "Statistical Charts": "2026-09-13T14:25:40Z",
+      "Data Pre-Processing": "2026-09-18T13:12:22Z",
+      "Data Quality Tool": "2026-09-18T13:34:39Z",
+      "Completeness Analysis": "2026-09-18T13:41:58Z",
+      "Statistical Charts": "2026-09-18T13:42:13Z",
       "OSWM Codebase Revision": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
-      "Pipeline Success": "2026-09-16T13:49:01Z",
+      "Pipeline Success": "2026-09-17T13:55:19Z",
       "Wiki check for keys": "2026-09-13T14:32:31Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-16T13:49:01+00:00",
+    "generated_at": "2026-09-18T13:42:13+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "3023fa63ac1616fee45d5e874ef4278b3ca0b5ca",
-      "commit_date": "2026-09-10T09:30:35-03:00"
+      "commit": "f5fa3e6205344e6fe917e0fb103e80405150dbb4",
+      "commit_date": "2026-09-17T15:30:18-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/processed/crossings.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 575389,
+    "byte_size": 575657,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "b11eec96eb31c13f13c424625dd7a4247b79fe19c52d0edd023919ce26fb4a30"
+      "value": "141d9a7704e789d8e7c7ea52716d98814382be9ca4404d0740976642a68fc1b4"
     }
   },
   "links": [

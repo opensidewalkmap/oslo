@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Oslo, Norway",
-    "generated_at": "2026-09-11T13:25:43.117854+00:00",
+    "generated_at": "2026-09-18T13:34:10.347687+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -642,50 +642,50 @@
             "unknownPercent": 0.0,
             "invalid": 0,
             "min": 0.013689,
-            "max": 22.08898,
-            "mean": 3.984727,
-            "median": 2.885695,
+            "max": 22.108145,
+            "mean": 3.996274,
+            "median": 2.90486,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 15064,
+                    "count": 14946,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 26611,
+                    "count": 26518,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 17323,
+                    "count": 17514,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 6260,
+                    "count": 6264,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 1646,
+                    "count": 1661,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 4236,
+                    "count": 4237,
                     "color": "#440154"
                 }
             ],
@@ -723,35 +723,35 @@
             "invalid": 5,
             "min": 1.0,
             "max": 47.0,
-            "mean": 3.14398,
+            "mean": 3.147888,
             "median": 2.0,
             "bins": [
                 {
                     "label": "0–<5",
                     "lower": 0.0,
                     "upper": 5.0,
-                    "count": 56936,
+                    "count": 56916,
                     "color": "#1d1147"
                 },
                 {
                     "label": "5–<10",
                     "lower": 5.0,
                     "upper": 10.0,
-                    "count": 11584,
+                    "count": 11598,
                     "color": "#51127c"
                 },
                 {
                     "label": "10–<15",
                     "lower": 10.0,
                     "upper": 15.0,
-                    "count": 1926,
+                    "count": 1930,
                     "color": "#832681"
                 },
                 {
                     "label": "15–<20",
                     "lower": 15.0,
                     "upper": 20.0,
-                    "count": 484,
+                    "count": 486,
                     "color": "#b73779"
                 },
                 {
