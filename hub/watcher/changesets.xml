@@ -4,59 +4,59 @@
     <title>OSWM Watcher Changeset Activity - Oslo, Norway</title>
     <link>https://opensidewalkmap.github.io/oslo/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Oslo, Norway.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 13:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:54:05 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 189328368 by Peter Brodersen (0 additions, 182 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189328368</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189328368&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Peter Brodersen&quot;&gt;Peter Brodersen&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189413327 by Peter Brodersen (0 additions, 19 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189413327</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189413327&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Peter Brodersen&quot;&gt;Peter Brodersen&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adding data with #MapComplete for theme #etymology&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 182&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 19&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189328368&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189328368&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189413327&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189413327&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Sep 2026 05:48:38 GMT</pubDate>
-        <guid isPermaLink="false">activity_189328368</guid>
+        <pubDate>Tue, 22 Sep 2026 17:56:09 GMT</pubDate>
+        <guid isPermaLink="false">activity_189413327</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189356750 by cartographique (0 additions, 8 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189356750</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189356750&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/cartographique&quot;&gt;cartographique&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; small refinements&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189414493 by Hannervc (0 additions, 4 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189414493</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189414493&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hannervc&quot;&gt;Hannervc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether ways are lit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 8&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189356750&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189356750&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189414493&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189414493&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Sep 2026 16:10:30 GMT</pubDate>
-        <guid isPermaLink="false">activity_189356750</guid>
+        <pubDate>Tue, 22 Sep 2026 18:20:33 GMT</pubDate>
+        <guid isPermaLink="false">activity_189414493</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189366095 by LandskapsLars (1 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189366095</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189366095&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/LandskapsLars&quot;&gt;LandskapsLars&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; adding grennery to Stabekk&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189414964 by Hannervc (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189414964</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189414964&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hannervc&quot;&gt;Hannervc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify paths smoothness&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189366095&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189366095&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189414964&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189414964&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Sep 2026 19:49:09 GMT</pubDate>
-        <guid isPermaLink="false">activity_189366095</guid>
+        <pubDate>Tue, 22 Sep 2026 18:33:17 GMT</pubDate>
+        <guid isPermaLink="false">activity_189414964</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 189355721 by ETribbia (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/189355721</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189355721&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/ETribbia&quot;&gt;ETribbia&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 189414953 by Hannervc (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189414953</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189414953&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hannervc&quot;&gt;Hannervc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -64,10 +64,170 @@
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189355721&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189355721&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189414953&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189414953&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Sep 2026 15:49:06 GMT</pubDate>
-        <guid isPermaLink="false">activity_189355721</guid>
+        <pubDate>Tue, 22 Sep 2026 18:32:53 GMT</pubDate>
+        <guid isPermaLink="false">activity_189414953</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189392549 by uelv (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189392549</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189392549&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/uelv&quot;&gt;uelv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; fixed tags&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189392549&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189392549&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 10:51:56 GMT</pubDate>
+        <guid isPermaLink="false">activity_189392549</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189423960 by forteller (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189423960</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189423960&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/forteller&quot;&gt;forteller&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether kerbs have tactile paving&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189423960&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189423960&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 23:42:35 GMT</pubDate>
+        <guid isPermaLink="false">activity_189423960</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189423959 by forteller (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189423959</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189423959&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/forteller&quot;&gt;forteller&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189423959&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189423959&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 23:42:35 GMT</pubDate>
+        <guid isPermaLink="false">activity_189423959</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189423956 by forteller (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189423956</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189423956&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/forteller&quot;&gt;forteller&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189423956&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189423956&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 23:42:34 GMT</pubDate>
+        <guid isPermaLink="false">activity_189423956</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189408486 by Hannervc (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189408486</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189408486&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hannervc&quot;&gt;Hannervc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether ways are lit&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189408486&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189408486&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 16:13:23 GMT</pubDate>
+        <guid isPermaLink="false">activity_189408486</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189407923 by LandskapsLars (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189407923</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189407923&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/LandskapsLars&quot;&gt;LandskapsLars&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; adding grass to Fornebu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189407923&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189407923&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 16:02:12 GMT</pubDate>
+        <guid isPermaLink="false">activity_189407923</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189406748 by Hannervc (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189406748</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189406748&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hannervc&quot;&gt;Hannervc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Determine the heights of kerbs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189406748&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189406748&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 15:40:46 GMT</pubDate>
+        <guid isPermaLink="false">activity_189406748</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189402333 by Cato_d_Ae (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189402333</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189402333&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Cato_d_Ae&quot;&gt;Cato_d_Ae&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189402333&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189402333&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 14:15:14 GMT</pubDate>
+        <guid isPermaLink="false">activity_189402333</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189391958 by uelv (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189391958</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189391958&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/uelv&quot;&gt;uelv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; removed non paths&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189391958&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189391958&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 10:36:25 GMT</pubDate>
+        <guid isPermaLink="false">activity_189391958</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 189387117 by uelv (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/189387117</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 189387117&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/uelv&quot;&gt;uelv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; permissions on trunk roads&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/189387117&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/189387117&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2026 09:00:29 GMT</pubDate>
+        <guid isPermaLink="false">activity_189387117</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 183198487 by Ween90 (20 deletions)</title>

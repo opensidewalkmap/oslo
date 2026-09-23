@@ -34,7 +34,7 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-09-21T15:24:44+00:00",
+    "updated": "2026-09-22T13:43:57+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-13T14:24:53Z",
@@ -43,7 +43,7 @@
       "Completeness Analysis": "2026-09-20T14:09:00Z",
       "Statistical Charts": "2026-09-20T14:09:16Z",
       "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-21T15:24:44Z",
+      "Pipeline Success": "2026-09-22T13:43:57Z",
       "Wiki check for keys": "2026-09-13T14:32:31Z"
     }
   },
@@ -67,7 +67,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-21T15:24:44+00:00",
+    "generated_at": "2026-09-22T13:43:57+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 1481,
+    "byte_size": 5052,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "d8674eaa540623e3d3ff25665729b212df5014e866cd417d9d6fd9a1a832650e"
+      "value": "b129260fdad2e9090e419ff213603797d82192029ab8f80373dcd0b94fbc1705"
     }
   },
   "links": [
