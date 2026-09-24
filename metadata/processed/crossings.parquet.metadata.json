@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-22T13:43:57+00:00",
+    "updated": "2026-09-24T14:14:44+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-13T14:24:53Z",
-      "Data Pre-Processing": "2026-09-20T13:17:54Z",
-      "Data Quality Tool": "2026-09-20T13:42:56Z",
-      "Completeness Analysis": "2026-09-20T14:09:00Z",
-      "Statistical Charts": "2026-09-20T14:09:16Z",
+      "Data Pre-Processing": "2026-09-24T13:50:20Z",
+      "Data Quality Tool": "2026-09-24T14:07:23Z",
+      "Completeness Analysis": "2026-09-24T14:14:31Z",
+      "Statistical Charts": "2026-09-24T14:14:44Z",
       "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-22T13:43:57Z",
+      "Pipeline Success": "2026-09-23T13:55:00Z",
       "Wiki check for keys": "2026-09-13T14:32:31Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-22T13:43:57+00:00",
+    "generated_at": "2026-09-24T14:14:44+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "commit_date": "2026-09-19T11:18:56-03:00"
+      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "commit_date": "2026-09-23T16:13:34-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -117,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/processed/crossings.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 575737,
+    "byte_size": 575250,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "6e59a5d4cb13423926be010182b978fc2e03b962cb5be565c6a53c1cf82a7f07"
+      "value": "671c96581f42906b4db213c788618665c304d62d885b76cd4fdbf077dbcf5a4e"
     }
   },
   "links": [

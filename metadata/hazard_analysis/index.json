@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-22T13:43:57+00:00",
+    "updated": "2026-09-24T14:14:44+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-13T14:24:53Z",
-      "Data Pre-Processing": "2026-09-20T13:17:54Z",
-      "Data Quality Tool": "2026-09-20T13:42:56Z",
-      "Completeness Analysis": "2026-09-20T14:09:00Z",
-      "Statistical Charts": "2026-09-20T14:09:16Z",
+      "Data Pre-Processing": "2026-09-24T13:50:20Z",
+      "Data Quality Tool": "2026-09-24T14:07:23Z",
+      "Completeness Analysis": "2026-09-24T14:14:31Z",
+      "Statistical Charts": "2026-09-24T14:14:44Z",
       "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-22T13:43:57Z",
+      "Pipeline Success": "2026-09-23T13:55:00Z",
       "Wiki check for keys": "2026-09-13T14:32:31Z"
     }
   },
@@ -103,16 +103,28 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-22T13:43:57+00:00",
+    "generated_at": "2026-09-24T14:14:44+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "commit_date": "2026-09-19T11:18:56-03:00"
+      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "commit_date": "2026-09-23T16:13:34-03:00"
     },
     "source_root": "data",
     "deterministic": true
   },
   "assets": [
+    {
+      "title": "Features Blind",
+      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_blind.geojson",
+      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_blind.geojson.metadata.json",
+      "media_type": "application/geo+json",
+      "format": "GeoJSON",
+      "byte_size": 63796271,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "d775c51443f7e4b8f4d9875fad27a55cdd7526368d95ec307b4db95cae9c8235"
+      }
+    },
     {
       "title": "Features Blind",
       "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_blind.parquet",
@@ -123,6 +135,18 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "2623e5a9b6e019324a95ff3280f3667e5bd24ef2717d51eb749be9de0ad21330"
+      }
+    },
+    {
+      "title": "Features Elderly",
+      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_elderly.geojson",
+      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
+      "media_type": "application/geo+json",
+      "format": "GeoJSON",
+      "byte_size": 64200940,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "b7819e6aa4205ca0f1c2042fa8df1002c71d87209f81f69159805d70e646f5b6"
       }
     },
     {
@@ -139,6 +163,18 @@
     },
     {
       "title": "Features Pedestrian",
+      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_pedestrian.geojson",
+      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_pedestrian.geojson.metadata.json",
+      "media_type": "application/geo+json",
+      "format": "GeoJSON",
+      "byte_size": 63773936,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "906c5e3357b3af9f1c8c05776834a2df6cdd0ccaf92a9f2fb16e9cca84ae5776"
+      }
+    },
+    {
+      "title": "Features Pedestrian",
       "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_pedestrian.parquet",
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_pedestrian.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
@@ -147,6 +183,18 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "7a2d60539cec619c936977f0db7a11a6ac91514436d4d85ef7246cf48efae58b"
+      }
+    },
+    {
+      "title": "Features Wheelchair",
+      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_wheelchair.geojson",
+      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
+      "media_type": "application/geo+json",
+      "format": "GeoJSON",
+      "byte_size": 64365437,
+      "checksum": {
+        "algorithm": "SHA-256",
+        "value": "156d995dda4d73eebe403ad7457608cdee59fedd13aa68475b98ed108347ff52"
       }
     },
     {
@@ -194,7 +242,7 @@
       "byte_size": 3691,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "2f5d447e056c841ef9134b015c43e21f8a2ab1b03b1e0668e220542186411af8"
+        "value": "b2843e48813c41af8c82ca1020a8642d232d2e909745180faafb70207e072f8a"
       }
     },
     {
@@ -230,7 +278,7 @@
       "byte_size": 2084,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "3bdf30c55edb8a8ea6db412922264cb7b6fa2f24fc907d344ab6cf6965958d0e"
+        "value": "dae47cb1e58ad3fb51d022310d4cc23373e2d4d67b30d16309b6c362221d57d6"
       }
     },
     {
