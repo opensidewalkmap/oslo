@@ -34,16 +34,16 @@
   ],
   "spatial": null,
   "temporal": {
-    "updated": "2026-09-24T14:14:44+00:00",
+    "updated": "2026-09-25T14:49:32+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-13T14:24:53Z",
-      "Data Pre-Processing": "2026-09-24T13:50:20Z",
-      "Data Quality Tool": "2026-09-24T14:07:23Z",
-      "Completeness Analysis": "2026-09-24T14:14:31Z",
-      "Statistical Charts": "2026-09-24T14:14:44Z",
-      "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-23T13:55:00Z",
+      "Data Pre-Processing": "2026-09-25T14:15:28Z",
+      "Data Quality Tool": "2026-09-25T14:41:11Z",
+      "Completeness Analysis": "2026-09-25T14:49:14Z",
+      "Statistical Charts": "2026-09-25T14:49:32Z",
+      "OSWM Codebase Revision": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "Pipeline Success": "2026-09-24T15:07:56Z",
       "Wiki check for keys": "2026-09-13T14:32:31Z"
     }
   },
@@ -66,11 +66,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-24T14:14:44+00:00",
+    "generated_at": "2026-09-25T14:49:32+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
-      "commit_date": "2026-09-23T16:13:34-03:00"
+      "commit": "e66ae89639df209eee5e54399f8722614ff97054",
+      "commit_date": "2026-09-25T06:58:12-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -81,10 +81,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/snapshots/node_summary.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 26751,
+    "byte_size": 26750,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "10206c41ad6207f2894d8e5ca6f3fc84c29e8921cfd5d6e8b8b635a881015e7d"
+      "value": "60c273d5b020b15b9725aca9454424a23fcc73ac0e65ec377bac067e9637a34f"
     }
   },
   "links": [

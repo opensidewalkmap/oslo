@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-24T14:14:44+00:00",
+    "updated": "2026-09-25T14:49:32+00:00",
     "node_registry": {
       "Data Fetching": "2026-08-29T13:51:23Z",
       "Versioning Data": "2026-09-13T14:24:53Z",
-      "Data Pre-Processing": "2026-09-24T13:50:20Z",
-      "Data Quality Tool": "2026-09-24T14:07:23Z",
-      "Completeness Analysis": "2026-09-24T14:14:31Z",
-      "Statistical Charts": "2026-09-24T14:14:44Z",
-      "OSWM Codebase Revision": "5d7e470015e5e5327cdeaa4d3511d919e4e21d8b",
-      "Pipeline Success": "2026-09-23T13:55:00Z",
+      "Data Pre-Processing": "2026-09-25T14:15:28Z",
+      "Data Quality Tool": "2026-09-25T14:41:11Z",
+      "Completeness Analysis": "2026-09-25T14:49:14Z",
+      "Statistical Charts": "2026-09-25T14:49:32Z",
+      "OSWM Codebase Revision": "231b2d9dc31ff40226041e9097f2a523feae5474",
+      "Pipeline Success": "2026-09-24T15:07:56Z",
       "Wiki check for keys": "2026-09-13T14:32:31Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-24T14:14:44+00:00",
+    "generated_at": "2026-09-25T14:49:32+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "231b2d9dc31ff40226041e9097f2a523feae5474",
-      "commit_date": "2026-09-23T16:13:34-03:00"
+      "commit": "e66ae89639df209eee5e54399f8722614ff97054",
+      "commit_date": "2026-09-25T06:58:12-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -242,7 +242,7 @@
       "byte_size": 3691,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b2843e48813c41af8c82ca1020a8642d232d2e909745180faafb70207e072f8a"
+        "value": "d320f9188fa95096d0a8851afddffd04a53fd7ae8c434330b23edd496fc5469f"
       }
     },
     {
@@ -278,7 +278,7 @@
       "byte_size": 2084,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "dae47cb1e58ad3fb51d022310d4cc23373e2d4d67b30d16309b6c362221d57d6"
+        "value": "de09f7f39984fdcab2cfd3ffb7ab64598da8cd2e70dfe7b3d2a504e8763b78ea"
       }
     },
     {
