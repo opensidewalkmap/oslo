@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "renderer_version": 2,
+  "renderer_version": 3,
   "node": "Oslo, Norway",
   "bounds": [
     10.4891652,
@@ -10,8 +10,12 @@
   ],
   "source": {
     "tilejson": "https://tiles.openfreemap.org/planet",
-    "versioned_template": "https://tiles.openfreemap.org/planet/20260830_080001_pt/{z}/{x}/{y}.pbf",
-    "attribution": "Basemap \u00a9 OpenFreeMap, \u00a9 OpenMapTiles; data \u00a9 OpenStreetMap contributors"
+    "versioned_template": "https://tiles.openfreemap.org/planet/20260913_164504_pt/{z}/{x}/{y}.pbf",
+    "attribution": "Basemap \u00a9 OpenFreeMap, \u00a9 OpenMapTiles; data \u00a9 OpenStreetMap contributors",
+    "style_basis": {
+      "light": "OpenFreeMap Positron",
+      "dark": "OpenFreeMap Dark Matter"
+    }
   },
   "min_zoom": 10,
   "requested_max_zoom": 16,
@@ -22,12 +26,12 @@
   "outputs": {
     "light": {
       "path": "data/basemaps/light.pmtiles",
-      "bytes": 88632333
+      "bytes": 65685906
     },
     "dark": {
       "path": "data/basemaps/dark.pmtiles",
-      "bytes": 77336252
+      "bytes": 78098230
     }
   },
-  "elapsed_seconds": 171.66029052800013
+  "elapsed_seconds": 165.11209615199982
 }

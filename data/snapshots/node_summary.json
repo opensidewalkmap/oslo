@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Oslo, Norway",
-    "generated_at": "2026-09-25T14:40:41.275260+00:00",
+    "generated_at": "2026-09-29T15:37:46.763169+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -641,51 +641,51 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.032854,
-            "max": 22.12731,
-            "mean": 4.015439,
-            "median": 2.924025,
+            "min": 0.005476,
+            "max": 22.138261,
+            "mean": 3.963842,
+            "median": 2.861054,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 14743,
+                    "count": 15235,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 26593,
+                    "count": 26508,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 17591,
+                    "count": 17302,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 6298,
+                    "count": 6253,
                     "color": "#31688e"
                 },
                 {
                     "label": "8–<10",
                     "lower": 8.0,
                     "upper": 10.0,
-                    "count": 1660,
+                    "count": 1626,
                     "color": "#443983"
                 },
                 {
                     "label": "10+",
                     "lower": 10.0,
                     "upper": null,
-                    "count": 4255,
+                    "count": 4216,
                     "color": "#440154"
                 }
             ],
@@ -723,56 +723,56 @@
             "invalid": 5,
             "min": 1.0,
             "max": 47.0,
-            "mean": 3.147888,
+            "mean": 3.169073,
             "median": 2.0,
             "bins": [
                 {
                     "label": "0–<5",
                     "lower": 0.0,
                     "upper": 5.0,
-                    "count": 56916,
+                    "count": 56772,
                     "color": "#1d1147"
                 },
                 {
                     "label": "5–<10",
                     "lower": 5.0,
                     "upper": 10.0,
-                    "count": 11598,
+                    "count": 11699,
                     "color": "#51127c"
                 },
                 {
                     "label": "10–<15",
                     "lower": 10.0,
                     "upper": 15.0,
-                    "count": 1930,
+                    "count": 1960,
                     "color": "#832681"
                 },
                 {
                     "label": "15–<20",
                     "lower": 15.0,
                     "upper": 20.0,
-                    "count": 486,
+                    "count": 488,
                     "color": "#b73779"
                 },
                 {
                     "label": "20–<25",
                     "lower": 20.0,
                     "upper": 25.0,
-                    "count": 144,
+                    "count": 154,
                     "color": "#e75263"
                 },
                 {
                     "label": "25–<30",
                     "lower": 25.0,
                     "upper": 30.0,
-                    "count": 36,
+                    "count": 35,
                     "color": "#fc8961"
                 },
                 {
                     "label": "30+",
                     "lower": 30.0,
                     "upper": null,
-                    "count": 25,
+                    "count": 27,
                     "color": "#fec488"
                 }
             ],
