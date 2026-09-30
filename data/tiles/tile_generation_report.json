@@ -1,49 +1,57 @@
 {
   "sidewalks": {
     "status": "ok",
-    "filesize": 31632926,
-    "input_features": 6887,
+    "source_sha256": "f63fa2dcf9da5be2eb67728037e84e49c6df81e4d124392c892c2d1be2357799",
+    "filesize": 32511692,
+    "input_features": 6970,
     "max_zoom": 19
   },
   "crossings": {
     "status": "ok",
-    "filesize": 12399688,
-    "input_features": 5896,
+    "source_sha256": "dae1612f252571ad685b5f1fb700082f18a1c67ede020af5b1432c25af8e1d67",
+    "filesize": 12587192,
+    "input_features": 5932,
     "max_zoom": 19
   },
   "kerbs": {
     "status": "ok",
-    "filesize": 10037218,
-    "input_features": 11562,
+    "source_sha256": "2566be1de5f55360e38efc54b2c29d7c7922cd8734e03295b914d6f087648bd1",
+    "filesize": 10053025,
+    "input_features": 11590,
     "max_zoom": 19
   },
   "stairways": {
     "status": "ok",
-    "filesize": 25150383,
-    "input_features": 3159,
+    "source_sha256": "4200a8824a3aa27baf95f3154142979d5458691a8beb778f1759a97ddff47b35",
+    "filesize": 25585053,
+    "input_features": 3184,
     "max_zoom": 19
   },
   "main_footways": {
     "status": "ok",
-    "filesize": 70042323,
-    "input_features": 23214,
+    "source_sha256": "f3a07f4678f616e7d9f16c4979d7ba5a1f949784fdf1101ab375bdc97c89a6d8",
+    "filesize": 70940189,
+    "input_features": 23317,
     "max_zoom": 18
   },
   "potential_footways": {
     "status": "ok",
-    "filesize": 58800104,
-    "input_features": 19476,
+    "source_sha256": "c373e501fbdaba1e1732692b3b12cc9f506bcd9195e6b3527868a8f64418a213",
+    "filesize": 59465718,
+    "input_features": 19509,
     "max_zoom": 17
   },
   "informal_footways": {
     "status": "ok",
-    "filesize": 67186005,
-    "input_features": 547,
+    "source_sha256": "f4933f756faa6f5cceb6bf88765492d0b8e3b9ae663e71d1126d4fac57545d0c",
+    "filesize": 67951658,
+    "input_features": 537,
     "max_zoom": 18
   },
   "pedestrian_areas": {
     "status": "ok",
-    "filesize": 9322663,
+    "source_sha256": "c5275294c1bdbc7fef78ec0aa3655fe6d9dc36aa5d52b9db4f20c8698acb63ac",
+    "filesize": 9426580,
     "input_features": 399,
     "max_zoom": 19
   }

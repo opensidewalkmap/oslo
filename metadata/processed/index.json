@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-29T15:44:41+00:00",
+    "updated": "2026-09-30T13:38:20+00:00",
     "node_registry": {
-      "Data Fetching": "2026-08-29T13:51:23Z",
+      "Data Fetching": "2026-09-30T13:06:15Z",
       "Versioning Data": "2026-09-27T15:15:22Z",
-      "Data Pre-Processing": "2026-09-29T15:10:01Z",
-      "Data Quality Tool": "2026-09-29T15:38:17Z",
-      "Completeness Analysis": "2026-09-29T15:44:23Z",
-      "Statistical Charts": "2026-09-29T15:44:41Z",
-      "OSWM Codebase Revision": "e66ae89639df209eee5e54399f8722614ff97054",
-      "Pipeline Success": "2026-09-28T17:05:14Z",
+      "Data Pre-Processing": "2026-09-30T13:06:28Z",
+      "Data Quality Tool": "2026-09-30T13:30:18Z",
+      "Completeness Analysis": "2026-09-30T13:38:04Z",
+      "Statistical Charts": "2026-09-30T13:38:20Z",
+      "OSWM Codebase Revision": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
+      "Pipeline Success": "2026-09-29T17:05:10Z",
       "Wiki check for keys": "2026-09-27T15:22:42Z"
     }
   },
@@ -102,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-29T15:44:41+00:00",
+    "generated_at": "2026-09-30T13:38:20+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
-      "commit_date": "2026-09-28T13:20:04-03:00"
+      "commit": "965a16397ef6ea8277a23555af982076fa839163",
+      "commit_date": "2026-09-30T09:52:09-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/crossings.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 575394,
+      "byte_size": 576803,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "9a675030cb669e061c86727f39d25a1d8f09b47aafaa100ad632cec2e8d14c4c"
+        "value": "dae1612f252571ad685b5f1fb700082f18a1c67ede020af5b1432c25af8e1d67"
       }
     },
     {
@@ -130,10 +130,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/kerbs.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 356143,
+      "byte_size": 356820,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b547fb6f3dd93d61ce9c27c2b3b137278f9c281f6023049550b4c97f50bc089a"
+        "value": "2566be1de5f55360e38efc54b2c29d7c7922cd8734e03295b914d6f087648bd1"
       }
     },
     {
@@ -142,10 +142,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/other_footways.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 6851584,
+      "byte_size": 6897139,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a503c675d4c9ee8c24b957f559bdb5fc59469729878c731fc04837748d97b90e"
+        "value": "a987659e2b379b519b5af2602629c45d52805adfeb907a7f3b2c67d5b688537d"
       }
     },
     {
@@ -154,10 +154,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/roads_for_completeness.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 3497173,
+      "byte_size": 3500163,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "43289656b9e0726618b703f5372bc70347823059e6fbcf84c6a944ac2f6cc101"
+        "value": "c63eb1295c04285db3ce0dadd23efebd166255923ae0554d36ec60c267142613"
       }
     },
     {
@@ -166,10 +166,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/processed/sidewalks.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 1627603,
+      "byte_size": 1635809,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "6873361407035467240fd2e29ab6016625152504dbf68e8819da6fd7d3bfd8c3"
+        "value": "f63fa2dcf9da5be2eb67728037e84e49c6df81e4d124392c892c2d1be2357799"
       }
     }
   ],

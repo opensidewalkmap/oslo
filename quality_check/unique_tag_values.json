@@ -62,6 +62,7 @@
         ],
         "name": [
             "Trollstien",
+            "Voldsløkka",
             "Storo",
             "CC vest",
             "Lysaker bru",
@@ -152,6 +153,10 @@
         "construction": [
             "footway"
         ],
+        "name:etymology:wikidata": [
+            "Q135012986",
+            "Q2861"
+        ],
         "footway": [
             "sidewalk"
         ],
@@ -211,6 +216,7 @@
         "check_date:surface": [
             "2025-06-02",
             "2025-10-20",
+            "2026-09-25",
             "2024-09-02",
             "2025-09-02",
             "2026-03-21",
@@ -221,8 +227,11 @@
             "2026-05-03",
             "2024-06-04",
             "2026-06-03",
+            "2026-09-03",
             "2021-07-21",
+            "2026-09-05",
             "2026-05-22",
+            "2026-09-27",
             "2026-05-08",
             "2026-06-29",
             "2025-10-31",
@@ -250,6 +259,7 @@
         "check_date:shelter": [
             "2025-10-25",
             "2025-05-23",
+            "2026-09-27",
             "2025-05-12",
             "2025-05-07"
         ],
@@ -311,6 +321,7 @@
             "yes",
             "no",
             "zebra",
+            "pictograms",
             "surface"
         ],
         "crossing_ref": [
@@ -473,6 +484,12 @@
         "maxspeed": [
             "5"
         ],
+        "name:etymology:wikidata": [
+            "Q705048",
+            "Q52927",
+            "Q11967272",
+            "Q208331"
+        ],
         "footway": [
             "crossing"
         ],
@@ -495,9 +512,6 @@
         ],
         "lanes": [
             "2"
-        ],
-        "name:etymology:wikidata": [
-            "Q52927"
         ],
         "motor_vehicle:conditional": [
             "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00; PH off)",
@@ -535,6 +549,7 @@
             "yes"
         ],
         "check_date:surface": [
+            "2026-09-26",
             "2022-07-29",
             "2026-06-24",
             "2025-11-04"
@@ -564,6 +579,9 @@
         ],
         "area:highway": [
             "footway"
+        ],
+        "embedded_rails": [
+            "tram"
         ],
         "check_date:shelter": [
             "2023-07-04"
@@ -691,6 +709,7 @@
             "770850723633577"
         ],
         "description": [
+            "Barriers on both sides of the road. Curb not for pedestrian use",
             "Commemorating the killed in the July 22 terrorist attack by a far right terrorist on youth from AUF on Utøya and the community and solidarity in the days after. Consisting of 1000 metal roses made by artists from around the world, survivors and bereaved."
         ],
         "bench": [
@@ -867,6 +886,9 @@
             "no",
             "yes"
         ],
+        "check_date:tactile_paving": [
+            "2026-09-06"
+        ],
         "source": [
             "survey",
             "knowledge;Norway Orthophoto",
@@ -1020,11 +1042,11 @@
             "local knowledge, bing",
             "survey; gps",
             "Strava;Bing",
-            "estimate;observation",
             "survey;Stava",
             "Strava;survey",
             "contributed;Historic map",
             "Survey",
+            "estimate;observation",
             "Lillomarkas Venner",
             "Reguleringsplan",
             "hoydedata.no NDH Oslo Nordmarka 2pkt 2016",
@@ -1260,9 +1282,15 @@
             "Nygårds allé",
             "Ustvedts vei",
             "Legatveien",
+            "Duehaugveien",
+            "Hasselhaugveien",
+            "Christopher Hansteens vei",
+            "Eventyrveien",
             "Tiurveien",
             "Hjorteveien",
             "Møllesvingen",
+            "Vinkelveien",
+            "Syrenveien",
             "Lindemansgate",
             "Banksjef Frølichs gate",
             "Anton Schjøths gate",
@@ -1374,8 +1402,11 @@
             "Sigbjørn Obstfelders vei",
             "Sørbyhaugen",
             "Stjerneveien",
+            "Holmendammen terrasse",
             "Bjerkebakken",
             "Oberst Angells vei",
+            "Linhusveien",
+            "Bjørnveien",
             "Faunveien",
             "Dagaliveien",
             "Einar Skjæraasens vei",
@@ -1584,7 +1615,6 @@
             "Granhekkveien",
             "Torggata",
             "Gravdalsveien",
-            "Linhusveien",
             "Ullernveien",
             "Kristian Auberts vei",
             "Voksenkollveien",
@@ -1648,7 +1678,6 @@
             "Bueveien",
             "Frysjaveien",
             "Riveveien",
-            "Vinkelveien",
             "Promenadeveien",
             "Plenveien",
             "Åsveien",
@@ -1789,6 +1818,7 @@
             "Lodalsparken",
             "Trettebakken",
             "Otertjernsbakkene",
+            "Nils Tollers vei",
             "Åslandhellinga",
             "Meklenborgåsen",
             "Langteigåsen",
@@ -1867,6 +1897,7 @@
             "Sars' gate",
             "Dalsbergstien",
             "Solbergliveien",
+            "Dalsveien",
             "Admiral Børresens vei",
             "Bygdøyveien",
             "Hengebrua over Bjørnsjøhelvete",
@@ -1903,6 +1934,7 @@
             "Generallunden",
             "Motbakkene",
             "Gamle Enebakkvei",
+            "Granstuveien",
             "Høyenhall plass",
             "Skøyenbakken",
             "Olav Vs gate",
@@ -1914,6 +1946,7 @@
             "Albert Nordengens plass",
             "Ruth Reeses plass",
             "Olafiagangen",
+            "Voksenliveien",
             "Brennagrenda",
             "Tobias homerun",
             "Lillevannsskogen",
@@ -1934,6 +1967,7 @@
             "Portveien",
             "Tante Nellies plass",
             "Terje Nordeides plass",
+            "Sør-Spinneren Vest",
             "Stortorvet",
             "Angstkleiva",
             "Stovnerfaret",
@@ -1996,7 +2030,6 @@
             "Byporten entrance hallway",
             "Dalsåsen",
             "Europaveien",
-            "Problemveien",
             "Skøyen Stasjon plattform C",
             "Karenslyst allé",
             "Akershusstranda",
@@ -2161,9 +2194,9 @@
             "Ragnar Kalheims plass",
             "Kitty Kiellands plass",
             "Kragstubben",
-            "Bjørnveien",
             "Odvar Solbergs vei",
             "Haugmannsveien",
+            "Problemveien",
             "Rosenhoffgata",
             "Driftsvei",
             "Hjaltlandsgata",
@@ -2205,7 +2238,6 @@
             "Frøyas gate",
             "Hovedøya - Gressholmen",
             "Gressholmen - Langøyene",
-            "Christopher Hansteens vei",
             "Gynt Krags plass",
             "Clemensalmenningen",
             "Breisjåveien",
@@ -2217,7 +2249,6 @@
             "Bare Morro",
             "Observatoriegata",
             "Seilduksgata",
-            "Gøteborggata",
             "Grunningen bro",
             "Sinsenengen",
             "Heggeliveien",
@@ -2252,9 +2283,6 @@
             "A5,B1",
             "A5;B1",
             "A5;A10"
-        ],
-        "junction": [
-            "roundabout"
         ],
         "access": [
             "yes",
@@ -2315,11 +2343,11 @@
             "1878",
             "2023-06-10",
             "1946",
-            "2014",
             "2025-03-31",
             "2023-02-17",
             "2017",
             "2020-10-04",
+            "2014",
             "2023-02"
         ],
         "cycle_barrier:installation": [
@@ -2376,12 +2404,14 @@
             "2024-08-22",
             "2026-07-09",
             "2025-07-30",
-            "2025-08-14",
+            "2026-09-06",
             "2025-08-16",
             "2025-09-07",
             "2025-09-10",
             "2025-10-17",
-            "2026-05-29"
+            "2026-09-26",
+            "2026-05-29",
+            "2026-09-27"
         ],
         "horse": [
             "yes",
@@ -2393,7 +2423,8 @@
         ],
         "lift_gate:type": [
             "single",
-            "pivoting"
+            "pivoting",
+            "double"
         ],
         "to": [
             "Haugenstua;Romsås",
@@ -2435,6 +2466,7 @@
             "gravel;ground",
             "mixed",
             "tartan",
+            "metal_grate",
             "cobblestone",
             "rocks",
             "unhewn_cobblestone",
@@ -2464,6 +2496,7 @@
             "signpost points south and east (not west).",
             "difficult, but not impossible for bicycles",
             "cyclist must dismount",
+            "Only buses and trams can open the gate. Vehicles with special permit with tag can also open the gate.",
             "Used for cycle route E18 over Rådhusplassen",
             "part of cycleway 4",
             "adjusted using strava",
@@ -2521,6 +2554,7 @@
             "might be abandoned track, grade5",
             "Illegally built trail and bridge",
             "Shortcut, can be muddy/slippery if the weather has been bad. pictures: http://imgur.com/la8M9",
+            "Access for people with reduced mobility and emergency, service, and transport vehicles.",
             "might be track",
             "historic ski jump hill",
             "path passes ruin (husmannsplass); bad gps accuracy under survey",
@@ -2584,6 +2618,9 @@
             "24/7",
             "Mo-Fr 07:15-17:00",
             "Mo-Fr 07:00-22:00; Sa-Su 09:00-25:00"
+        ],
+        "taxi": [
+            "yes"
         ],
         "swing_gate:type": [
             "double",
@@ -2662,6 +2699,12 @@
             "naturløype",
             "Ny-oppdaget tunnel laget av tyskerene under krigen"
         ],
+        "maxwidth:physical": [
+            "1",
+            "0.5",
+            "1.5",
+            "1.2"
+        ],
         "foot:conditional": [
             "yes",
             "yes @ winter"
@@ -2727,7 +2770,8 @@
             "all gone?",
             "Incomplete",
             "geometry",
-            "needs survey"
+            "needs survey",
+            "Needs survey. Ends in some new stairs?"
         ],
         "bench": [
             "yes"
@@ -2747,12 +2791,6 @@
         ],
         "natural": [
             "cliff"
-        ],
-        "maxwidth:physical": [
-            "1",
-            "0.5",
-            "1.5",
-            "1.2"
         ],
         "height": [
             "2",
@@ -2845,6 +2883,7 @@
             "28",
             "13",
             "25",
+            "23",
             "1",
             "47",
             "79",
@@ -2856,7 +2895,6 @@
             "34",
             "50",
             "65",
-            "23",
             "58",
             "55",
             "60",
@@ -2898,7 +2936,10 @@
             "3",
             "1-2",
             "0-1",
-            "-1;0"
+            "-1;0",
+            "0.5;1",
+            "0;0.5",
+            "1;2"
         ],
         "indoor": [
             "yes",
@@ -2930,6 +2971,7 @@
         "width": [
             "2",
             "6.5",
+            "3",
             "10",
             "3.5",
             "6",
@@ -2939,7 +2981,6 @@
             "5.6",
             "15",
             "0.5 m",
-            "3",
             "8",
             "3.05",
             "1",
@@ -2975,7 +3016,8 @@
             "9",
             "10 m",
             "1.8",
-            "0.8"
+            "0.8",
+            "0.7"
         ],
         "check_date:opening_hours": [
             "2026-08-23"
@@ -3005,6 +3047,12 @@
         "construction": [
             "piste",
             "service"
+        ],
+        "name:etymology": [
+            "Lakkegården",
+            "familien Glückstad, som eide en løkke i nærheten",
+            "en tidligere beboer i området",
+            "eiendommen Heimdalen"
         ],
         "wikidata": [
             "Q11978841",
@@ -3048,9 +3096,15 @@
             "Q19384149",
             "Q19394019",
             "Q24039670",
+            "Q19372587",
+            "Q19373709",
+            "Q19372291",
+            "Q19372797",
             "Q19392599",
             "Q19372684",
             "Q19382214",
+            "Q19398187",
+            "Q20113108",
             "Q11960146",
             "Q15053225",
             "Q19373506",
@@ -3261,6 +3315,7 @@
             "Q19376866",
             "Q19398520",
             "Q11963745",
+            "Q19382999",
             "Q19397967",
             "Q19399526",
             "Q19372035",
@@ -3302,6 +3357,7 @@
             "Q19373689",
             "Q19373290",
             "Q19374514",
+            "Q19373363",
             "Q11993500",
             "Q17750046",
             "Q11998715",
@@ -3335,7 +3391,6 @@
             "Q11994293",
             "Q19384908",
             "Q11997749",
-            "Q19385708",
             "Q11957125",
             "Q19393477",
             "Q19372053",
@@ -3367,13 +3422,13 @@
             "Q20113130",
             "Q11980731",
             "Q65228720",
-            "Q19363201",
             "Q20087029",
             "Q11968736",
             "Q19387372",
             "Q19381041",
             "Q11972160",
             "Q19386129",
+            "Q19385708",
             "Q18686478",
             "Q19366581",
             "Q19379450",
@@ -3389,7 +3444,6 @@
             "Q19392170",
             "Q19374642",
             "Q17775392",
-            "Q19372291",
             "Q15054342",
             "Q19388099",
             "Q17750314",
@@ -3410,6 +3464,241 @@
             "40",
             "60"
         ],
+        "name:etymology:wikidata": [
+            "Q11959580",
+            "Q863932",
+            "Q3365649",
+            "Q3435911",
+            "Q5962069",
+            "Q12006160",
+            "Q17119561",
+            "Q1774711",
+            "Q52927",
+            "Q1775298",
+            "Q4679242",
+            "Q21061015",
+            "Q114612388",
+            "Q72292",
+            "Q21045349",
+            "Q11966919",
+            "Q1398814",
+            "Q705048",
+            "Q157449",
+            "Q1660290",
+            "Q15154553",
+            "Q11958423",
+            "Q11121082",
+            "Q22246698",
+            "Q373615",
+            "Q597622",
+            "Q110915572",
+            "Q61041685",
+            "Q6480458",
+            "Q981668",
+            "Q314450",
+            "Q313005",
+            "Q1991299",
+            "Q204691",
+            "Q972374",
+            "Q1669655",
+            "Q41406",
+            "Q308",
+            "Q4587913",
+            "Q3050652",
+            "Q11978720",
+            "Q155002",
+            "Q141519669",
+            "Q5776171",
+            "Q17120470",
+            "Q216692",
+            "Q1342647",
+            "Q15956995",
+            "Q62412",
+            "Q15997852",
+            "Q1605798",
+            "Q141519498",
+            "Q539525",
+            "Q3109102",
+            "Q576965",
+            "Q11990330",
+            "Q373850",
+            "Q926",
+            "Q2466903",
+            "Q30325765",
+            "Q311996",
+            "Q331755",
+            "Q1163186",
+            "Q5619121",
+            "Q649747",
+            "Q2034816",
+            "Q193",
+            "Q5621053",
+            "Q1792874",
+            "Q2699793",
+            "Q135012986",
+            "Q7030286",
+            "Q11988491",
+            "Q16188058",
+            "Q57862",
+            "Q11978788",
+            "Q959756",
+            "Q141521399; Q141521425",
+            "Q6193676",
+            "Q7360801",
+            "Q1720309",
+            "Q3434252",
+            "Q214081",
+            "Q586227",
+            "Q1354236",
+            "Q7421936",
+            "Q5811061",
+            "Q109326493",
+            "Q1367581",
+            "Q4587910",
+            "Q14527713",
+            "Q52926",
+            "Q1469545",
+            "Q11785240",
+            "Q11995032",
+            "Q23810",
+            "Q1412907",
+            "Q156907",
+            "Q157781",
+            "Q34323581",
+            "Q703279",
+            "Q11977834",
+            "Q141517166",
+            "Q11974224",
+            "Q947303",
+            "Q174868",
+            "Q11982025",
+            "Q204517",
+            "Q561632",
+            "Q17119877",
+            "Q1039034",
+            "Q111057124",
+            "Q1098513",
+            "Q1367020",
+            "Q33208314",
+            "Q7848490",
+            "Q336668",
+            "Q4808432",
+            "Q15138612",
+            "Q14944091",
+            "Q936280",
+            "Q24846874",
+            "Q4939389",
+            "Q433169",
+            "Q6179823",
+            "Q19384426",
+            "Q1770033",
+            "Q6571090",
+            "Q1813617",
+            "Q1364981",
+            "Q180332",
+            "Q1970860",
+            "Q16854327",
+            "Q16178612",
+            "Q3138473",
+            "Q156901",
+            "Q4569696",
+            "Q262187",
+            "Q500572",
+            "Q950210",
+            "Q12303292",
+            "Q231281",
+            "Q87195410",
+            "Q141518542",
+            "Q57858",
+            "Q6514682",
+            "Q11972118",
+            "Q11232516",
+            "Q52890",
+            "Q270541",
+            "Q25804",
+            "Q264482",
+            "Q5600558",
+            "Q14152081",
+            "Q2530678",
+            "Q63944223",
+            "Q475142",
+            "Q7652283",
+            "Q1779574",
+            "Q154912",
+            "Q1691941",
+            "Q1668375",
+            "Q30005117",
+            "Q19008270",
+            "Q11977696",
+            "Q11971877",
+            "Q11988382",
+            "Q43280",
+            "Q19371947",
+            "Q40403",
+            "Q1780918",
+            "Q5619230",
+            "Q141521266",
+            "Q591793",
+            "Q484711",
+            "Q11980154",
+            "Q644464",
+            "Q571691",
+            "Q141521540",
+            "Q14437425",
+            "Q55071024",
+            "Q202266",
+            "Q1780793",
+            "Q141520423",
+            "Q42328401",
+            "Q11961945",
+            "Q57871",
+            "Q80621",
+            "Q107696204",
+            "Q12713957",
+            "Q62273664",
+            "Q53292",
+            "Q4589060",
+            "Q12001531",
+            "Q281763",
+            "Q140970396",
+            "Q207079",
+            "Q138650",
+            "Q4571403",
+            "Q11967272",
+            "Q3116396",
+            "Q452733",
+            "Q1777745",
+            "Q543738",
+            "Q721766",
+            "Q525984",
+            "Q1345868",
+            "Q2729021",
+            "Q62274298",
+            "Q303687",
+            "Q4574062",
+            "Q462548",
+            "Q109016",
+            "Q948008",
+            "Q4572659",
+            "Q18734275",
+            "Q47134",
+            "Q1571918",
+            "Q3848659",
+            "Q105942920",
+            "Q1781286",
+            "Q5056489",
+            "Q3429862",
+            "Q11995457",
+            "Q62273070",
+            "Q1770181",
+            "Q936090",
+            "Q1647325",
+            "Q50619",
+            "Q15728942",
+            "Q11963730",
+            "Q561867",
+            "Q21039345"
+        ],
         "cycleway:both": [
             "shared_lane",
             "no"
@@ -3426,8 +3715,8 @@
         ],
         "footway": [
             "link",
-            "access_aisle",
             "traffic_island",
+            "access_aisle",
             "yes",
             "path"
         ],
@@ -3494,7 +3783,6 @@
             "no:Bestum tverrvei (Oslo)",
             "no:Joachim Nielsens gang (Oslo)",
             "no:Elverumgata (Oslo)",
-            "no:Thorbjørn Egners plass (Oslo)",
             "no:Margrethe Munthes plass (Oslo)"
         ],
         "handrail": [
@@ -3540,7 +3828,8 @@
         "ramp": [
             "no",
             "yes",
-            "separate"
+            "separate",
+            "stroller"
         ],
         "cycleway:right": [
             "no"
@@ -3555,14 +3844,6 @@
         ],
         "unsigned_ref": [
             "E 18"
-        ],
-        "name:etymology:wikidata": [
-            "Q52927",
-            "Q926",
-            "Q180332",
-            "Q5600558",
-            "Q154912",
-            "Q109016"
         ],
         "motor_vehicle:conditional": [
             "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00; PH off)",
@@ -3718,8 +3999,8 @@
         ],
         "stroller": [
             "yes",
-            "no",
-            "limited"
+            "limited",
+            "no"
         ],
         "check_date:surface": [
             "2026-06-24",
@@ -3730,6 +4011,7 @@
             "2024-02-04",
             "2026-08-15",
             "2026-07-10",
+            "2026-09-06",
             "2023-10-15",
             "2023-11-11",
             "2023-08-30",
@@ -3744,12 +4026,14 @@
             "2026-03-13",
             "2024-06-03",
             "2026-07-04",
+            "2026-09-25",
             "2026-08-18",
             "2026-08-03",
             "2025-06-10",
             "2024-04-21",
             "2023-11-05",
             "2026-06-07",
+            "2026-09-23",
             "2026-05-24",
             "2025-09-08",
             "2023-07-27",
@@ -3765,6 +4049,7 @@
             "2026-07-26",
             "2025-06-09",
             "2025-10-21",
+            "2024-02-23",
             "2023-10-19",
             "2024-05-11",
             "2026-07-05",
@@ -3855,7 +4140,10 @@
             "default",
             "3",
             "4.35",
-            "10 m"
+            "3.3",
+            "3.7",
+            "10 m",
+            "2.1"
         ],
         "mtb:name": [
             "Riski business",
@@ -3976,6 +4264,7 @@
             "Morra til Kenneth",
             "Loam søndre",
             "Vetta Barnålflyt",
+            "Sør-Spinneren Vest",
             "Haugerudskauen ned",
             "Flasketuten peker på",
             "Sør-spinnern",
@@ -4162,6 +4451,7 @@
             "Nittedal orientering",
             "schultz",
             "cral",
+            "DesmoSkier",
             "pinslie",
             "runermm;anders_ar;vibrog;Tractor",
             "altabjorn"
@@ -4180,8 +4470,11 @@
             "2026-08-19",
             "2026-04-28",
             "2026-08-07",
+            "2026-09-25",
+            "2026-09-27",
             "2021-08-17",
             "2026-07-10",
+            "2026-09-04",
             "2025-10-21",
             "2026-06-28",
             "2025-09-06",
@@ -4189,7 +4482,9 @@
             "2026-03-08",
             "2026-03-09",
             "2024-08-13",
+            "2026-09-01",
             "2026-07-25",
+            "2026-09-02",
             "2026-07-13",
             "2025-11-12",
             "2026-02-26"
@@ -4248,12 +4543,17 @@
         ],
         "piste:lit": [
             "yes",
-            "abandoned"
+            "abandoned",
+            "no"
         ],
         "source:name": [
             "Lillomarkas Venner",
             "N50, Kartverket",
             "https://parkoganlegg.no/nyheter/arkitekturpris-til-gangbruer-i-groruddalen/"
+        ],
+        "dog": [
+            "yes",
+            "leashed"
         ],
         "floating": [
             "yes"
@@ -4427,6 +4727,9 @@
             "1",
             "2"
         ],
+        "separated": [
+            "no"
+        ],
         "place": [
             "square"
         ],
@@ -4450,6 +4753,9 @@
         ],
         "landuse": [
             "depot"
+        ],
+        "is_sidepath:of:name": [
+            "Ekebergveien"
         ],
         "name:nb": [
             "Elefantparken",
@@ -4525,6 +4831,9 @@
         "not:name": [
             "Kalbakkveien"
         ],
+        "embedded_rails": [
+            "tram"
+        ],
         "bridge:name": [
             "Bjørnsjøhelvete"
         ],
@@ -4581,7 +4890,8 @@
         ],
         "conveying": [
             "yes",
-            "forward"
+            "forward",
+            "reversible"
         ],
         "disused": [
             "yes"
@@ -4608,7 +4918,8 @@
         ],
         "FIXME": [
             "check surface",
-            "continue"
+            "continue",
+            "recheck"
         ],
         "lillomarkasvenner:iid": [
             "150"
@@ -4617,12 +4928,15 @@
             "street_limited"
         ],
         "check_date:handrail": [
+            "2026-09-27",
             "2026-05-15",
             "2024-06-19",
             "2025-11-18",
             "2026-08-14",
             "2026-08-17",
             "2026-08-09",
+            "2026-09-25",
+            "2026-09-13",
             "2026-07-14",
             "2023-01-09"
         ],
@@ -4695,18 +5009,11 @@
         "image:0": [
             "https://images.mapillary.com/xYbp4R5RQBTuUwF6XonkSt/thumb-2048.jpg"
         ],
-        "embedded_rails": [
-            "tram"
-        ],
         "disused:highway": [
             "track"
         ],
         "disused:piste:type": [
             "nordic"
-        ],
-        "dog": [
-            "leashed",
-            "yes"
         ],
         "horse_scale": [
             "impossible",

@@ -65,16 +65,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-29T15:44:41+00:00",
+    "updated": "2026-09-30T13:38:20+00:00",
     "node_registry": {
-      "Data Fetching": "2026-08-29T13:51:23Z",
+      "Data Fetching": "2026-09-30T13:06:15Z",
       "Versioning Data": "2026-09-27T15:15:22Z",
-      "Data Pre-Processing": "2026-09-29T15:10:01Z",
-      "Data Quality Tool": "2026-09-29T15:38:17Z",
-      "Completeness Analysis": "2026-09-29T15:44:23Z",
-      "Statistical Charts": "2026-09-29T15:44:41Z",
-      "OSWM Codebase Revision": "e66ae89639df209eee5e54399f8722614ff97054",
-      "Pipeline Success": "2026-09-28T17:05:14Z",
+      "Data Pre-Processing": "2026-09-30T13:06:28Z",
+      "Data Quality Tool": "2026-09-30T13:30:18Z",
+      "Completeness Analysis": "2026-09-30T13:38:04Z",
+      "Statistical Charts": "2026-09-30T13:38:20Z",
+      "OSWM Codebase Revision": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
+      "Pipeline Success": "2026-09-29T17:05:10Z",
       "Wiki check for keys": "2026-09-27T15:22:42Z"
     }
   },
@@ -98,11 +98,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-29T15:44:41+00:00",
+    "generated_at": "2026-09-30T13:38:20+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "6ac4a5dc71428ca59abf294afb7bc3bb2ab20a82",
-      "commit_date": "2026-09-28T13:20:04-03:00"
+      "commit": "965a16397ef6ea8277a23555af982076fa839163",
+      "commit_date": "2026-09-30T09:52:09-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -126,10 +126,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/index.html.metadata.json",
       "media_type": "text/html",
       "format": "HTML",
-      "byte_size": 3351,
+      "byte_size": 3349,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a9f8fe662b02314965c40b216b982873ca9ec0b8614f08bce5487fd8dba5459a"
+        "value": "1174f15b3de63e7c69f12c93aff86f9b47f7fcf920ce071665ce8c65d0bedea8"
       }
     },
     {
@@ -138,10 +138,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/pipeline_decision.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 367,
+      "byte_size": 415,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7899061bd7570e8a442c62fe1cd6900b59952befd5c8268483f1e3133ce0a389"
+        "value": "4491ec3ec47a8cac3b2504604a225823fc7490d5e1fea9a00dbc60e05fae6b22"
       }
     },
     {
@@ -153,7 +153,7 @@
       "byte_size": 470,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "1c58e58d1880596015010285570ad5efbc88b153d0c9908ea8ea44b9f237aa95"
+        "value": "4e977edd1a45d8ce1bc48e3a630fdbed6658e80f9b1eb704b1a8813263021900"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "0bc8a18696284fb67fd036f504b6535a35dc45d0817931a0d1a38bdefc2c8daa"
+        "value": "c9c048d04421244668c461df34089295a0acc015579326177737ec92fffe5a6a"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 93745,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "e7d22c544b5c8bf0f289394b4223e67f19184e814a322de18b240827dc8ce199"
+        "value": "dca57b051a7c60250599513621d0d768d4ab574c6d546b17de75644f8f5a2e2d"
       }
     },
     {
@@ -186,10 +186,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 353,
+      "byte_size": 1807,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "0b11c647cfd7bbe575ab2c694d37545de11fe8157efaae03288efb8d223692c9"
+        "value": "f9c2c3b1faacc3cf050954c748086bd76f55886977fe26d1c3f748c8b96e862d"
       }
     }
   ],
