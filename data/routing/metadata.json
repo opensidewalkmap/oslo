@@ -1,7 +1,7 @@
 {
   "analytical_network": {
-    "byte_size": 9661232,
-    "feature_count": 59853,
+    "byte_size": 9651138,
+    "feature_count": 59914,
     "filename": "network.parquet",
     "format": "GeoParquet"
   },
@@ -12,13 +12,13 @@
       11.8584519,
       60.1458973
     ],
-    "byte_size": 30769192,
-    "cell_membership_count": 438544,
-    "directed_edge_count": 860938,
+    "byte_size": 30769616,
+    "cell_membership_count": 438551,
+    "directed_edge_count": 860952,
     "filename": "network.oswmg",
     "grid_cols": 76,
     "grid_rows": 256,
-    "node_count": 413724,
+    "node_count": 413727,
     "profile_count": 4,
     "profile_order": [
       "distance",
@@ -27,52 +27,52 @@
       "elderly"
     ],
     "schema_version": 2,
-    "segment_count": 430469,
-    "sha256": "e12ed971eb74beb2875d9fb76103adbba2dfcb6a00ef918be99963426b24254d",
+    "segment_count": 430476,
+    "sha256": "33cc421940f8fe4616532e7a51fde80567f05fa9c7a1a79e0568a83c927392fe",
     "spatial_index": "uniform_grid",
     "topology_tolerance": 1e-05
   },
   "edge_kind_counts": {
-    "crossing": 5932,
-    "footway": 43767,
-    "sidewalk": 6970,
-    "stairs": 3184
+    "crossing": 5933,
+    "footway": 43784,
+    "sidewalk": 7010,
+    "stairs": 3187
   },
   "elevation_provider_fingerprint": "a4a4bc7ab35d623e",
-  "feature_count": 59853,
-  "generated_at": "2026-09-30T13:42:11.319742+00:00",
+  "feature_count": 59914,
+  "generated_at": "2026-10-01T15:03:34.692365+00:00",
   "profile_audit": {
     "blind": {
       "grade_bands": {
         "0": 1510,
         "1-19": 1,
         "20-39": 4129,
-        "40-59": 48881,
-        "60-79": 4869,
-        "80-100": 463
+        "40-59": 48914,
+        "60-79": 4890,
+        "80-100": 470
       },
       "maximum_grade": 99,
-      "mean_grade": 48.55,
+      "mean_grade": 48.56,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
         "barrier": 9,
         "crossing": 269,
-        "incline": 7843,
+        "incline": 7858,
         "kerb_detectability": 269,
         "lighting": 832,
-        "smoothness": 20921,
-        "surface": 23776,
+        "smoothness": 20947,
+        "surface": 23789,
         "tactile_paving": 4896,
-        "width": 1038
+        "width": 1045
       }
     },
     "elderly": {
       "grade_bands": {
-        "0": 8385,
-        "1-19": 2547,
-        "20-39": 7043,
-        "40-59": 40296,
-        "60-79": 1577,
+        "0": 8398,
+        "1-19": 2549,
+        "20-39": 7050,
+        "40-59": 40331,
+        "60-79": 1581,
         "80-100": 5
       },
       "maximum_grade": 85,
@@ -81,21 +81,21 @@
       "most_common_limiting_factors": {
         "barrier": 9,
         "cross_slope": 6,
-        "crossing": 2400,
-        "incline": 14953,
-        "kerb": 1224,
+        "crossing": 2398,
+        "incline": 14976,
+        "kerb": 1225,
         "lighting": 3,
-        "smoothness": 20087,
-        "surface": 19977,
-        "width": 1194
+        "smoothness": 20109,
+        "surface": 19987,
+        "width": 1201
       }
     },
     "wheelchair": {
       "grade_bands": {
-        "0": 11145,
+        "0": 11160,
         "1-19": 7,
-        "20-39": 9608,
-        "40-59": 38948,
+        "20-39": 9615,
+        "40-59": 38987,
         "60-79": 145,
         "80-100": 0
       },
@@ -103,14 +103,14 @@
       "mean_grade": 34.54,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
-        "barrier": 3324,
+        "barrier": 3327,
         "cross_slope": 7,
-        "crossing": 472,
-        "incline": 13117,
-        "kerb": 2491,
-        "smoothness": 19529,
-        "surface": 19601,
-        "width": 1312
+        "crossing": 471,
+        "incline": 13138,
+        "kerb": 2492,
+        "smoothness": 19550,
+        "surface": 19610,
+        "width": 1319
       }
     }
   },
@@ -118,7 +118,7 @@
   "ruleset_version": "1.1.0",
   "schema_version": 1,
   "slope_source_counts": {
-    "copernicus_glo30": 59576,
+    "copernicus_glo30": 59637,
     "copernicus_glo90": 201,
     "direct_osm_numeric": 55,
     "missing": 21

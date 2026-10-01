@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-09-30T14:39:42+00:00",
+    "updated": "2026-10-01T14:58:42+00:00",
     "node_registry": {
-      "Data Fetching": "2026-09-30T13:06:15Z",
+      "Data Fetching": "2026-10-01T14:26:20Z",
       "Versioning Data": "2026-09-27T15:15:22Z",
-      "Data Pre-Processing": "2026-09-30T13:06:28Z",
-      "Data Quality Tool": "2026-09-30T13:30:18Z",
-      "Completeness Analysis": "2026-09-30T13:38:04Z",
-      "Statistical Charts": "2026-09-30T13:38:20Z",
+      "Data Pre-Processing": "2026-10-01T14:26:34Z",
+      "Data Quality Tool": "2026-10-01T14:52:17Z",
+      "Completeness Analysis": "2026-10-01T14:58:25Z",
+      "Statistical Charts": "2026-10-01T14:58:42Z",
       "OSWM Codebase Revision": "965a16397ef6ea8277a23555af982076fa839163",
-      "Pipeline Success": "2026-09-30T14:39:42Z",
+      "Pipeline Success": "2026-09-30T15:41:39Z",
       "Wiki check for keys": "2026-09-27T15:22:42Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-09-30T14:39:42+00:00",
+    "generated_at": "2026-10-01T14:58:42+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "965a16397ef6ea8277a23555af982076fa839163",
-      "commit_date": "2026-09-30T09:52:09-03:00"
+      "commit": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
+      "commit_date": "2026-09-30T21:27:17-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/hazard.pmtiles",
     "media_type": "application/vnd.pmtiles",
     "format": "PMTiles",
-    "byte_size": 96744728,
+    "byte_size": 96796353,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "f783a6671a0fb9f39a62737b409dcf1f26e5c1ee406423a0a9af2373fdd2717f"
+      "value": "1a304012a8571b9b75fec549c8b4a7ea8c77ed2fea56f1ba4f1c0ced4bad76d8"
     }
   },
   "links": [
