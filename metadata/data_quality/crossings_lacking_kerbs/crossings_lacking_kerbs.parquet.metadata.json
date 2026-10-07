@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-05T17:30:11+00:00",
+    "updated": "2026-10-07T17:35:24+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-01T14:26:20Z",
       "Versioning Data": "2026-10-04T15:25:07Z",
-      "Data Pre-Processing": "2026-10-04T15:25:21Z",
-      "Data Quality Tool": "2026-10-04T15:25:46Z",
-      "Completeness Analysis": "2026-10-01T14:58:25Z",
-      "Statistical Charts": "2026-10-04T15:25:56Z",
+      "Data Pre-Processing": "2026-10-07T16:56:51Z",
+      "Data Quality Tool": "2026-10-07T17:22:47Z",
+      "Completeness Analysis": "2026-10-07T17:35:07Z",
+      "Statistical Charts": "2026-10-07T17:35:24Z",
       "OSWM Codebase Revision": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
-      "Pipeline Success": "2026-10-05T17:30:11Z",
+      "Pipeline Success": "2026-10-06T15:32:20Z",
       "Wiki check for keys": "2026-10-04T15:31:16Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-05T17:30:11+00:00",
+    "generated_at": "2026-10-07T17:35:24+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "c440c911cb07c1f54658a799a6c1fedb028c0b0a",
-      "commit_date": "2026-09-30T21:27:17-03:00"
+      "commit": "0536100724de170e8d92353cd8a4bb8166eb2e70",
+      "commit_date": "2026-10-07T06:38:04-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/data_quality/crossings_lacking_kerbs/crossings_lacking_kerbs.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 128347,
+    "byte_size": 128281,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "2cb4cdb7a52de594a02769f94a9789bb1dbed4386ed34428a14fafc425d539df"
+      "value": "d38de52af8e376ad3cae09330ce47833d7c674e835014c5c4ee540838b76b491"
     }
   },
   "links": [
