@@ -1,12 +1,12 @@
 {
     "schema_version": 1,
     "node_name": "Oslo, Norway",
-    "generated_at": "2026-10-08T16:10:11.132522+00:00",
+    "generated_at": "2026-10-09T14:17:42.246518+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
-            "total": 71520,
-            "known": 71520,
+            "total": 71521,
+            "known": 71521,
             "unknown": 0,
             "unknownPercent": 0.0,
             "knownCategoryCount": 8,
@@ -19,7 +19,7 @@
                 },
                 {
                     "value": "potential_footways",
-                    "count": 19508,
+                    "count": 19509,
                     "percent": 27.28,
                     "color": "#9569a4"
                 },
@@ -66,14 +66,14 @@
                 "percent": 32.63,
                 "color": "#299077"
             },
-            "shannonEntropy": 1.653437,
-            "effectiveDiversity": 5.224908,
-            "lengthFeatureCount": 59523,
-            "totalLengthKm": 5538.399505,
+            "shannonEntropy": 1.653432,
+            "effectiveDiversity": 5.224882,
+            "lengthFeatureCount": 59524,
+            "totalLengthKm": 5538.426297,
             "unknownLengthKm": 0.0,
             "lengthKmByCategory": {
                 "main_footways": 1197.309634,
-                "potential_footways": 2483.667624,
+                "potential_footways": 2483.694416,
                 "kerbs": 0.0,
                 "sidewalks": 975.037378,
                 "crossings": 69.776587,
@@ -636,42 +636,42 @@
         },
         "age": {
             "kind": "numeric",
-            "total": 71520,
+            "total": 71521,
             "known": 71468,
-            "unknown": 52,
+            "unknown": 53,
             "unknownPercent": 0.07,
             "invalid": 0,
-            "min": 0.010951,
-            "max": 22.162902,
-            "mean": 3.941627,
-            "median": 2.872005,
+            "min": 0.013689,
+            "max": 22.16564,
+            "mean": 3.944365,
+            "median": 2.874743,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 15815,
+                    "count": 15716,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 26358,
+                    "count": 26376,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 17194,
+                    "count": 17273,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 6284,
+                    "count": 6286,
                     "color": "#31688e"
                 },
                 {
@@ -716,9 +716,9 @@
         },
         "n_revs": {
             "kind": "numeric",
-            "total": 71520,
+            "total": 71521,
             "known": 71465,
-            "unknown": 52,
+            "unknown": 53,
             "unknownPercent": 0.07,
             "invalid": 3,
             "min": 1.0,
