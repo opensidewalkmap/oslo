@@ -91,7 +91,6 @@ osm_id,feat_type,key,value,commentary
 118255171,way,last_update,30-1-2018,Feature has not been updated in 5 years or more
 118255175,way,last_update,5-2-2017,Feature has not been updated in 5 years or more
 118255182,way,last_update,13-8-2019,Feature has not been updated in 5 years or more
-118346896,way,last_update,30-8-2021,Feature has not been updated in 5 years or more
 118346904,way,last_update,18-10-2020,Feature has not been updated in 5 years or more
 118346907,way,last_update,12-8-2021,Feature has not been updated in 5 years or more
 118352930,way,last_update,25-10-2015,Feature has not been updated in 5 years or more
@@ -158,7 +157,6 @@ osm_id,feat_type,key,value,commentary
 124064678,way,last_update,8-3-2021,Feature has not been updated in 5 years or more
 124456417,way,last_update,30-5-2020,Feature has not been updated in 5 years or more
 124456488,way,last_update,24-5-2020,Feature has not been updated in 5 years or more
-124456502,way,last_update,30-5-2020,Feature has not been updated in 5 years or more
 124612631,way,last_update,11-1-2020,Feature has not been updated in 5 years or more
 124612635,way,last_update,6-5-2021,Feature has not been updated in 5 years or more
 124634139,way,last_update,6-5-2021,Feature has not been updated in 5 years or more
@@ -2060,7 +2058,6 @@ osm_id,feat_type,key,value,commentary
 941441962,way,last_update,10-5-2021,Feature has not been updated in 5 years or more
 941441967,way,last_update,10-5-2021,Feature has not been updated in 5 years or more
 941441969,way,last_update,10-5-2021,Feature has not been updated in 5 years or more
-941441981,way,last_update,10-5-2021,Feature has not been updated in 5 years or more
 941441983,way,last_update,10-5-2021,Feature has not been updated in 5 years or more
 941490962,way,last_update,10-5-2021,Feature has not been updated in 5 years or more
 941809267,way,last_update,12-5-2021,Feature has not been updated in 5 years or more
@@ -2129,3 +2126,5 @@ osm_id,feat_type,key,value,commentary
 986062351,way,last_update,22-9-2021,Feature has not been updated in 5 years or more
 987231965,way,last_update,26-9-2021,Feature has not been updated in 5 years or more
 990676940,way,last_update,7-10-2021,Feature has not been updated in 5 years or more
+991663529,way,last_update,10-10-2021,Feature has not been updated in 5 years or more
+991663530,way,last_update,10-10-2021,Feature has not been updated in 5 years or more
