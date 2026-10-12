@@ -1,115 +1,115 @@
 {
   "edge_kind_counts": {
     "crossing": 5939,
-    "footway": 43812,
-    "sidewalk": 7014,
-    "stairs": 3186
+    "footway": 43858,
+    "sidewalk": 7016,
+    "stairs": 3189
   },
-  "feature_count": 59951,
-  "generated_at": "2026-10-09T14:29:20.485754+00:00",
+  "feature_count": 60002,
+  "generated_at": "2026-10-12T16:29:45.927794+00:00",
   "profile_audit": {
     "blind": {
       "most_common_decisive_rules": {
-        "barrier_steps": 2298,
-        "crossing_tactile_no": 1293,
-        "downhill_5_to_8_33": 7531,
-        "downhill_8_33_to_12_5": 6162,
+        "barrier_steps": 2301,
+        "crossing_tactile_no": 1296,
+        "downhill_5_to_8_33": 7543,
+        "downhill_8_33_to_12_5": 6171,
         "downhill_over_12_5": 8274,
         "flush_without_tactile": 276,
-        "lowered_without_tactile": 1055,
+        "lowered_without_tactile": 1058,
         "surface_cobble_sett": 487,
         "surface_gravel": 694,
         "surface_ground_earth_dirt": 6501
       },
       "severity_counts": {
-        "0": 27471,
-        "1": 13905,
-        "2": 8801,
-        "3": 9489,
+        "0": 27495,
+        "1": 13917,
+        "2": 8813,
+        "3": 9492,
         "4": 285
       },
       "status_counts": {
-        "hazard_detected": 32480,
-        "insufficient_data": 25868,
-        "no_detected_hazard": 1603
+        "hazard_detected": 32507,
+        "insufficient_data": 25889,
+        "no_detected_hazard": 1606
       }
     },
     "elderly": {
       "most_common_decisive_rules": {
-        "barrier_steps": 2298,
-        "downhill_5_to_8_33": 4344,
-        "downhill_8_33_to_12_5": 3285,
+        "barrier_steps": 2301,
+        "downhill_5_to_8_33": 4346,
+        "downhill_8_33_to_12_5": 3289,
         "downhill_over_12_5": 4155,
         "surface_compacted_fine_gravel": 1092,
         "surface_gravel": 703,
         "surface_ground_earth_dirt": 6508,
-        "uphill_5_to_8_33": 4292,
-        "uphill_8_33_to_12_5": 3361,
+        "uphill_5_to_8_33": 4303,
+        "uphill_8_33_to_12_5": 3368,
         "uphill_over_12_5": 4243
       },
       "severity_counts": {
-        "0": 27029,
+        "0": 27055,
         "1": 1260,
-        "2": 14532,
-        "3": 8711,
+        "2": 14545,
+        "3": 8723,
         "4": 8419
       },
       "status_counts": {
-        "hazard_detected": 32922,
-        "insufficient_data": 24955,
-        "no_detected_hazard": 2074
+        "hazard_detected": 32947,
+        "insufficient_data": 24976,
+        "no_detected_hazard": 2079
       }
     },
     "pedestrian": {
       "most_common_decisive_rules": {
-        "barrier_steps": 1845,
-        "downhill_5_to_8_33": 4518,
-        "downhill_8_33_to_12_5": 3285,
+        "barrier_steps": 1846,
+        "downhill_5_to_8_33": 4520,
+        "downhill_8_33_to_12_5": 3289,
         "downhill_over_12_5": 4153,
         "surface_cobble_sett": 441,
         "surface_gravel": 704,
         "surface_ground_earth_dirt": 6521,
-        "uphill_5_to_8_33": 4592,
-        "uphill_8_33_to_12_5": 3361,
+        "uphill_5_to_8_33": 4604,
+        "uphill_8_33_to_12_5": 3368,
         "uphill_over_12_5": 4242
       },
       "severity_counts": {
-        "0": 28289,
-        "1": 16564,
-        "2": 6679,
+        "0": 28315,
+        "1": 16578,
+        "2": 6690,
         "3": 8410,
         "4": 9
       },
       "status_counts": {
-        "hazard_detected": 31662,
-        "insufficient_data": 25934,
-        "no_detected_hazard": 2355
+        "hazard_detected": 31687,
+        "insufficient_data": 25955,
+        "no_detected_hazard": 2360
       }
     },
     "wheelchair": {
       "most_common_decisive_rules": {
-        "barrier_steps": 3186,
-        "downhill_5_to_8_33": 3278,
-        "downhill_8_33_to_12_5": 3104,
+        "barrier_steps": 3189,
+        "downhill_5_to_8_33": 3280,
+        "downhill_8_33_to_12_5": 3108,
         "surface_cobble_sett": 476,
         "surface_compacted_fine_gravel": 1367,
         "surface_gravel": 799,
         "surface_ground_earth_dirt": 7930,
-        "uphill_5_to_8_33": 3396,
-        "uphill_8_33_to_12_5": 3053,
+        "uphill_5_to_8_33": 3407,
+        "uphill_8_33_to_12_5": 3058,
         "uphill_over_12_5": 8090
       },
       "severity_counts": {
-        "0": 27138,
+        "0": 27164,
         "1": 0,
-        "2": 7782,
-        "3": 13980,
-        "4": 11051
+        "2": 7795,
+        "3": 13989,
+        "4": 11054
       },
       "status_counts": {
-        "hazard_detected": 32813,
-        "insufficient_data": 24946,
-        "no_detected_hazard": 2192
+        "hazard_detected": 32838,
+        "insufficient_data": 24967,
+        "no_detected_hazard": 2197
       }
     }
   },
@@ -117,7 +117,7 @@
   "ruleset_version": "0.1.0",
   "schema_version": 1,
   "slope_source_counts": {
-    "copernicus_glo30": 59674,
+    "copernicus_glo30": 59725,
     "copernicus_glo90": 201,
     "direct_osm_numeric": 55,
     "missing": 21

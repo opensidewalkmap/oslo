@@ -1995,6 +1995,7 @@
             "Peter Aas’ vei",
             "Kobbernaglen",
             "Salmakersvenn Marius Jantzens plass",
+            "Bamsestien",
             "Tilbringer'n",
             "Trofoss bru",
             "Myrdammen",
@@ -2430,6 +2431,7 @@
             "2025-10-17",
             "2026-09-26",
             "2026-05-29",
+            "2026-10-11",
             "2026-09-27"
         ],
         "horse": [
@@ -2788,9 +2790,7 @@
             "all gone?",
             "Incomplete",
             "geometry",
-            "needs survey",
-            "horse:unkown",
-            "Needs survey. Ends in some new stairs?"
+            "needs survey"
         ],
         "bench": [
             "yes"
@@ -4167,8 +4167,7 @@
             "4.35",
             "3.3",
             "3.7",
-            "10 m",
-            "2.1"
+            "10 m"
         ],
         "mtb:name": [
             "Riski business",
@@ -4868,6 +4867,9 @@
         "short_name": [
             "Plaga"
         ],
+        "oneway:foot": [
+            "no"
+        ],
         "temporary:access": [
             "yes"
         ],
@@ -5028,9 +5030,6 @@
         ],
         "access:temporary": [
             "yes"
-        ],
-        "oneway:foot": [
-            "no"
         ],
         "was:piste:grooming": [
             "classic"
