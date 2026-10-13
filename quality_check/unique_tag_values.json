@@ -82,9 +82,6 @@
         "start_date": [
             "2021-07-10"
         ],
-        "motorcar": [
-            "no"
-        ],
         "wheelchair": [
             "yes",
             "no"
@@ -118,6 +115,9 @@
             "link with roundabout is estimated"
         ],
         "motorcycle": [
+            "no"
+        ],
+        "motorcar": [
             "no"
         ],
         "fixme": [
@@ -2275,7 +2275,8 @@
             "Disenveien",
             "Godals vei",
             "Alunsjøveien",
-            "Rosenbergveien"
+            "Rosenbergveien",
+            "Oppegårdgata"
         ],
         "operator": [
             "Oslo kommune Bymiljøetaten",
@@ -2379,20 +2380,13 @@
             "no"
         ],
         "material": [
-            "stone",
             "metal",
+            "stone",
             "concrete",
             "steel",
             "granite",
             "rock",
             "wood"
-        ],
-        "motorcar": [
-            "no",
-            "yes",
-            "private",
-            "unknown",
-            "destination"
         ],
         "wheelchair": [
             "yes",
@@ -2681,6 +2675,13 @@
             "single",
             "double",
             "triple"
+        ],
+        "motorcar": [
+            "no",
+            "yes",
+            "private",
+            "unknown",
+            "destination"
         ],
         "ski": [
             "yes"
@@ -3719,7 +3720,8 @@
             "Q15728942",
             "Q11963730",
             "Q561867",
-            "Q21039345"
+            "Q21039345",
+            "Q57868"
         ],
         "cycleway:both": [
             "shared_lane",
