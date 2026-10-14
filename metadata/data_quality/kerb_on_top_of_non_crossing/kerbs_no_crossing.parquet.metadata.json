@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-13T21:23:13+00:00",
+    "updated": "2026-10-14T14:39:05+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T20:50:56Z",
       "Versioning Data": "2026-10-11T16:24:03Z",
-      "Data Pre-Processing": "2026-10-13T20:51:10Z",
-      "Data Quality Tool": "2026-10-13T21:17:15Z",
-      "Completeness Analysis": "2026-10-13T21:22:56Z",
-      "Statistical Charts": "2026-10-13T21:23:13Z",
+      "Data Pre-Processing": "2026-10-14T14:06:36Z",
+      "Data Quality Tool": "2026-10-14T14:32:48Z",
+      "Completeness Analysis": "2026-10-14T14:38:48Z",
+      "Statistical Charts": "2026-10-14T14:39:05Z",
       "OSWM Codebase Revision": "b51af92e8cb43476df95bb415a2c22806cc50883",
-      "Pipeline Success": "2026-10-13T16:31:04Z",
+      "Pipeline Success": "2026-10-13T22:44:24Z",
       "Wiki check for keys": "2026-10-11T16:31:06Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-13T21:23:13+00:00",
+    "generated_at": "2026-10-14T14:39:05+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "b51af92e8cb43476df95bb415a2c22806cc50883",
-      "commit_date": "2026-10-12T11:17:51-03:00"
+      "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
+      "commit_date": "2026-10-14T10:11:45-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/data_quality/kerb_on_top_of_non_crossing/kerbs_no_crossing.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 53265,
+    "byte_size": 53252,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "fa5bf15715ed668d02b2f16438d3f5aa7d31c38c82907bfa3250bfd588172222"
+      "value": "bdf369e96890c4d4033fab4b84a5ed41f48dabd863dc032f1f4d65551bc790ae"
     }
   },
   "links": [

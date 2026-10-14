@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Oslo, Norway",
-    "generated_at": "2026-10-13T21:16:44.556004+00:00",
+    "generated_at": "2026-10-14T14:32:17.415753+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -641,37 +641,37 @@
             "unknown": 62,
             "unknownPercent": 0.09,
             "invalid": 0,
-            "min": 0.005476,
-            "max": 22.176591,
-            "mean": 3.944452,
-            "median": 2.885695,
+            "min": 0.008214,
+            "max": 22.179329,
+            "mean": 3.94719,
+            "median": 2.888433,
             "bins": [
                 {
                     "label": "0–<2",
                     "lower": 0.0,
                     "upper": 2.0,
-                    "count": 15856,
+                    "count": 15825,
                     "color": "#90d743"
                 },
                 {
                     "label": "2–<4",
                     "lower": 2.0,
                     "upper": 4.0,
-                    "count": 26295,
+                    "count": 26326,
                     "color": "#35b779"
                 },
                 {
                     "label": "4–<6",
                     "lower": 4.0,
                     "upper": 6.0,
-                    "count": 17261,
+                    "count": 17258,
                     "color": "#21918c"
                 },
                 {
                     "label": "6–<8",
                     "lower": 6.0,
                     "upper": 8.0,
-                    "count": 6288,
+                    "count": 6291,
                     "color": "#31688e"
                 },
                 {
