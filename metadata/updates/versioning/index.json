@@ -65,17 +65,17 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-17T12:29:23+00:00",
+    "updated": "2026-10-18T14:12:01+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T20:50:56Z",
-      "Versioning Data": "2026-10-11T16:24:03Z",
-      "Data Pre-Processing": "2026-10-14T14:06:36Z",
-      "Data Quality Tool": "2026-10-14T14:32:48Z",
+      "Versioning Data": "2026-10-18T14:04:38Z",
+      "Data Pre-Processing": "2026-10-18T14:04:45Z",
+      "Data Quality Tool": "2026-10-18T14:04:58Z",
       "Completeness Analysis": "2026-10-14T14:38:48Z",
-      "Statistical Charts": "2026-10-14T14:39:05Z",
+      "Statistical Charts": "2026-10-18T14:05:04Z",
       "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-17T12:29:23Z",
-      "Wiki check for keys": "2026-10-11T16:31:06Z"
+      "Pipeline Success": "2026-10-18T12:52:14Z",
+      "Wiki check for keys": "2026-10-18T14:12:01Z"
     }
   },
   "lineage": {
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-17T12:29:23+00:00",
+    "generated_at": "2026-10-18T14:12:01+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
@@ -114,10 +114,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/versioning/crossings_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 340766,
+      "byte_size": 340775,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8002a4a888059847054064b051abc33b5e3509b7bba13c3d4eafd5a6b30a2d00"
+        "value": "75a8f26069e90b44faa6a53bddd5d7ecbef3c626d87ba61f9b186e55fbf6aec1"
       }
     },
     {
@@ -126,10 +126,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/versioning/kerbs_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 796750,
+      "byte_size": 796773,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d6c5df685791f3c0253604590080d9924741a290682dc037042a0e6fe6f19c15"
+        "value": "bbf46e3aa543b65c65498efb47a6b5eaaf3f5d5bc18740bf319fe357233dff97"
       }
     },
     {
@@ -138,10 +138,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/versioning/other_footways_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 2923815,
+      "byte_size": 2927755,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "5a5458f1061825ff9931bd8f7844e04376968271088edf05234e3acc25d63a86"
+        "value": "ac15c540fccbc0cc0929f401569f4b3a02c228f365b302610e55873c9c366c2f"
       }
     },
     {
@@ -150,10 +150,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/versioning/sidewalks_versioning.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 399234,
+      "byte_size": 399147,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "f74375686bff21f64417054cc96391dea44bbb07094f526e794e04b75fd28018"
+        "value": "ab9b5803612deaa0fbed47e81dbd83abf3ce1b4a40256e42fb53df242f9844ce"
       }
     }
   ],
