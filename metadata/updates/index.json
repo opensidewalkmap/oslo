@@ -153,7 +153,7 @@
       "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8cab55b926d2ad9f3c1abae815707f10bc69ec268c12fccbfa990d27ffa5db84"
+        "value": "4cd364e9b71b0fb0ebe4f678597a6cb42cda21a340436d3cb94849b34992499e"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "edc17399c2cd4826c71bbefdc13cecfefed319c524cddb447b84efa1d91be06b"
+        "value": "404e3ba5ffdac58caf374dd70402321bc0f9af3ba3815fc7ee67ea780453cd01"
       }
     },
     {
@@ -189,7 +189,7 @@
       "byte_size": 93745,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "82b3c12b9a01d0ed0cf9851d045c2318a6d7ef3c43969c1ac9bcf1b9fc4b5dd2"
+        "value": "0bb4e56a979f575c761abddbd710659a4f4eb27eb2e61d12355082dc262ffd8a"
       }
     },
     {
@@ -198,10 +198,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 4685,
+      "byte_size": 6492,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8f8796a14cdb3a1387a379e632939888099e27e4dc49fd00e4384e31bd3c9eca"
+        "value": "16d25dd8d80c0ac57d25ffe46a6c0fd47a1c8e7ae76c13c28fd5883decf44fb2"
       }
     }
   ],
