@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-18T14:12:01+00:00",
+    "updated": "2026-10-20T14:17:24+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-13T20:50:56Z",
       "Versioning Data": "2026-10-18T14:04:38Z",
-      "Data Pre-Processing": "2026-10-18T14:04:45Z",
-      "Data Quality Tool": "2026-10-18T14:04:58Z",
-      "Completeness Analysis": "2026-10-14T14:38:48Z",
-      "Statistical Charts": "2026-10-18T14:05:04Z",
+      "Data Pre-Processing": "2026-10-20T13:54:51Z",
+      "Data Quality Tool": "2026-10-20T14:12:03Z",
+      "Completeness Analysis": "2026-10-20T14:17:10Z",
+      "Statistical Charts": "2026-10-20T14:17:24Z",
       "OSWM Codebase Revision": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "Pipeline Success": "2026-10-18T12:52:14Z",
+      "Pipeline Success": "2026-10-19T16:00:08Z",
       "Wiki check for keys": "2026-10-18T14:12:01Z"
     }
   },
@@ -103,11 +103,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-18T14:12:01+00:00",
+    "generated_at": "2026-10-20T14:17:24+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "bf6f98b2e72c48e8208e622d648dc7366e7d51f2",
-      "commit_date": "2026-10-14T10:11:45-03:00"
+      "commit": "74cbda522dbbc833c7fceabe1c16d83299e72c43",
+      "commit_date": "2026-10-20T10:38:11-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -118,10 +118,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/data_quality/crossings_lacking_kerbs/crossings_lacking_kerbs.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 128334,
+    "byte_size": 128514,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "bd1046406dc62ed2916bf84774848815b7a8d13fa206c42d8ee30541b1b9ad7c"
+      "value": "a150b7c15a1cf509cba7702d6a359b180d0475786524cc82263a579524aefe34"
     }
   },
   "links": [
