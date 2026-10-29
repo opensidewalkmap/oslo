@@ -1,3 +1,9 @@
 {
-    "provider": "overpass"
+    "provider": "geofabrik_pbf",
+    "region": "ostlandet",
+    "source_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf",
+    "snapshot_timestamp": "2026-10-28T21:21:02Z",
+    "acquired_at": "2026-10-29T16:06:08Z",
+    "sha256": "57fad737e6dad366c229d95222d9238d4fa9beedc9f28d8a40a8763ae03aae21",
+    "cache_hit": false
 }
