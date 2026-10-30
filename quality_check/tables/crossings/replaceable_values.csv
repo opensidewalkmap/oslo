@@ -603,7 +603,6 @@ osm_id,feat_type,key,value,commentary
 340180966,way,crossing,zebra,should use the tag 'crossing=uncontrolled' 
 340180971,way,crossing,zebra,should use the tag 'crossing=uncontrolled' 
 340202361,way,crossing,marked,should use the tag 'crossing=uncontrolled' 
-340202362,way,crossing,marked,should use the tag 'crossing=uncontrolled' 
 340202366,way,crossing,marked,should use the tag 'crossing=uncontrolled' 
 340202370,way,crossing,marked,should use the tag 'crossing=uncontrolled' 
 340202372,way,crossing,marked,should use the tag 'crossing=uncontrolled' 

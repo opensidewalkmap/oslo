@@ -70,6 +70,7 @@ osm_id,feat_type,key,value,commentary
 184090109,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 189529752,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 189529754,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
+189529759,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 195364512,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 195364526,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 224446820,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
@@ -126,6 +127,7 @@ osm_id,feat_type,key,value,commentary
 312996858,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 313133647,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 313133649,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
+313133653,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 313133656,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 313307865,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 313307877,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
@@ -1054,3 +1056,4 @@ osm_id,feat_type,key,value,commentary
 1566293291,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 1566427892,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
 1566427893,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.
+1568538559,way,not appliable,not appliable,this crossing intersects fewer than 2 kerbs. Generally each crossing should connect to at least 2 kerbs.

@@ -4,86 +4,150 @@
     <title>OSWM Watcher Changeset Activity - Oslo, Norway</title>
     <link>https://opensidewalkmap.github.io/oslo/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Oslo, Norway.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 16:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:12:22 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 191163761 by Tractor (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191163761</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191163761&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Tractor&quot;&gt;Tractor&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Endrer fra name til mtb:name&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191177600 by Tractor (7 additions, 15 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191177600</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191177600&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Tractor&quot;&gt;Tractor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Detaljer ved Skullerud&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 7&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 15&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191177600&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191177600&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Oct 2026 06:25:20 GMT</pubDate>
+        <guid isPermaLink="false">activity_191177600</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191206031 by Tractor (2 additions, 8 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191206031</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191206031&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Tractor&quot;&gt;Tractor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Detaljer ved Skullerud&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 8&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191206031&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191206031&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Oct 2026 18:08:14 GMT</pubDate>
+        <guid isPermaLink="false">activity_191206031</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191202361 by forteller (1 additions, 5 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191202361</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191202361&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/forteller&quot;&gt;forteller&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; La til litt parkering på Bjølsen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 5&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191202361&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191202361&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Oct 2026 16:35:24 GMT</pubDate>
+        <guid isPermaLink="false">activity_191202361</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191199255 by Tractor (3 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191199255</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191199255&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Tractor&quot;&gt;Tractor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Detaljer ved Skullerud&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 3&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191199255&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191199255&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Oct 2026 15:24:10 GMT</pubDate>
+        <guid isPermaLink="false">activity_191199255</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191199627 by Tractor (1 additions, 3 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191199627</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191199627&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Tractor&quot;&gt;Tractor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Detaljer ved Skullerud&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 3&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191199627&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191199627&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Oct 2026 15:32:20 GMT</pubDate>
+        <guid isPermaLink="false">activity_191199627</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191173979 by Tractor (0 additions, 4 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191173979</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191173979&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Tractor&quot;&gt;Tractor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Detaljer ved Skullerud&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191163761&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191163761&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191173979&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191173979&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Oct 2026 19:17:46 GMT</pubDate>
-        <guid isPermaLink="false">activity_191163761</guid>
+        <pubDate>Thu, 29 Oct 2026 02:52:32 GMT</pubDate>
+        <guid isPermaLink="false">activity_191173979</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191157245 by lars (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191157245</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191157245&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/lars&quot;&gt;lars&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether roads have sidewalks&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191212443 by ehamberg (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191212443</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191212443&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/ehamberg&quot;&gt;ehamberg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Mark path segment as lit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191157245&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191157245&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191212443&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191212443&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Oct 2026 16:41:19 GMT</pubDate>
-        <guid isPermaLink="false">activity_191157245</guid>
+        <pubDate>Thu, 29 Oct 2026 21:02:28 GMT</pubDate>
+        <guid isPermaLink="false">activity_191212443</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191146480 by THF66 (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191146480</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191146480&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/THF66&quot;&gt;THF66&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Corrected addresses&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191186180 by THF66 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191186180</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191186180&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/THF66&quot;&gt;THF66&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Added gate&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191146480&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191146480&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191186180&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191186180&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Oct 2026 12:54:46 GMT</pubDate>
-        <guid isPermaLink="false">activity_191146480</guid>
+        <pubDate>Thu, 29 Oct 2026 10:21:43 GMT</pubDate>
+        <guid isPermaLink="false">activity_191186180</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191141137 by THF66 (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191141137</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191141137&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/THF66&quot;&gt;THF66&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Changed incorrect &amp;#x27;service road&amp;#x27; to footpath&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191173758 by Tractor (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191173758</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191173758&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Tractor&quot;&gt;Tractor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Detaljer ved Smeden&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191141137&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191141137&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191173758&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191173758&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Oct 2026 10:39:17 GMT</pubDate>
-        <guid isPermaLink="false">activity_191141137</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191128161 by Mxdiba (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191128161</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191128161&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Mxdiba&quot;&gt;Mxdiba&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191128161&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191128161&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Oct 2026 02:45:37 GMT</pubDate>
-        <guid isPermaLink="false">activity_191128161</guid>
+        <pubDate>Thu, 29 Oct 2026 02:36:12 GMT</pubDate>
+        <guid isPermaLink="false">activity_191173758</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 183198487 by Ween90 (20 deletions)</title>
@@ -108,17 +172,6 @@
         <guid isPermaLink="false">deletion_alert_184736682</guid>
     </item>
     <item>
-        <title>[Alert] High Deletion OSM Changeset 184089100 by LandskapsLars (7 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/184089100</link>
-        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 184089100&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/LandskapsLars&quot;&gt;LandskapsLars&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; stening ad strand kulvert https://g.acdn.no/api/lumina/backend/ami-medium/ece5/aske/2026/5/27/11/kj%25C3%25B8rem%25C3%25B8nster+strand+kulvert+NY.jpg&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 7&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/184089100&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/184089100&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Jun 2026 10:55:37 GMT</pubDate>
-        <guid isPermaLink="false">deletion_alert_184089100</guid>
-    </item>
-    <item>
         <title>[Alert] High Deletion OSM Changeset 180822591 by NKA (7 deletions)</title>
         <link>https://www.openstreetmap.org/changeset/180822591</link>
         <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 180822591&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/NKA&quot;&gt;NKA&lt;/a&gt;&lt;/p&gt;
@@ -128,6 +181,17 @@
 </description>
         <pubDate>Fri, 03 Apr 2026 17:02:45 GMT</pubDate>
         <guid isPermaLink="false">deletion_alert_180822591</guid>
+    </item>
+    <item>
+        <title>[Alert] High Deletion OSM Changeset 184089100 by LandskapsLars (7 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/184089100</link>
+        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 184089100&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/LandskapsLars&quot;&gt;LandskapsLars&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; stening ad strand kulvert https://g.acdn.no/api/lumina/backend/ami-medium/ece5/aske/2026/5/27/11/kj%25C3%25B8rem%25C3%25B8nster+strand+kulvert+NY.jpg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 7&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/184089100&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/184089100&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2026 10:55:37 GMT</pubDate>
+        <guid isPermaLink="false">deletion_alert_184089100</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 181455331 by Oskarst_ (5 deletions)</title>

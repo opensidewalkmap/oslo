@@ -18,15 +18,15 @@
             "yes",
             "no"
         ],
+        "crossing:island": [
+            "yes",
+            "no"
+        ],
         "crossing:markings": [
             "zebra"
         ],
         "crossing_ref": [
             "zebra"
-        ],
-        "crossing:island": [
-            "yes",
-            "no"
         ],
         "source": [
             "Bymiljøetaten;Bing",
@@ -94,6 +94,9 @@
             "no",
             "yes"
         ],
+        "alt_name": [
+            "Kjærlighetsstien"
+        ],
         "surface": [
             "paved",
             "asphalt",
@@ -156,6 +159,9 @@
         "construction": [
             "footway"
         ],
+        "handrail": [
+            "yes"
+        ],
         "name:etymology:wikidata": [
             "Q135012986",
             "Q2861"
@@ -183,9 +189,6 @@
         "oneway": [
             "-1"
         ],
-        "handrail": [
-            "yes"
-        ],
         "incline": [
             "up"
         ],
@@ -195,9 +198,6 @@
         "lanes": [
             "1",
             "2"
-        ],
-        "alt_name": [
-            "Kjærlighetsstien"
         ],
         "tunnel": [
             "yes",
@@ -263,6 +263,7 @@
             "2025-10-25",
             "2025-05-23",
             "2026-09-27",
+            "2026-10-16",
             "2025-05-12",
             "2025-05-07"
         ],
@@ -300,8 +301,7 @@
             "informal",
             "controlled",
             "sidewalk",
-            "footway",
-            "pedestrian_signals"
+            "footway"
         ],
         "tactile_paving": [
             "no",
@@ -320,6 +320,11 @@
             "no",
             "yes"
         ],
+        "crossing:island": [
+            "yes",
+            "no",
+            "separate"
+        ],
         "crossing:markings": [
             "yes",
             "no",
@@ -329,11 +334,6 @@
         ],
         "crossing_ref": [
             "zebra"
-        ],
-        "crossing:island": [
-            "yes",
-            "no",
-            "separate"
         ],
         "source": [
             "Bing",
@@ -413,6 +413,13 @@
             "2024-07-09",
             "2025-07-30",
             "2022-09-13"
+        ],
+        "motor_vehicle:conditional": [
+            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00; PH off)",
+            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00)"
+        ],
+        "alt_name": [
+            "Le Tour de Finance"
         ],
         "surface": [
             "asphalt",
@@ -516,15 +523,8 @@
         "lanes": [
             "2"
         ],
-        "motor_vehicle:conditional": [
-            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00; PH off)",
-            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00)"
-        ],
         "abutters": [
             "retail"
-        ],
-        "alt_name": [
-            "Le Tour de Finance"
         ],
         "tunnel": [
             "building_passage"
@@ -621,6 +621,10 @@
             "yes",
             "no"
         ],
+        "crossing:island": [
+            "no",
+            "yes"
+        ],
         "crossing:markings": [
             "zebra",
             "yes",
@@ -629,10 +633,6 @@
         ],
         "crossing_ref": [
             "zebra"
-        ],
-        "crossing:island": [
-            "no",
-            "yes"
         ],
         "check_date:tactile_paving": [
             "2022-07-17",
@@ -697,23 +697,23 @@
             "2024-06-21",
             "2024-07-09"
         ],
+        "direction": [
+            "167;349"
+        ],
         "surface": [
             "paving_stones",
             "asphalt",
             "paved"
         ],
-        "direction": [
-            "167;349"
-        ],
         "bus": [
             "yes"
-        ],
-        "mapillary": [
-            "770850723633577"
         ],
         "description": [
             "Barriers on both sides of the road. Curb not for pedestrian use",
             "Commemorating the killed in the July 22 terrorist attack by a far right terrorist on youth from AUF on Utøya and the community and solidarity in the days after. Consisting of 1000 metal roses made by artists from around the world, survivors and bereaved."
+        ],
+        "mapillary": [
+            "770850723633577"
         ],
         "bench": [
             "yes",
@@ -745,6 +745,12 @@
         ],
         "layer": [
             "1"
+        ],
+        "kerb:approach_aid": [
+            "no"
+        ],
+        "passenger_information_display": [
+            "yes"
         ],
         "amenity": [
             "fountain"
@@ -783,12 +789,6 @@
             "no"
         ],
         "salt": [
-            "no"
-        ],
-        "passenger_information_display": [
-            "yes"
-        ],
-        "kerb:approach_aid": [
             "no"
         ],
         "passenger_information_display:speech_output": [
@@ -877,6 +877,10 @@
             "partial",
             "incorrect"
         ],
+        "crossing:island": [
+            "no",
+            "yes"
+        ],
         "crossing:markings": [
             "no",
             "zebra",
@@ -884,10 +888,6 @@
         ],
         "crossing_ref": [
             "zebra"
-        ],
-        "crossing:island": [
-            "no",
-            "yes"
         ],
         "check_date:tactile_paving": [
             "2026-09-06"
@@ -1108,6 +1108,7 @@
             "yes",
             "designated",
             "permissive",
+            "discouraged",
             "destination",
             "permit",
             "crossing"
@@ -1369,6 +1370,7 @@
             "Klosterheimveien",
             "Solørgata",
             "Totengata",
+            "Haraldrudveien",
             "Vardeveien",
             "Sagveien",
             "Biermanns gate",
@@ -1411,7 +1413,6 @@
             "Bjerkebakken",
             "Oberst Angells vei",
             "Linhusveien",
-            "Bjørnveien",
             "Faunveien",
             "Dagaliveien",
             "Einar Skjæraasens vei",
@@ -1457,6 +1458,7 @@
             "Midtoddveien",
             "Kaptein Oppegaards vei",
             "Briskeveien",
+            "Ballplassveien",
             "Gunnar Schjelderups vei",
             "Wessels gate",
             "Turterfaret",
@@ -1741,6 +1743,7 @@
             "Gamle Skådalsløypa",
             "Gryteveien",
             "Herbernveien",
+            "Lysløypa",
             "Trygve Nilsens vei",
             "Vinterveien",
             "Østmarkveien",
@@ -1850,6 +1853,7 @@
             "Thygesons vei",
             "Øvre Ullern terrasse",
             "Borgestadveien",
+            "Selvbyggerveien",
             "Kløfterhagen",
             "Jerikostien",
             "Grønliveien",
@@ -1954,7 +1958,6 @@
             "Behrens’ gate",
             "Lillehammerkneika",
             "Milorghulestien",
-            "Newfoundland avslutning",
             "Albert Nordengens plass",
             "Ruth Reeses plass",
             "Olafiagangen",
@@ -1991,6 +1994,7 @@
             "Grønnegata",
             "Gerd Kjølaas' plass",
             "Enebakkveien",
+            "bilbobaggins stien",
             "Skråninga",
             "Peter Aas’ vei",
             "Kobbernaglen",
@@ -2177,7 +2181,6 @@
             "Amaldus Nielsens plass",
             "pedestrian tunnel under railway",
             "Trelastgata",
-            "Sæter Torg",
             "Fosseveien",
             "Havnepromenaden",
             "Køla-Pålsens gatetun",
@@ -2209,6 +2212,7 @@
             "Ragnar Kalheims plass",
             "Kitty Kiellands plass",
             "Kragstubben",
+            "Bjørnveien",
             "Odvar Solbergs vei",
             "Haugmannsveien",
             "Problemveien",
@@ -2233,9 +2237,6 @@
             "Cecilie Thoresens vei",
             "Tennisveien",
             "FRED",
-            "Newfoundland 3",
-            "Newfoundland 1",
-            "Newfoundland 2",
             "Morells vei",
             "Peter Møllers vei",
             "Gladengveien",
@@ -2245,7 +2246,6 @@
             "Lindøya vest - Hovedøya",
             "Ullernkollen",
             "Malerhaugveien",
-            "Onsdagsklubbens finflyt",
             "Jerpefaret",
             "Erling Skjalgssons gate",
             "Skillebekk",
@@ -2258,8 +2258,6 @@
             "Clemensalmenningen",
             "Breisjåveien",
             "Vestfoldgata",
-            "Newfoundland avslutning 2",
-            "Temmelig hemmelig",
             "Dalsåsen ut høyspenten",
             "Fortere enn svint",
             "Bare Morro",
@@ -2441,10 +2439,85 @@
             "pivoting",
             "double"
         ],
+        "direction": [
+            "anticlockwise",
+            "down",
+            "up"
+        ],
         "to": [
             "Haugenstua;Romsås",
             "Gulleråsveien",
             "Holmendammen"
+        ],
+        "motor_vehicle:conditional": [
+            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00; PH off)",
+            "delivery @ (Mo-Fr 10:00-14:00; PH off)",
+            "delivery @ (Mo-Fr 06:00-11:00; PH off)",
+            "delivery @ (Mo-Fr 00:00-11:00; PH off)",
+            "private @ (Mo-Sa 06:00-21:00); yes @ (Su,PH 06:00-00:00)",
+            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00)",
+            "delivery @ (Mo-Fr 04:00-07:00; PH off)",
+            "delivery @ (Mo-Fr 06:00-09:00; PH off)"
+        ],
+        "nvdb:date": [
+            "1997-06-02",
+            "2014-03-28",
+            "2015-04-21"
+        ],
+        "nvdb:id": [
+            "145292809",
+            "145293355",
+            "145293824",
+            "760229080",
+            "760678131",
+            "760229087",
+            "759305566",
+            "759339010",
+            "759339011",
+            "759339012"
+        ],
+        "panoramax": [
+            "17473c88-b4f1-42dc-9918-e237b06a8845",
+            "796d5da7-26f9-4e31-b258-2395ee7301c7",
+            "dff69808-fc0f-497b-adc7-82b6f984cc27",
+            "d47079a4-5070-4e2c-9741-0cacb3bf725a",
+            "6ad0e205-24e5-4d33-8cb4-211a0bc4e7d2"
+        ],
+        "psv": [
+            "yes"
+        ],
+        "alt_name": [
+            "Egertorvet",
+            "Grønlandsleiret",
+            "Jernalderstien",
+            "Kjærlighetsstien",
+            "Ingens gate",
+            "Bisp Nicolas' gate",
+            "Le Tour de Finance",
+            "Skjersjødammen",
+            "Tømtekleivene;Tømtekleiva",
+            "Hakadalsveien",
+            "Vardalsgata",
+            "Gamle Bergensvei",
+            "Pauls vei",
+            "Ulvetrappa",
+            "Hammerdammen",
+            "Kongedalen",
+            "Korken",
+            "Ankerveien",
+            "Skådalsveien",
+            "Oslogate",
+            "Dasslokket",
+            "Greveveibroa",
+            "Dombås;Lillehammer",
+            "Stortorget",
+            "Trofosskloppa",
+            "Vei 9754",
+            "Byveien",
+            "Østmarkporten",
+            "Hadelandsveien",
+            "Elgsletta bro",
+            "Linåes gate"
         ],
         "surface": [
             "unpaved",
@@ -2496,11 +2569,6 @@
         "end_date": [
             "1925",
             "2025"
-        ],
-        "direction": [
-            "anticlockwise",
-            "down",
-            "up"
         ],
         "bus": [
             "yes",
@@ -2626,7 +2694,8 @@
             "New part of road",
             "Midlertidig ved bygging av Hovseter skole med mere.",
             "within parking",
-            "Not passable by bicycle as of 2025-05-12. https://www.oslo.kommune.no/slik-bygger-vi-oslo/ny-sti-mellom-blankvannsbraten-og-kobberhaughytta/"
+            "Not passable by bicycle as of 2025-05-12. https://www.oslo.kommune.no/slik-bygger-vi-oslo/ny-sti-mellom-blankvannsbraten-og-kobberhaughytta/",
+            "Tracked along a GPX from a run of mine. Probably could be a bit more refined. However, it is a worthwhile run/walk."
         ],
         "opening_hours": [
             "24/7",
@@ -2639,6 +2708,47 @@
         "swing_gate:type": [
             "double",
             "single"
+        ],
+        "cycle_barrier": [
+            "single",
+            "double",
+            "triple"
+        ],
+        "stile": [
+            "squeezer"
+        ],
+        "maxwidth:physical": [
+            "1",
+            "0.5",
+            "1.5",
+            "1.2"
+        ],
+        "description": [
+            "Bommen lukker automatisk etter bussen",
+            "Svære betonggriser som gjør det vanskelig å passere med store sykler, sykler med tilhengere etc. Oppsatt omtrent i slutten av september, uten forklaring. Mulig det kommer arbeid langs Skøyenveien",
+            "Mangler fortau og har mye tungtrafikk.",
+            "Bratt begge veier",
+            "Undergang under togskinnene",
+            "Only in summer",
+            "Skiing (cross-country) and footpath in winter when suitable conditions",
+            "En lite oppholdssted ved Alna. Oppkalt etter mangeårig pådriver av åpning av Alnaelva og andre vassdrag i Oslo, Terje Nordeide, ingeniør i Vann- og avløpsetaten",
+            "Original route of the Østfold Line; tracks removed after rerouting via Hauketo in 1925.",
+            "Meget bratt og masse stein/ur",
+            "Se https://magasin.oslo.kommune.no/byplan/en-ny-snarvei-over-akerselva/",
+            "logical pathing over open spaces for the sake of proper footrouting around public transport",
+            "logical linking over open spaces for the sake of footrouting related to public transport",
+            "kort sti i en slags jungel",
+            "Kort sti en i slags jungel. Mye trestammer som har falt overende. Ikke nøyaktig trasé.",
+            "walking path between Solørgata and Jordalgata",
+            "Snarvei som er nevnt av BYM i uttalelse til detaljregulering for boliger på Thorvald Erichsens vei 3",
+            ": https://www.nordicsteelconstruction.no/prosjekter/gangbro-over-alnaelva",
+            "Bru over Trimveien her. Se : https://od2.pbe.oslo.kommune.no/kart/?saksnr=202111520#596146,6646621,8 (Regulering S-4602)",
+            "Det er bygd ei bru over Trimveien her. Se : https://od2.pbe.oslo.kommune.no/kart/?saksnr=202111520#596146,6646621,8 (Regulering S-4602)",
+            "ramp",
+            "Der hvor hovedstrømmen av gående passasjerer far T-banen kommer, men helst korteste vei.",
+            "Usually closed during the winter when it's slippery.",
+            "Brukt ned bakken av tøffinger på sykkel. Og opp og ned av en del fotgjengere.",
+            "A short bike trials path"
         ],
         "motorcycle": [
             "yes",
@@ -2668,13 +2778,79 @@
             "6",
             "2+"
         ],
+        "step_count": [
+            "43",
+            "21",
+            "17",
+            "19",
+            "35",
+            "33",
+            "24",
+            "37",
+            "9",
+            "10",
+            "40",
+            "12",
+            "22",
+            "8",
+            "11",
+            "30",
+            "7",
+            "4",
+            "80",
+            "14",
+            "29",
+            "20",
+            "27",
+            "6",
+            "42",
+            "15",
+            "18",
+            "53",
+            "32",
+            "26",
+            "52",
+            "123",
+            "120",
+            "103",
+            "114",
+            "48",
+            "124",
+            "28",
+            "13",
+            "25",
+            "23",
+            "1",
+            "47",
+            "79",
+            "3",
+            "16",
+            "5",
+            "59",
+            "2",
+            "34",
+            "50",
+            "65",
+            "58",
+            "55",
+            "60",
+            "75",
+            "36",
+            "83",
+            "41",
+            "31",
+            "348",
+            "230",
+            "49",
+            "39",
+            "44",
+            "85"
+        ],
         "mapillary": [
             "938606286905732"
         ],
-        "cycle_barrier": [
-            "single",
-            "double",
-            "triple"
+        "ski": [
+            "yes"
         ],
         "motorcar": [
             "no",
@@ -2683,55 +2859,17 @@
             "unknown",
             "destination"
         ],
-        "ski": [
-            "yes"
-        ],
         "single_tracked_vehicle": [
             "yes"
-        ],
-        "description": [
-            "Bommen lukker automatisk etter bussen",
-            "Svære betonggriser som gjør det vanskelig å passere med store sykler, sykler med tilhengere etc. Oppsatt omtrent i slutten av september, uten forklaring. Mulig det kommer arbeid langs Skøyenveien",
-            "Bratt begge veier",
-            "Undergang under togskinnene",
-            "Only in summer",
-            "Skiing (cross-country) and footpath in winter when suitable conditions",
-            "En lite oppholdssted ved Alna. Oppkalt etter mangeårig pådriver av åpning av Alnaelva og andre vassdrag i Oslo, Terje Nordeide, ingeniør i Vann- og avløpsetaten",
-            "Original route of the Østfold Line; tracks removed after rerouting via Hauketo in 1925.",
-            "Meget bratt og masse stein/ur",
-            "Se https://magasin.oslo.kommune.no/byplan/en-ny-snarvei-over-akerselva/",
-            "logical pathing over open spaces for the sake of proper footrouting around public transport",
-            "logical linking over open spaces for the sake of footrouting related to public transport",
-            "kort sti i en slags jungel",
-            "Kort sti en i slags jungel. Mye trestammer som har falt overende. Ikke nøyaktig trasé.",
-            "walking path between Solørgata and Jordalgata",
-            "Snarvei som er nevnt av BYM i uttalelse til detaljregulering for boliger på Thorvald Erichsens vei 3",
-            ": https://www.nordicsteelconstruction.no/prosjekter/gangbro-over-alnaelva",
-            "Bru over Trimveien her. Se : https://od2.pbe.oslo.kommune.no/kart/?saksnr=202111520#596146,6646621,8 (Regulering S-4602)",
-            "Det er bygd ei bru over Trimveien her. Se : https://od2.pbe.oslo.kommune.no/kart/?saksnr=202111520#596146,6646621,8 (Regulering S-4602)",
-            "ramp",
-            "Der hvor hovedstrømmen av gående passasjerer far T-banen kommer, men helst korteste vei.",
-            "Usually closed during the winter when it's slippery.",
-            "Brukt ned bakken av tøffinger på sykkel. Og opp og ned av en del fotgjengere.",
-            "A short bike trials path"
         ],
         "description:no": [
             "bommen lukker automatisk etter bussen",
             "naturløype",
             "Ny-oppdaget tunnel laget av tyskerene under krigen"
         ],
-        "maxwidth:physical": [
-            "1",
-            "0.5",
-            "1.5",
-            "1.2"
-        ],
         "foot:conditional": [
             "yes",
             "yes @ winter"
-        ],
-        "stile": [
-            "squeezer"
         ],
         "fixme": [
             "resurvey",
@@ -2862,79 +3000,8 @@
             "no",
             "yes"
         ],
-        "step_count": [
-            "43",
-            "17",
-            "19",
-            "35",
-            "33",
-            "24",
-            "37",
-            "9",
-            "10",
-            "40",
-            "12",
-            "22",
-            "8",
-            "11",
-            "30",
-            "7",
-            "4",
-            "80",
-            "14",
-            "29",
-            "20",
-            "27",
-            "21",
-            "6",
-            "42",
-            "15",
-            "18",
-            "53",
-            "32",
-            "26",
-            "52",
-            "123",
-            "120",
-            "103",
-            "114",
-            "48",
-            "124",
-            "28",
-            "13",
-            "25",
-            "23",
-            "1",
-            "47",
-            "79",
-            "3",
-            "16",
-            "5",
-            "59",
-            "2",
-            "34",
-            "50",
-            "65",
-            "58",
-            "55",
-            "60",
-            "75",
-            "83",
-            "41",
-            "31",
-            "36",
-            "348",
-            "230",
-            "49",
-            "39",
-            "44",
-            "85"
-        ],
         "public_transport": [
             "platform"
-        ],
-        "psv": [
-            "yes"
         ],
         "layer": [
             "-1",
@@ -3062,12 +3129,21 @@
         "location": [
             "underground"
         ],
+        "emergency": [
+            "*"
+        ],
         "ele": [
             "83"
         ],
         "construction": [
-            "piste",
             "service"
+        ],
+        "handrail": [
+            "yes",
+            "no",
+            "both",
+            "left",
+            "right"
         ],
         "name:etymology": [
             "Lakkegården",
@@ -3215,6 +3291,7 @@
             "Q11999090",
             "Q12004445",
             "Q19376917",
+            "Q14136469",
             "Q19398640",
             "Q19385180",
             "Q19387729",
@@ -3789,9 +3866,6 @@
             "no",
             "yes"
         ],
-        "emergency": [
-            "*"
-        ],
         "wikipedia": [
             "no:Annette Thommessens plass",
             "en:Aud Blegen Svindland",
@@ -3808,13 +3882,6 @@
             "no:Joachim Nielsens gang (Oslo)",
             "no:Elverumgata (Oslo)",
             "no:Margrethe Munthes plass (Oslo)"
-        ],
-        "handrail": [
-            "yes",
-            "no",
-            "both",
-            "left",
-            "right"
         ],
         "handrail:center": [
             "no"
@@ -3869,54 +3936,11 @@
         "unsigned_ref": [
             "E 18"
         ],
-        "motor_vehicle:conditional": [
-            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00; PH off)",
-            "delivery @ (Mo-Fr 10:00-14:00; PH off)",
-            "delivery @ (Mo-Fr 06:00-11:00; PH off)",
-            "delivery @ (Mo-Fr 00:00-11:00; PH off)",
-            "private @ (Mo-Sa 06:00-21:00); yes @ (Su,PH 06:00-00:00)",
-            "delivery @ (Mo-Fr 00:00-11:00; Sa 00:00-09:00)",
-            "delivery @ (Mo-Fr 04:00-07:00; PH off)",
-            "delivery @ (Mo-Fr 06:00-09:00; PH off)"
-        ],
         "motor_vehicle:forward": [
             "destination"
         ],
         "abutters": [
             "retail"
-        ],
-        "alt_name": [
-            "Egertorvet",
-            "Grønlandsleiret",
-            "Jernalderstien",
-            "Kjærlighetsstien",
-            "Ingens gate",
-            "Bisp Nicolas' gate",
-            "Le Tour de Finance",
-            "Skjersjødammen",
-            "Tømtekleivene;Tømtekleiva",
-            "Hakadalsveien",
-            "Vardalsgata",
-            "Gamle Bergensvei",
-            "Pauls vei",
-            "Ulvetrappa",
-            "Hammerdammen",
-            "Kongedalen",
-            "Korken",
-            "Ankerveien",
-            "Skådalsveien",
-            "Oslogate",
-            "Dasslokket",
-            "Greveveibroa",
-            "Dombås;Lillehammer",
-            "Stortorget",
-            "Trofosskloppa",
-            "Vei 9754",
-            "Byveien",
-            "Østmarkporten",
-            "Hadelandsveien",
-            "Elgsletta bro",
-            "Linåes gate"
         ],
         "tunnel": [
             "building_passage",
@@ -4037,6 +4061,7 @@
             "2026-07-10",
             "2026-09-06",
             "2023-10-15",
+            "2026-10-16",
             "2023-11-11",
             "2023-08-30",
             "2023-07-03",
@@ -4276,6 +4301,7 @@
             "Svahili",
             "Trollstien",
             "Den Indre Sti",
+            "Newfoundland avslutning",
             "Snikforlengeren",
             "Gapahuken",
             "Analen",
@@ -4379,8 +4405,14 @@
             "Laserprikken",
             "Lille John",
             "Gul T",
+            "Newfoundland 3",
+            "Newfoundland 1",
+            "Newfoundland 2",
             "Hesteveddeløp",
+            "Onsdagsklubbens finflyt",
             "Flytstien",
+            "Newfoundland avslutning 2",
+            "Temmelig hemmelig",
             "Bror Tuck",
             "Game of Loams"
         ],
@@ -4424,9 +4456,25 @@
         "maxheight:signed": [
             "no"
         ],
+        "toll": [
+            "yes"
+        ],
         "ramp:bicycle": [
             "yes",
             "no"
+        ],
+        "loc_name": [
+            "Banditten",
+            "Desperado",
+            "Dasslokket",
+            "Bånkallåsen - RV4",
+            "Bånkallåsen Ekte",
+            "Behrens gate",
+            "Outlaw",
+            "Pyro",
+            "Bånkallåsen",
+            "Salamanderen",
+            "Bånkallåsen Pysa"
         ],
         "piste:abandoned": [
             "yes"
@@ -4462,25 +4510,6 @@
             "cutline",
             "pier",
             "bridge"
-        ],
-        "attribution": [
-            "hegerberg",
-            "espen;vibrog;knuthaug;Tractor",
-            "sfeu",
-            "ØX",
-            "subs",
-            "runermm",
-            "Naturbase, Direktoratet for naturforvaltning - 2009",
-            "hschiotz",
-            "DNT Oslo",
-            "vibrog;Tordbh",
-            "Nittedal orientering",
-            "schultz",
-            "cral",
-            "DesmoSkier",
-            "pinslie",
-            "runermm;anders_ar;vibrog;Tractor",
-            "altabjorn"
         ],
         "maxweight:signed": [
             "no"
@@ -4536,9 +4565,31 @@
             "Frognerseterveien",
             "Gamlegruveveien"
         ],
+        "attribution": [
+            "hegerberg",
+            "espen;vibrog;knuthaug;Tractor",
+            "sfeu",
+            "ØX",
+            "subs",
+            "runermm",
+            "Naturbase, Direktoratet for naturforvaltning - 2009",
+            "hschiotz",
+            "DNT Oslo",
+            "vibrog;Tordbh",
+            "Nittedal orientering",
+            "schultz",
+            "cral",
+            "DesmoSkier",
+            "pinslie",
+            "runermm;anders_ar;vibrog;Tractor",
+            "altabjorn"
+        ],
         "informal": [
             "yes",
             "no"
+        ],
+        "parking:lane:right": [
+            "diagonal"
         ],
         "access:conditional": [
             "no @ (Oct 14-March 16)",
@@ -4592,13 +4643,6 @@
         "mtb": [
             "0",
             "designated"
-        ],
-        "panoramax": [
-            "17473c88-b4f1-42dc-9918-e237b06a8845",
-            "796d5da7-26f9-4e31-b258-2395ee7301c7",
-            "dff69808-fc0f-497b-adc7-82b6f984cc27",
-            "d47079a4-5070-4e2c-9741-0cacb3bf725a",
-            "6ad0e205-24e5-4d33-8cb4-211a0bc4e7d2"
         ],
         "sidewalk:left": [
             "no",
@@ -4666,8 +4710,16 @@
             "NOTS",
             "nots"
         ],
+        "abandoned": [
+            "mtb:type=downhill",
+            "yes"
+        ],
         "proposed": [
             "piste"
+        ],
+        "ford": [
+            "yes",
+            "stepping_stones"
         ],
         "piste:foot": [
             "no"
@@ -4715,19 +4767,6 @@
         ],
         "abandoned:trailblazed": [
             "yes"
-        ],
-        "loc_name": [
-            "Banditten",
-            "Desperado",
-            "Dasslokket",
-            "Bånkallåsen - RV4",
-            "Bånkallåsen Ekte",
-            "Behrens gate",
-            "Outlaw",
-            "Pyro",
-            "Bånkallåsen",
-            "Salamanderen",
-            "Bånkallåsen Pysa"
         ],
         "visibility": [
             "intermediate",
@@ -4811,6 +4850,12 @@
             "https://youtu.be/W88K7nf-_Fw?si=SJSJqg3znY6l8gZU&t=182",
             "https://youtu.be/abyfD-8lyk0?si=i4-xEtxqyGNWI_dn&t=55"
         ],
+        "embankment": [
+            "yes"
+        ],
+        "ruins": [
+            "yes"
+        ],
         "bicycle:lanes": [
             "designated|designated|no"
         ],
@@ -4851,6 +4896,9 @@
             "2025-06-10",
             "2023-10-15"
         ],
+        "goods": [
+            "yes"
+        ],
         "platform_lift": [
             "no"
         ],
@@ -4888,24 +4936,17 @@
         "piste:ref": [
             "5"
         ],
-        "abandoned": [
-            "mtb:type=downhill",
-            "yes"
-        ],
         "opening_date": [
             "2024-10-04",
             "2025-12-01",
             "2024-12-01",
             "2025-09-01"
         ],
-        "embankment": [
-            "yes"
-        ],
         "notes": [
             "Se:  Prinsipper for gjenåpning av elver og bekker i Oslo   https://www.oslo.kommune.no/getfile.php/13166758-1480941996/Tjenester%20og%20tilbud/Politikk%20og%20administrasjon/Slik%20bygger%20vi%20Oslo/Vannomr%C3%A5de%20Oslo/Rapporter%20og%20p"
         ],
-        "parking:lane:right": [
-            "diagonal"
+        "disused": [
+            "yes"
         ],
         "fixme:note": [
             "nordic skiing?"
@@ -4913,9 +4954,6 @@
         "path": [
             "abandoned",
             "desire"
-        ],
-        "ruins": [
-            "yes"
         ],
         "square": [
             "yes"
@@ -4925,27 +4963,14 @@
             "forward",
             "reversible"
         ],
-        "disused": [
-            "yes"
-        ],
-        "ford": [
-            "yes",
-            "stepping_stones"
-        ],
-        "goods": [
-            "yes"
-        ],
         "hgv": [
             "yes",
             "no"
         ],
-        "toll": [
+        "boardwalk": [
             "yes"
         ],
         "trailer": [
-            "yes"
-        ],
-        "boardwalk": [
             "yes"
         ],
         "FIXME": [
@@ -4976,28 +5001,14 @@
         "source:access": [
             "https://seeiendom.kartverket.no/eiendom/0301/48/379/0/0"
         ],
+        "disused:highway": [
+            "track"
+        ],
         "class:no": [
             "trillesti"
         ],
         "bicycle_road": [
             "yes"
-        ],
-        "nvdb:date": [
-            "1997-06-02",
-            "2014-03-28",
-            "2015-04-21"
-        ],
-        "nvdb:id": [
-            "145292809",
-            "145293355",
-            "145293824",
-            "760229080",
-            "760678131",
-            "760229087",
-            "759305566",
-            "759339010",
-            "759339011",
-            "759339012"
         ],
         "piste:sled": [
             "no"
@@ -5038,9 +5049,6 @@
         ],
         "image:0": [
             "https://images.mapillary.com/xYbp4R5RQBTuUwF6XonkSt/thumb-2048.jpg"
-        ],
-        "disused:highway": [
-            "track"
         ],
         "disused:piste:type": [
             "nordic"

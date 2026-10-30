@@ -50,12 +50,9 @@ osm_id,feat_type,key,value,commentary
 124456483,way,surface,MISSING,Surface tag is recommended to assess accessibility
 124456493,way,surface,MISSING,Surface tag is recommended to assess accessibility
 124456499,way,surface,MISSING,Surface tag is recommended to assess accessibility
-128943029,way,surface,MISSING,Surface tag is recommended to assess accessibility
 128943031,way,surface,MISSING,Surface tag is recommended to assess accessibility
-128943034,way,surface,MISSING,Surface tag is recommended to assess accessibility
 128943039,way,surface,MISSING,Surface tag is recommended to assess accessibility
 128980472,way,surface,MISSING,Surface tag is recommended to assess accessibility
-128980493,way,surface,MISSING,Surface tag is recommended to assess accessibility
 129027676,way,surface,MISSING,Surface tag is recommended to assess accessibility
 131597542,way,surface,MISSING,Surface tag is recommended to assess accessibility
 133895154,way,surface,MISSING,Surface tag is recommended to assess accessibility
@@ -174,7 +171,6 @@ osm_id,feat_type,key,value,commentary
 317943596,way,surface,MISSING,Surface tag is recommended to assess accessibility
 317943599,way,surface,MISSING,Surface tag is recommended to assess accessibility
 317943601,way,surface,MISSING,Surface tag is recommended to assess accessibility
-317943603,way,surface,MISSING,Surface tag is recommended to assess accessibility
 317943606,way,surface,MISSING,Surface tag is recommended to assess accessibility
 320052101,way,surface,MISSING,Surface tag is recommended to assess accessibility
 320052102,way,surface,MISSING,Surface tag is recommended to assess accessibility
@@ -701,3 +697,4 @@ osm_id,feat_type,key,value,commentary
 1558867407,way,surface,MISSING,Surface tag is recommended to assess accessibility
 1559393411,way,surface,MISSING,Surface tag is recommended to assess accessibility
 1562270400,way,surface,MISSING,Surface tag is recommended to assess accessibility
+1568538559,way,surface,MISSING,Surface tag is recommended to assess accessibility
