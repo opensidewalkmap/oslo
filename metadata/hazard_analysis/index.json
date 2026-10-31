@@ -70,7 +70,7 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-10-30T16:21:25+00:00",
+    "updated": "2026-10-30T17:12:22+00:00",
     "node_registry": {
       "Data Fetching": "2026-10-28T21:21:02Z",
       "Versioning Data": "2026-10-25T14:24:35Z",
@@ -79,7 +79,7 @@
       "Completeness Analysis": "2026-10-30T16:21:10Z",
       "Statistical Charts": "2026-10-30T16:21:25Z",
       "OSWM Codebase Revision": "44cafc7c0f582ee1732e515446ed11a418b13afa",
-      "Pipeline Success": "2026-10-29T16:57:28Z",
+      "Pipeline Success": "2026-10-30T17:12:22Z",
       "Wiki check for keys": "2026-10-25T14:30:26Z"
     }
   },
@@ -103,7 +103,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-10-30T16:21:25+00:00",
+    "generated_at": "2026-10-30T17:12:22+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "44cafc7c0f582ee1732e515446ed11a418b13afa",
@@ -115,18 +115,6 @@
   "assets": [
     {
       "title": "Features Blind",
-      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_blind.geojson",
-      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_blind.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 64362545,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "0928721c13ea102beed9acf5641d18a20fbfbce58e0f4136def40ba4a098f651"
-      }
-    },
-    {
-      "title": "Features Blind",
       "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_blind.parquet",
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_blind.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
@@ -135,18 +123,6 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "b3f19ec5f7db2fbe0b076f76f05d16ef953b9705b94401ecd6382c9ea328f31f"
-      }
-    },
-    {
-      "title": "Features Elderly",
-      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_elderly.geojson",
-      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_elderly.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 64753534,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "5ab637b2e9086bb0a228280d63074152ca79cef327e72f0afce03ad2864cc12a"
       }
     },
     {
@@ -163,18 +139,6 @@
     },
     {
       "title": "Features Pedestrian",
-      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_pedestrian.geojson",
-      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_pedestrian.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 64317107,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "04eba65d668f1634ed7db9c27b013d03ad4f13813b47c2b524a321bc66bb7351"
-      }
-    },
-    {
-      "title": "Features Pedestrian",
       "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_pedestrian.parquet",
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_pedestrian.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
@@ -183,18 +147,6 @@
       "checksum": {
         "algorithm": "SHA-256",
         "value": "d20500e153c76aaeab26b23519158501e6087c8291613d4797561b4d57602239"
-      }
-    },
-    {
-      "title": "Features Wheelchair",
-      "resource": "https://opensidewalkmap.github.io/oslo/data/hazard_analysis/features_wheelchair.geojson",
-      "metadata": "https://opensidewalkmap.github.io/oslo/metadata/hazard_analysis/features_wheelchair.geojson.metadata.json",
-      "media_type": "application/geo+json",
-      "format": "GeoJSON",
-      "byte_size": 64918361,
-      "checksum": {
-        "algorithm": "SHA-256",
-        "value": "3da22cf08b32c72c80a863fe8af500dfc7df60ebdb6eba4f05c9227dff0f3d45"
       }
     },
     {
