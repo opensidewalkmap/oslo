@@ -4,102 +4,22 @@
     <title>OSWM Watcher Changeset Activity - Oslo, Norway</title>
     <link>https://opensidewalkmap.github.io/oslo/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Oslo, Norway.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 16:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:54:35 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 191421946 by FennecusZerda (40 additions, 41 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191421946</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191421946&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/FennecusZerda&quot;&gt;FennecusZerda&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Oppdateringer rundt gangfelt, skoler og generell ruting til adresser til eiendommer i #Oslo sør-vest.&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191488000 by forteller (27 additions, 20 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191488000</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191488000&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/forteller&quot;&gt;forteller&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Fikset diverse nær Muselunden&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 40&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 41&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 27&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 20&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191421946&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191421946&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191488000&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191488000&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Nov 2026 15:15:39 GMT</pubDate>
-        <guid isPermaLink="false">activity_191421946</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191405450 by oletjens (3 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191405450</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191405450&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/oletjens&quot;&gt;oletjens&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; steps&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 3&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191405450&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191405450&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Nov 2026 09:16:02 GMT</pubDate>
-        <guid isPermaLink="false">activity_191405450</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191409574 by oletjens (1 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191409574</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191409574&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/oletjens&quot;&gt;oletjens&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Driveways&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191409574&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191409574&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Nov 2026 10:45:40 GMT</pubDate>
-        <guid isPermaLink="false">activity_191409574</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191409438 by oletjens (1 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191409438</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191409438&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/oletjens&quot;&gt;oletjens&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Driveways&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191409438&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191409438&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Nov 2026 10:42:35 GMT</pubDate>
-        <guid isPermaLink="false">activity_191409438</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191409325 by Teia Stes (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191409325</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191409325&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Teia Stes&quot;&gt;Teia Stes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; corrected a form of buildings&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191409325&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191409325&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Nov 2026 10:39:49 GMT</pubDate>
-        <guid isPermaLink="false">activity_191409325</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191405516 by RUTER Heidi Henden (1 additions, 0 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191405516</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191405516&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/RUTER Heidi Henden&quot;&gt;RUTER Heidi Henden&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Endring av stikkvei til gangvei og flytting av bussholdeplass&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 0&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191405516&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191405516&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Nov 2026 09:17:34 GMT</pubDate>
-        <guid isPermaLink="false">activity_191405516</guid>
+        <pubDate>Wed, 04 Nov 2026 23:07:17 GMT</pubDate>
+        <guid isPermaLink="false">activity_191488000</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 183198487 by Ween90 (20 deletions)</title>
