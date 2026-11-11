@@ -7,6 +7,7 @@ osm_id,feat_type,key,value,commentary
 1347324312,node,last_update,26-9-2020,Feature has not been updated in 5 years or more
 1347436730,node,last_update,30-8-2021,Feature has not been updated in 5 years or more
 1347436763,node,last_update,30-8-2021,Feature has not been updated in 5 years or more
+1484754015,node,last_update,10-11-2021,Feature has not been updated in 5 years or more
 1485390496,node,last_update,1-9-2021,Feature has not been updated in 5 years or more
 2305536268,node,last_update,5-11-2020,Feature has not been updated in 5 years or more
 2503187204,node,last_update,8-8-2019,Feature has not been updated in 5 years or more
@@ -201,6 +202,7 @@ osm_id,feat_type,key,value,commentary
 6695931643,node,last_update,8-8-2019,Feature has not been updated in 5 years or more
 6695935871,node,last_update,8-8-2019,Feature has not been updated in 5 years or more
 6770416411,node,last_update,3-5-2021,Feature has not been updated in 5 years or more
+6770752389,node,last_update,10-11-2021,Feature has not been updated in 5 years or more
 6770752390,node,last_update,3-11-2021,Feature has not been updated in 5 years or more
 6770752416,node,last_update,1-11-2021,Feature has not been updated in 5 years or more
 6770752423,node,last_update,1-11-2021,Feature has not been updated in 5 years or more
@@ -209,6 +211,7 @@ osm_id,feat_type,key,value,commentary
 6770758499,node,last_update,5-11-2021,Feature has not been updated in 5 years or more
 6770758500,node,last_update,5-11-2021,Feature has not been updated in 5 years or more
 6770758501,node,last_update,5-11-2021,Feature has not been updated in 5 years or more
+6770758502,node,last_update,10-11-2021,Feature has not been updated in 5 years or more
 6810674715,node,last_update,3-11-2021,Feature has not been updated in 5 years or more
 6810674716,node,last_update,3-11-2021,Feature has not been updated in 5 years or more
 6810674718,node,last_update,12-4-2021,Feature has not been updated in 5 years or more
@@ -248,6 +251,7 @@ osm_id,feat_type,key,value,commentary
 7978949426,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
 7978949427,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
 7978949428,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
+7978949432,node,last_update,10-11-2021,Feature has not been updated in 5 years or more
 7978949434,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
 7978949435,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
 7978949436,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
@@ -264,6 +268,8 @@ osm_id,feat_type,key,value,commentary
 7979000409,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
 7979000427,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
 7979000450,node,last_update,30-10-2020,Feature has not been updated in 5 years or more
+7979000513,node,last_update,10-11-2021,Feature has not been updated in 5 years or more
+7979000613,node,last_update,10-11-2021,Feature has not been updated in 5 years or more
 8044472406,node,last_update,29-10-2020,Feature has not been updated in 5 years or more
 8044472407,node,last_update,29-10-2020,Feature has not been updated in 5 years or more
 8045058352,node,last_update,25-10-2020,Feature has not been updated in 5 years or more
