@@ -4,54 +4,54 @@
     <title>OSWM Watcher Changeset Activity - Oslo, Norway</title>
     <link>https://opensidewalkmap.github.io/oslo/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Oslo, Norway.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 18:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:07:42 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 191735932 by cartographique (7 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191735932</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191735932&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/cartographique&quot;&gt;cartographique&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Lilleaker&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191795902 by magnode (4 additions, 10 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191795902</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191795902&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/magnode&quot;&gt;magnode&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Adjusted ways at Majorstuen&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 7&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 4&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 10&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191735932&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191735932&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191795902&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191795902&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Nov 2026 10:42:27 GMT</pubDate>
-        <guid isPermaLink="false">activity_191735932</guid>
+        <pubDate>Wed, 11 Nov 2026 15:21:09 GMT</pubDate>
+        <guid isPermaLink="false">activity_191795902</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 191740828 by oletjens (1 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191740828</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191740828&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/oletjens&quot;&gt;oletjens&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; fix slip&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191740828&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191740828&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Nov 2026 12:43:56 GMT</pubDate>
-        <guid isPermaLink="false">activity_191740828</guid>
-    </item>
-    <item>
-        <title>[Activity] OSM Changeset 191761393 by Dom61 (0 additions, 1 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/191761393</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191761393&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dom61&quot;&gt;Dom61&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Building geometry rectified&lt;/p&gt;
+        <title>[Activity] OSM Changeset 191785816 by Weasel-Wiesel (0 additions, 4 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191785816</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191785816&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Weasel-Wiesel&quot;&gt;Weasel-Wiesel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Fixed duplicates for Ullevål hospital and several kindergartens in Oslo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 4&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191761393&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191761393&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191785816&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191785816&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Nov 2026 20:45:30 GMT</pubDate>
-        <guid isPermaLink="false">activity_191761393</guid>
+        <pubDate>Wed, 11 Nov 2026 11:40:08 GMT</pubDate>
+        <guid isPermaLink="false">activity_191785816</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191810209 by metalhead_ (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191810209</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191810209&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/metalhead_&quot;&gt;metalhead_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify whether steps have handrails&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191810209&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191810209&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Nov 2026 20:41:19 GMT</pubDate>
+        <guid isPermaLink="false">activity_191810209</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 183198487 by Ween90 (20 deletions)</title>
