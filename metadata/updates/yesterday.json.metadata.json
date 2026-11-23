@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/oslo/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 3289,
+    "byte_size": 5802,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "71165bae4e2083911b090da3d1df668a1f60493c92af81957257e935c2c6dbb7"
+      "value": "1e4cf6eb2f1ff19dcddc5322f7f26a9c148c01c4653c37c72a67bafecba35546"
     }
   },
   "links": [
