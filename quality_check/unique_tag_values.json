@@ -46,6 +46,7 @@
             "Bymiljøetaten",
             "knowledge;estimate",
             "bing;knowledge",
+            "https://www.oslo.kommune.no/slik-bygger-vi-oslo/vedlikeholdsarbeid-i-kongsveien/",
             "Norway Orthophoto",
             "survey;local knowledge;aerial imagery",
             "Bing;survey",
@@ -207,6 +208,12 @@
         "covered": [
             "yes"
         ],
+        "piste:grooming": [
+            "backcountry"
+        ],
+        "piste:type": [
+            "nordic"
+        ],
         "trailblazed": [
             "yes"
         ],
@@ -225,6 +232,7 @@
             "2026-03-21",
             "2026-03-19",
             "2026-08-13",
+            "2026-11-13",
             "2025-11-03",
             "2026-06-24",
             "2026-05-03",
@@ -232,6 +240,7 @@
             "2026-06-03",
             "2026-09-03",
             "2021-07-21",
+            "2026-11-21",
             "2026-09-05",
             "2026-05-22",
             "2026-09-27",
@@ -263,6 +272,7 @@
             "2025-10-25",
             "2025-05-23",
             "2026-09-27",
+            "2026-11-13",
             "2026-10-16",
             "2025-05-12",
             "2025-05-07"
@@ -428,8 +438,8 @@
             "paved",
             "paving_stones",
             "compacted",
-            "ground",
             "gravel",
+            "ground",
             "fine_gravel"
         ],
         "bus": [
@@ -752,9 +762,6 @@
         "passenger_information_display": [
             "yes"
         ],
-        "amenity": [
-            "fountain"
-        ],
         "kerb:height": [
             "2 cm",
             "> 3 cm"
@@ -778,6 +785,9 @@
             "traffic_island",
             "grass",
             "flowerbed"
+        ],
+        "amenity": [
+            "fountain"
         ],
         "url": [
             "https://www.kongehuset.no/nyheter/jernroser-ved-domkirken"
@@ -1108,8 +1118,8 @@
             "yes",
             "designated",
             "permissive",
-            "discouraged",
             "destination",
+            "discouraged",
             "permit",
             "crossing"
         ],
@@ -1279,6 +1289,7 @@
             "Svaleveien",
             "Ekebergveien",
             "Aspestien",
+            "Eikeveien",
             "Ekebergstien",
             "Olleveien",
             "Brannfjellveien",
@@ -1336,6 +1347,7 @@
             "Edvard Munchs vei",
             "Refstadveien",
             "Skogvollveien",
+            "Økernliveien",
             "Bjerkealléen",
             "Lilloe-Olsens vei",
             "Hareveien",
@@ -1421,7 +1433,9 @@
             "Frognerseterveien",
             "Skogryggveien",
             "Svenstuveien",
+            "Jørnsløkkveien",
             "Hasselbakken",
+            "Parkdammen",
             "Hemingveien",
             "Jensmessveien",
             "Heierstuveien",
@@ -1433,6 +1447,7 @@
             "Revierstredet",
             "Bankplassen",
             "Universitetsplassen",
+            "Gullkroken",
             "Ingar Nilsens vei",
             "Magnus Barfots gate",
             "Tour de Finance",
@@ -1451,7 +1466,6 @@
             "Svoldergata",
             "Haakon Aunes vei",
             "Grefsentunet",
-            "Lofthusveien",
             "Eikelundveien",
             "Stigbakken",
             "Gamle Skjennungsvei",
@@ -1887,6 +1901,7 @@
             "Elmholtveien",
             "Harbitzalléen",
             "Olsens Enkes vei",
+            "St. Georgs vei",
             "Viktoriapassasjen",
             "Rådhuspassasjen",
             "Vennersborgveien",
@@ -1951,6 +1966,7 @@
             "Motbakkene",
             "Gamle Enebakkvei",
             "Granstuveien",
+            "Bjartveien",
             "Høyenhall plass",
             "Skøyenbakken",
             "Olav Vs gate",
@@ -1969,6 +1985,7 @@
             "Anne Kures sti",
             "Liakollveien",
             "Jordstjerneveien",
+            "Oppsaltoppen",
             "Løkkalia",
             "Løkkaveien",
             "Dagalikroken",
@@ -1994,7 +2011,6 @@
             "Grønnegata",
             "Gerd Kjølaas' plass",
             "Enebakkveien",
-            "bilbobaggins stien",
             "Skråninga",
             "Peter Aas’ vei",
             "Kobbernaglen",
@@ -2126,8 +2142,6 @@
             "Prestlia",
             "Strømsveien",
             "Ulsrudfaret",
-            "Jørnsløkkveien",
-            "Oppsaltoppen",
             "Skedsmogata",
             "Edvard Griegs allé",
             "Urtegata",
@@ -2160,6 +2174,7 @@
             "Ragna Nielsens vei",
             "Smålensgata",
             "Egedes gate",
+            "Ribbunggata",
             "Verksgata",
             "Edvard Munchs plass",
             "Brubakkveien",
@@ -2240,6 +2255,7 @@
             "Morells vei",
             "Peter Møllers vei",
             "Gladengveien",
+            "Stålverkskroken",
             "Bård Skolemesters vei",
             "Vekterveien",
             "Aurskoggata",
@@ -2274,7 +2290,8 @@
             "Godals vei",
             "Alunsjøveien",
             "Rosenbergveien",
-            "Oppegårdgata"
+            "Oppegårdgata",
+            "Priorveien"
         ],
         "operator": [
             "Oslo kommune Bymiljøetaten",
@@ -2315,8 +2332,6 @@
             "fixed",
             "removable",
             "rising",
-            "concrete",
-            "rock",
             "stone"
         ],
         "ref": [
@@ -2403,6 +2418,7 @@
             "2025-06-18",
             "2025-10-31",
             "2024-06-20",
+            "2026-10-29",
             "2023-04-24",
             "2026-06-05",
             "2019-10-13",
@@ -2780,6 +2796,7 @@
         ],
         "step_count": [
             "43",
+            "15",
             "21",
             "17",
             "19",
@@ -2804,7 +2821,6 @@
             "27",
             "6",
             "42",
-            "15",
             "18",
             "53",
             "32",
@@ -2834,6 +2850,7 @@
             "58",
             "55",
             "60",
+            "130",
             "75",
             "36",
             "83",
@@ -3188,6 +3205,8 @@
             "Q17778643",
             "Q19376400",
             "Q20113084",
+            "Q11959411",
+            "Q11966756",
             "Q11993755",
             "Q15056023",
             "Q19384149",
@@ -3280,6 +3299,7 @@
             "Q11999794",
             "Q18685668",
             "Q7894428",
+            "Q19373444",
             "Q19375600",
             "Q19380862",
             "Q21480056",
@@ -3432,6 +3452,7 @@
             "Q17769504",
             "Q19373637",
             "Q19384517",
+            "Q19390098",
             "Q19397734",
             "Q17750312",
             "Q19399517",
@@ -3549,7 +3570,8 @@
             "Q19373918",
             "Q20112595",
             "Q19390056",
-            "Q19373338"
+            "Q19373338",
+            "Q19385695"
         ],
         "maxspeed": [
             "50",
@@ -3709,6 +3731,7 @@
             "Q231281",
             "Q87195410",
             "Q141518542",
+            "Q48438",
             "Q57858",
             "Q6514682",
             "Q11972118",
@@ -3762,6 +3785,7 @@
             "Q4589060",
             "Q12001531",
             "Q281763",
+            "Q11027226",
             "Q140970396",
             "Q207079",
             "Q138650",
@@ -3959,8 +3983,8 @@
             "excellent",
             "intermediate",
             "good",
-            "bad",
             "excellent;good",
+            "bad",
             "horrible",
             "no",
             "very_bad"
@@ -4117,6 +4141,7 @@
             "2026-05-01",
             "2025-08-01",
             "2024-12-14",
+            "2026-11-13",
             "2025-12-13",
             "2025-10-31",
             "2025-11-13",
@@ -4321,6 +4346,7 @@
             "Flasketuten peker på",
             "Sør-spinnern",
             "Samuels flyt",
+            "Bilbobagginsstien",
             "Dessert 2",
             "Skytestien",
             "Myggtraversen",
@@ -4451,7 +4477,8 @@
         "sac_scale": [
             "hiking",
             "mountain_hiking",
-            "demanding_mountain_hiking"
+            "demanding_mountain_hiking",
+            "demanding_alpine_hiking"
         ],
         "maxheight:signed": [
             "no"
@@ -4523,6 +4550,7 @@
             "2026-07-06",
             "2026-05-08",
             "2025-08-21",
+            "2026-11-14",
             "2026-07-27",
             "2026-08-19",
             "2026-04-28",
@@ -4538,6 +4566,7 @@
             "2026-08-10",
             "2026-03-08",
             "2026-03-09",
+            "2026-11-16",
             "2024-08-13",
             "2026-09-01",
             "2026-07-25",
@@ -5065,6 +5094,9 @@
         ],
         "tidal": [
             "yes"
+        ],
+        "hazard": [
+            "cliff"
         ],
         "type": [
             "multipolygon"

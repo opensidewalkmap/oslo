@@ -1,9 +1,9 @@
 {
     "provider": "geofabrik_pbf",
     "region": "ostlandet",
-    "source_url": "https://download.geofabrik.de/europe/norway/ostlandet-latest.osm.pbf",
-    "snapshot_timestamp": "2026-10-28T21:21:02Z",
-    "acquired_at": "2026-10-30T15:54:59Z",
-    "sha256": "57fad737e6dad366c229d95222d9238d4fa9beedc9f28d8a40a8763ae03aae21",
+    "source_url": "https://download.geofabrik.de/europe/norway/ostlandet/ostlandet-latest.osm.pbf",
+    "snapshot_timestamp": "2026-11-25T21:22:46Z",
+    "acquired_at": "2026-11-26T18:55:25Z",
+    "sha256": "45a0135063bce9e5bbafc50114e2d8d6b44e342ae9ea8157fac5df31b98890da",
     "cache_hit": false
 }

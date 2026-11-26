@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-24T19:48:45+00:00",
+    "updated": "2026-11-26T19:19:36+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-28T21:21:02Z",
+      "Data Fetching": "2026-11-25T21:22:46Z",
       "Versioning Data": "2026-11-22T17:51:50Z",
-      "Data Pre-Processing": "2026-11-22T17:52:00Z",
-      "Data Quality Tool": "2026-11-22T17:52:19Z",
-      "Completeness Analysis": "2026-11-11T17:30:58Z",
-      "Statistical Charts": "2026-11-22T17:52:28Z",
+      "Data Pre-Processing": "2026-11-26T18:55:38Z",
+      "Data Quality Tool": "2026-11-26T19:12:57Z",
+      "Completeness Analysis": "2026-11-26T19:19:20Z",
+      "Statistical Charts": "2026-11-26T19:19:36Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-24T19:48:45Z",
+      "Pipeline Success": "2026-11-25T18:54:55Z",
       "Wiki check for keys": "2026-11-22T17:57:53Z"
     }
   },
@@ -101,7 +101,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-24T19:48:45+00:00",
+    "generated_at": "2026-11-26T19:19:36+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -117,10 +117,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/crossings.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 12632878,
+      "byte_size": 12644112,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4b585c93be9caef6d2c9e6f8723f322a560f2e56c1ce867e0f139bae23ee5d6c"
+        "value": "c68079227eaed8702a860a9a404089b506b8cb6c9093b041a0963b19f658910e"
       }
     },
     {
@@ -129,10 +129,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/informal_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 67989562,
+      "byte_size": 68161565,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d303863ba874d09211c095a94f29b83d6333ba5a126ac24941810a8515a786c7"
+        "value": "5c497553b94ee6cc33d1faa09c8c47f091a179eaea77edc9750936d61a0c05d8"
       }
     },
     {
@@ -141,10 +141,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/kerbs.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 10108376,
+      "byte_size": 10111596,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "068169328c38165d840d3ebeec1f155ccfb81f3ee8de77ee703aac7e5c36ba89"
+        "value": "02d9d2b1d7f2f79613c33fe48fd2f409226687615eb5aa9e48c2273b4f0001a0"
       }
     },
     {
@@ -153,10 +153,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/main_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 71043434,
+      "byte_size": 71286485,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c6f5483066e7af59290eab208764397cb903d01c98805bdabe06407fe3109f5f"
+        "value": "e4bfe7f2c3b6779fc473b42b0903864d45c15a5476b06057eaccb4bfc2384f92"
       }
     },
     {
@@ -165,10 +165,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/pedestrian_areas.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 9564931,
+      "byte_size": 9658629,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "da533a453a6446b2aa4f2726d788135c5a5002a8067ed6152db67bb4ab140b76"
+        "value": "8931bc397ff7fa197b8374d3144a5a0d0ccb65a8fd6b9c2ebdb479f3c5edacc1"
       }
     },
     {
@@ -177,10 +177,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/potential_footways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 59533971,
+      "byte_size": 59722675,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d882967762e012078f3a957468cde71240ca64925e0625ce41c513cbf0603963"
+        "value": "0b764c342c44cd2d0901675f5d14a18f7cef5a955c0fe3696fd88ed992adbdec"
       }
     },
     {
@@ -189,10 +189,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/sidewalks.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 32605433,
+      "byte_size": 33476744,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "a6f8b19df9fae5ce62e6dd0a1f6454ff2c3b34aa42ea5c217a4f4bedd89e527a"
+        "value": "230b53d153d8c59f83dc6be3cab08f8ff231d980cb3c41ce3ee1db42d94b8d93"
       }
     },
     {
@@ -201,10 +201,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/tiles/stairways.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 25672063,
+      "byte_size": 25852680,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7eb0303515f253020e5babf812175b104415bcf262058f80709949ae29a7991e"
+        "value": "bd1eeb318b4951dd2ce4e15c1775aeda573a2adfee689375d7abaadeab9534a7"
       }
     },
     {
@@ -216,7 +216,7 @@
       "byte_size": 1658,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8b040b488e35f9122f6a2cd2c55e935c088c3047da98d69072536abd65af285f"
+        "value": "75aeadc91461bac4bd51501095c12b644d493cda00e674cf0233b2ce79584f3b"
       }
     }
   ],

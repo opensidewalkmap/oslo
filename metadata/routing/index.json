@@ -70,16 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/oslo/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-24T19:48:45+00:00",
+    "updated": "2026-11-26T19:19:36+00:00",
     "node_registry": {
-      "Data Fetching": "2026-10-28T21:21:02Z",
+      "Data Fetching": "2026-11-25T21:22:46Z",
       "Versioning Data": "2026-11-22T17:51:50Z",
-      "Data Pre-Processing": "2026-11-22T17:52:00Z",
-      "Data Quality Tool": "2026-11-22T17:52:19Z",
-      "Completeness Analysis": "2026-11-11T17:30:58Z",
-      "Statistical Charts": "2026-11-22T17:52:28Z",
+      "Data Pre-Processing": "2026-11-26T18:55:38Z",
+      "Data Quality Tool": "2026-11-26T19:12:57Z",
+      "Completeness Analysis": "2026-11-26T19:19:20Z",
+      "Statistical Charts": "2026-11-26T19:19:36Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-24T19:48:45Z",
+      "Pipeline Success": "2026-11-25T18:54:55Z",
       "Wiki check for keys": "2026-11-22T17:57:53Z"
     }
   },
@@ -103,7 +103,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-24T19:48:45+00:00",
+    "generated_at": "2026-11-26T19:19:36+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -119,10 +119,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/routing/metadata.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 3098,
+      "byte_size": 3101,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d80aceaf58511c6c591b2f7f64f98e5fcb1a48733bb32f3f69b247c3fd5fffc0"
+        "value": "6ff48aea76366edcb8697d46f54ee3fc323f240b23a9ca289841b1ad63702ae5"
       }
     },
     {
@@ -131,10 +131,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/routing/network.oswmg.metadata.json",
       "media_type": "application/octet-stream",
       "format": "OSWM Binary Graph",
-      "byte_size": 30846028,
+      "byte_size": 30929048,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c90ebf0e4bc181702b2c5ffcf9f91324bb6e66d9579540f590f3c115be5cd1c7"
+        "value": "e4b9366a8c91e78c3d88af5d90220309407fb230cc34d55da7dad68fe0828292"
       }
     },
     {
@@ -143,10 +143,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/routing/network.parquet.metadata.json",
       "media_type": "application/vnd.apache.parquet",
       "format": "GeoParquet",
-      "byte_size": 9642146,
+      "byte_size": 9686560,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "4d148a05dc8b6e22199231f4c25d201fc9d35d0667bce874efea9f6b20ad8b96"
+        "value": "ab1970a8165a14cc2f18111687537b668bdeb83f58194644a420fb45b12051df"
       }
     },
     {
@@ -155,10 +155,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/routing/network.pmtiles.metadata.json",
       "media_type": "application/vnd.pmtiles",
       "format": "PMTiles",
-      "byte_size": 35936406,
+      "byte_size": 36011481,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "0b7f22de9ec6efddff12e405877a9f1624223dd73d68653355fa94c6d69ad883"
+        "value": "6579d1e3beac099f477dca258b904efdec505e1f6f7505d4ec7a8eae4da517be"
       }
     },
     {
@@ -170,7 +170,7 @@
       "byte_size": 3923,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "5e8bea71a8e425893f8358158c87dc855c979ba4a259ebc7459e9cb65042946f"
+        "value": "9d542a4e631b36f0796c318d048043c1aefd88e834bd6ea96bbe2b146b35783a"
       }
     },
     {
@@ -179,10 +179,10 @@
       "metadata": "https://opensidewalkmap.github.io/oslo/metadata/routing/slope_cache.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 10671075,
+      "byte_size": 10714941,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "d49d6aedfdc3e266fceb5992e5a6504394d72dc517bd896d0185976dbac3492c"
+        "value": "070dae9607c46315b6f9f1e32dc89afd88157d891bde7db7f7460e26a4c93c15"
       }
     },
     {
@@ -194,7 +194,7 @@
       "byte_size": 219,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "901c80758b000bb9db2c3342d82dadcd93dbe18321db9accaaca2d99e26b3da1"
+        "value": "7900750ea461ee620b13915e647b9206a9b565b969f88e487e0e310ae830c816"
       }
     }
   ],

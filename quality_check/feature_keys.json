@@ -45,6 +45,8 @@
         "lanes",
         "tunnel",
         "covered",
+        "piste:grooming",
+        "piste:type",
         "trailblazed",
         "cycleway:surface",
         "footway:surface",
@@ -174,7 +176,6 @@
         "layer",
         "kerb:approach_aid",
         "passenger_information_display",
-        "amenity",
         "kerb:height",
         "flashing_lights",
         "ele",
@@ -182,6 +183,7 @@
         "area",
         "network",
         "landuse",
+        "amenity",
         "url",
         "area:highway",
         "fishing",
@@ -509,6 +511,7 @@
         "narrow",
         "evacuation_route",
         "tidal",
+        "hazard",
         "type"
     ]
 }
