@@ -4,38 +4,38 @@
     <title>OSWM Watcher Changeset Activity - Oslo, Norway</title>
     <link>https://opensidewalkmap.github.io/oslo/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Oslo, Norway.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 18:30:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:13:50 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 192506910 by forteller (6 additions, 9 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192506910</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192506910&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/forteller&quot;&gt;forteller&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Trying to fix all the parks in Oslo, 127: Parken rundt Valle Hovin is-stadion #AlleOslosParker&lt;/p&gt;
+        <title>[Activity] OSM Changeset 192532398 by GSBattleman (2 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192532398</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192532398&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/GSBattleman&quot;&gt;GSBattleman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Add info around Schafteløkken&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;Additions (creations): 6&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 9&lt;/li&gt;
+    &lt;li&gt;Additions (creations): 2&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192506910&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192506910&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192532398&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192532398&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 26 Nov 2026 18:01:18 GMT</pubDate>
-        <guid isPermaLink="false">activity_192506910</guid>
+        <pubDate>Fri, 27 Nov 2026 10:46:01 GMT</pubDate>
+        <guid isPermaLink="false">activity_192532398</guid>
     </item>
     <item>
-        <title>[Activity] OSM Changeset 192511591 by Simtb (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192511591</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192511591&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Simtb&quot;&gt;Simtb&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; strava heatmap&lt;/p&gt;
+        <title>[Activity] OSM Changeset 192544235 by DjShugaA (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192544235</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192544235&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/DjShugaA&quot;&gt;DjShugaA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify path surfaces&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192511591&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192511591&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192544235&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192544235&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 26 Nov 2026 20:18:33 GMT</pubDate>
-        <guid isPermaLink="false">activity_192511591</guid>
+        <pubDate>Fri, 27 Nov 2026 14:56:44 GMT</pubDate>
+        <guid isPermaLink="false">activity_192544235</guid>
     </item>
 </channel>
 </rss>
